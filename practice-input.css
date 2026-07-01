@@ -1,0 +1,45 @@
+.quick-activity-controls {
+  display: grid;
+  grid-template-columns: minmax(74px, 1fr) auto auto;
+  align-items: center;
+  gap: 5px;
+}
+
+.custom-minutes {
+  display: grid;
+  gap: 2px;
+}
+
+.custom-minutes span {
+  font-size: 7px;
+  line-height: 1;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #d8e2e6;
+}
+
+.custom-minutes input {
+  width: 64px;
+  min-height: 38px;
+  border: 1px solid #ffffff55;
+  border-radius: 7px;
+  background: #fffaf1;
+  color: #19333a;
+  padding: 7px 8px;
+  font: 700 15px "DM Sans", sans-serif;
+}
+
+@media (max-width: 600px) {
+  .quick-activity {
+    grid-template-columns: 1fr;
+  }
+
+  .quick-activity-controls {
+    display: grid;
+    grid-template-columns: minmax(74px, 1fr) auto auto;
+  }
+
+  .custom-minutes input {
+    width: 100%;
+  }
+}

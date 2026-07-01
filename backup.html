@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Backup · Komorebi Studio</title>
+  <meta name="description" content="Private device backup tools for Komorebi Studio.">
+  <link rel="stylesheet" href="styles.css?v=17">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#356486">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Komorebi Studio">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/icon-180.png">
+</head>
+<body class="backup-page">
+  <div class="grain"></div>
+  <header class="site-header">
+    <a class="brand" href="index.html"><b>木</b><span><strong>Komorebi</strong><small>PRACTICE STUDIO</small></span><span class="brand-flags"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag%20of%20the%20United%20States.svg?width=180" alt="United States flag" width="42" height="26" decoding="async"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag%20of%20Tennessee.svg?width=180" alt="Tennessee flag" width="42" height="26" decoding="async"></span></a>
+    <nav><a href="index.html">Home</a><a href="japanese.html">Japanese</a><a href="music.html">Music</a><a href="study.html">Study Material</a><a href="pets.html">Pets</a><a href="about.html">About</a><a href="contact.html">Contact</a></nav>
+  </header>
+  <main class="backup-app">
+    <section class="backup-intro">
+      <p class="kicker">— PRIVATE BACKUP</p>
+      <h1>Keep a copy.</h1>
+      <p>Export the words, song links, and channel videos saved in this browser. Nothing is uploaded from this page.</p>
+      <a href="index.html#today">← Back home</a>
+    </section>
+    <section class="backup-tools">
+      <div class="backup-status-card">
+        <small>THIS DEVICE</small>
+        <h2>Your saved data</h2>
+        <div class="backup-counts"><span><b id="backupWordCount">0</b> words</span><span><b id="backupSongCount">0</b> songs</span><span><b id="backupVideoCount">0</b> videos</span></div>
+        <p id="cloudBackupState">Checking signed-in vocabulary…</p>
+      </div>
+      <div class="backup-actions-card">
+        <small>EXPORT</small>
+        <h2>Download a backup</h2>
+        <p>JSON preserves all device-only data. CSV gives you a spreadsheet-friendly vocabulary copy.</p>
+        <div class="backup-buttons"><button id="downloadBackup" type="button">Download full backup</button><button id="shareBackup" type="button" hidden>Share backup</button><button id="downloadVocabCsv" type="button" class="secondary">Vocabulary CSV</button></div>
+      </div>
+      <div class="backup-import-card">
+        <small>RESTORE</small>
+        <h2>Import a backup</h2>
+        <p>This replaces the device-only data in this browser. It does not overwrite signed-in Supabase data.</p>
+        <label class="backup-file">Choose Komorebi backup<input id="backupFile" type="file" accept=".json,application/json"></label>
+        <button id="restoreBackup" type="button" disabled>Restore selected backup</button>
+      </div>
+      <p class="backup-message" id="backupMessage" role="status" aria-live="polite">Ready.</p>
+    </section>
+  </main>
+  <script src="supabase-loader.js?v=16"></script>
+  <script src="supabase-config.js"></script>
+  <script src="backup.js?v=16f"></script>
+  <script src="pwa.js?v=17"></script>
+  <nav class="mobile-app-nav" aria-label="Mobile navigation"><a href="index.html"><b>木</b><span>Home</span></a><a href="music.html"><b>音</b><span>Music</span></a><a href="japanese.html"><b>語</b><span>Japanese</span></a><a href="study.html"><b>習</b><span>Study</span></a><a href="pets.html"><b>友</b><span>Pets</span></a></nav>
+</body>
+</html>
