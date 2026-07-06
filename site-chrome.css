@@ -1,0 +1,271 @@
+:root {
+  --warm-border: #c6ad83;
+  --warm-border-soft: #c6ad8370;
+}
+
+/* Keep every visible outline in the same warm paper-and-wood family. */
+body * {
+  border-color: var(--warm-border-soft);
+}
+
+.calendar-shortcut {
+  position: fixed;
+  z-index: 95;
+  top: max(92px, calc(env(safe-area-inset-top) + 76px));
+  right: max(12px, env(safe-area-inset-right));
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 40px;
+  padding: 9px 12px;
+  border: 1px solid var(--warm-border);
+  border-radius: 999px;
+  background: #ead9bcf2;
+  color: #19333a;
+  text-decoration: none;
+  font: 800 10px "DM Sans", sans-serif;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  box-shadow: 0 6px 18px #19333a20;
+  backdrop-filter: blur(12px);
+  transition: transform .18s ease, background .18s ease;
+}
+
+.calendar-shortcut:hover,
+.calendar-shortcut:focus-visible {
+  background: #f1e3c9;
+  transform: translateY(-2px);
+}
+
+.calendar-shortcut span {
+  font-size: 17px;
+  line-height: 1;
+}
+
+.practice-calendar-page .calendar-shortcut {
+  background: #c6ad83f2;
+}
+
+@media (max-width: 550px) {
+  .calendar-shortcut {
+    top: max(78px, calc(env(safe-area-inset-top) + 66px));
+    min-width: 42px;
+    min-height: 42px;
+    justify-content: center;
+    padding: 8px;
+    font-size: 0;
+  }
+
+  .calendar-shortcut span {
+    font-size: 19px;
+  }
+}
+
+.account-shortcut {
+  position: fixed;
+  z-index: 95;
+  top: max(146px, calc(env(safe-area-inset-top) + 130px));
+  right: max(12px, env(safe-area-inset-right));
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.account-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 1px solid var(--warm-border);
+  border-radius: 999px;
+  background: #ead9bcf2;
+  color: #19333a;
+  font: 800 15px "DM Sans", sans-serif;
+  box-shadow: 0 6px 18px #19333a20;
+  backdrop-filter: blur(12px);
+  cursor: pointer;
+  transition: transform .18s ease, background .18s ease;
+}
+
+.account-toggle:hover,
+.account-toggle:focus-visible {
+  background: #f1e3c9;
+  transform: translateY(-2px);
+}
+
+/* A small thought-bubble popover: two trailing circles connect the panel back to the toggle. */
+.account-panel {
+  position: relative;
+  width: 200px;
+  margin-top: 16px;
+  padding: 14px;
+  border: 1px solid var(--warm-border);
+  border-radius: 20px;
+  background: #fbf3e2f2;
+  box-shadow: 0 10px 24px #19333a26;
+  backdrop-filter: blur(12px);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.account-panel[hidden] {
+  display: none;
+}
+
+.account-panel::before,
+.account-panel::after {
+  content: '';
+  position: absolute;
+  right: 12px;
+  border-radius: 50%;
+  background: #fbf3e2f2;
+  border: 1px solid var(--warm-border-soft);
+  box-shadow: 0 4px 10px #19333a1a;
+}
+
+.account-panel::before {
+  width: 11px;
+  height: 11px;
+  top: -17px;
+}
+
+.account-panel::after {
+  width: 6px;
+  height: 6px;
+  top: -25px;
+  right: 19px;
+}
+
+.account-panel small {
+  font: 700 9px "DM Sans", sans-serif;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: #8a6f4d;
+}
+
+.account-panel form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.account-panel label {
+  font: 700 10px "DM Sans", sans-serif;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: #56504a;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.account-panel input {
+  font: 500 14px "DM Sans", sans-serif;
+  padding: 7px 9px;
+  border: 1px solid var(--warm-border);
+  border-radius: 8px;
+  background: #fffdf8;
+  color: #19333a;
+}
+
+.pw-field {
+  position: relative;
+  display: flex;
+}
+
+.pw-field input {
+  flex: 1;
+  padding-right: 46px;
+}
+
+.pw-field .pw-toggle {
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  padding: 4px 6px;
+  font: 700 9px "DM Sans", sans-serif;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: #8a6f4d;
+  cursor: pointer;
+}
+
+.account-panel button {
+  border: none;
+  border-radius: 8px;
+  padding: 8px 10px;
+  background: #19333a;
+  color: #fbf3e2;
+  font: 700 11px "DM Sans", sans-serif;
+  letter-spacing: .04em;
+  cursor: pointer;
+}
+
+.account-panel button.account-link-button {
+  background: none;
+  color: #8a6f4d;
+  padding: 0;
+  text-decoration: underline;
+  text-align: left;
+  font: 600 10px "DM Sans", sans-serif;
+}
+
+.account-panel button.google-signin {
+  background: #fffdf8;
+  color: #19333a;
+  border: 1px solid var(--warm-border);
+  width: 100%;
+  text-align: center;
+}
+
+.account-panel button.google-signin:hover {
+  background: #f1e3c9;
+}
+
+.account-divider {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font: 700 9px "DM Sans", sans-serif;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #8a6f4d;
+}
+
+.account-divider::before,
+.account-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--warm-border);
+}
+
+.account-email {
+  font: 600 13px "DM Sans", sans-serif;
+  color: #19333a;
+  word-break: break-word;
+  margin: 0;
+}
+
+.account-note {
+  font: 500 11px "DM Sans", sans-serif;
+  color: #56504a;
+  margin: 0;
+}
+
+@media (max-width: 550px) {
+  .account-shortcut {
+    top: max(132px, calc(env(safe-area-inset-top) + 120px));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .calendar-shortcut,
+  .account-toggle { transition: none; }
+}

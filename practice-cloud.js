@@ -42,7 +42,7 @@ window.KomorebiPractice = (() => {
     const cfg = window.KOMOREBI_CONFIG || {}, library = window.supabase || await (window.KOMOREBI_SUPABASE_READY || Promise.resolve(null));
     if (!library || !cfg.supabaseUrl || !cfg.supabasePublishableKey) { setState('offline', 'Saved on this device'); return; }
     try {
-      client = library.createClient(cfg.supabaseUrl, cfg.supabasePublishableKey);
+      client = window.getKomorebiSupabaseClient ? await window.getKomorebiSupabaseClient() : library.createClient(cfg.supabaseUrl, cfg.supabasePublishableKey);
       const sessionResult = await client.auth.getSession(); user = sessionResult.data?.session?.user || null;
       if (!user) { setState('signed-out', 'Sign in from the vocabulary page to sync'); return; }
       if (!navigator.onLine) { setState('offline', 'Offline · showing cached history'); return; }

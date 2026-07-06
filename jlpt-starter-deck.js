@@ -1,0 +1,20 @@
+window.KomorebiStarterPhrases = [
+  ['水を飲みます。','みずを のみます。','I drink water.','水を (object) + 飲みます (action).',[['水を','object'],['飲みます','action']],'N5'],
+  ['駅はどこですか。','えきは どこですか。','Where is the station?','駅は (topic) + どこですか (location question).',[['駅は','topic'],['どこですか','location question']],'N5'],
+  ['毎朝七時に起きます。','まいあさ しちじに おきます。','I wake up at seven every morning.','毎朝 (frequency) + 七時に (time) + 起きます (action).',[['毎朝','frequency'],['七時に','time'],['起きます','action']],'N5'],
+  ['友達と話します。','ともだちと はなします。','I talk with a friend.','友達と (companion) + 話します (action).',[['友達と','companion'],['話します','action']],'N5'],
+  ['この本はおもしろいです。','この ほんは おもしろいです。','This book is interesting.','この本は (topic) + おもしろいです (description).',[['この本は','topic'],['おもしろいです','description']],'N5'],
+  ['明日は学校へ行きません。','あしたは がっこうへ いきません。','I will not go to school tomorrow.','明日は (time/topic) + 学校へ (destination) + 行きません (negative action).',[['明日は','time/topic'],['学校へ','destination'],['行きません','negative action']],'N5'],
+  ['日本に住んでから三年になります。','にほんに すんでから さんねんに なります。','It has been three years since I started living in Japan.','日本に住んでから (starting point) + 三年になります (elapsed time).',[['日本に住んでから','starting point'],['三年になります','elapsed time']],'N4'],
+  ['雨が降っても出かけます。','あめが ふっても でかけます。','Even if it rains, I will go out.','雨が降っても (even if) + 出かけます (action).',[['雨が降っても','even if'],['出かけます','action']],'N4'],
+  ['宿題をしなければなりません。','しゅくだいを しなければ なりません。','I have to do my homework.','宿題を (object) + しなければなりません (obligation).',[['宿題を','object'],['しなければなりません','obligation']],'N4'],
+  ['電車で本を読みながら帰りました。','でんしゃで ほんを よみながら かえりました。','I read a book while going home by train.','電車で (means) + 本を読みながら (simultaneous action) + 帰りました (main action).',[['電車で','means'],['本を読みながら','simultaneous action'],['帰りました','main action']],'N4'],
+  ['先生が説明してくれました。','せんせいが せつめいして くれました。','The teacher explained it for me.','先生が (subject) + 説明してくれました (helpful action).',[['先生が','subject'],['説明してくれました','helpful action']],'N4'],
+  ['旅行の前にホテルを予約しました。','りょこうの まえに ホテルを よやくしました。','I reserved a hotel before the trip.','旅行の前に (before) + ホテルを (object) + 予約しました (action).',[['旅行の前に','before'],['ホテルを','object'],['予約しました','action']],'N4'],
+  ['この曲を聞くたびに故郷を思い出します。','この きょくを きくたびに ふるさとを おもいだします。','Whenever I hear this song, I remember my hometown.','この曲を聞くたびに (whenever) + 故郷を (object) + 思い出します (action).',[['この曲を聞くたびに','whenever'],['故郷を','object'],['思い出します','action']],'N3'],
+  ['日本語が話せるように毎日練習しています。','にほんごが はなせるように まいにち れんしゅうしています。','I practice every day so that I can speak Japanese.','日本語が話せるように (goal) + 毎日 (frequency) + 練習しています (ongoing action).',[['日本語が話せるように','goal'],['毎日','frequency'],['練習しています','ongoing action']],'N3'],
+  ['予定が変更される可能性があります。','よていが へんこうされる かのうせいが あります。','There is a possibility that the schedule will change.','予定が変更される (event) + 可能性があります (possibility).',[['予定が変更される','event'],['可能性があります','possibility']],'N3'],
+  ['説明を読んだ上で申し込んでください。','せつめいを よんだ うえで もうしこんで ください。','Please apply after reading the explanation.','説明を読んだ上で (after doing) + 申し込んでください (request).',[['説明を読んだ上で','after doing'],['申し込んでください','request']],'N3'],
+  ['結果について先生に相談することにしました。','けっかについて せんせいに そうだんする ことに しました。','I decided to consult the teacher about the results.','結果について (topic) + 先生に (person consulted) + 相談することにしました (decision).',[['結果について','topic'],['先生に','person consulted'],['相談することにしました','decision']],'N3'],
+  ['忙しいにもかかわらず彼は手伝ってくれました。','いそがしいにも かかわらず かれは てつだって くれました。','Although he was busy, he helped me.','忙しいにもかかわらず (although) + 彼は (topic) + 手伝ってくれました (helpful action).',[['忙しいにもかかわらず','although'],['彼は','topic'],['手伝ってくれました','helpful action']],'N3']
+];

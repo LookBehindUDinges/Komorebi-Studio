@@ -12,4 +12,12 @@
     document.head.appendChild(script);
     setTimeout(()=>finish(window.supabase),4500);
   });
+  window.getKomorebiSupabaseClient=async function(){
+    if(window.KOMOREBI_SUPABASE_CLIENT)return window.KOMOREBI_SUPABASE_CLIENT;
+    const library=window.supabase||await window.KOMOREBI_SUPABASE_READY;
+    const cfg=window.KOMOREBI_CONFIG||{};
+    if(!library||!cfg.supabaseUrl||!cfg.supabasePublishableKey)return null;
+    window.KOMOREBI_SUPABASE_CLIENT=library.createClient(cfg.supabaseUrl,cfg.supabasePublishableKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true}});
+    return window.KOMOREBI_SUPABASE_CLIENT;
+  };
 })();

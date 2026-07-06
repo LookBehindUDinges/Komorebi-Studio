@@ -65,8 +65,9 @@ function updateCounts() {
 async function cloudVocabulary() {
   try {
     await Promise.race([window.KOMOREBI_SUPABASE_READY || Promise.resolve(false), new Promise(resolve => setTimeout(() => resolve(false), 5000))]);
-    if (!window.supabase || !window.KOMOREBI_SUPABASE) return [];
-    const client = window.supabase.createClient(window.KOMOREBI_SUPABASE.url, window.KOMOREBI_SUPABASE.anonKey);
+    const cfg = window.KOMOREBI_CONFIG || {};
+    if (!window.supabase || !cfg.supabaseUrl || !cfg.supabasePublishableKey) return [];
+    const client = window.getKomorebiSupabaseClient ? await window.getKomorebiSupabaseClient() : window.supabase.createClient(cfg.supabaseUrl, cfg.supabasePublishableKey);
     const { data: sessionData } = await client.auth.getSession();
     if (!sessionData?.session) return [];
     const { data, error } = await client.from('vocabulary').select('*').order('created_at', { ascending: false });

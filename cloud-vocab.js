@@ -7,7 +7,7 @@
     try {
       const library = window.supabase || await (window.KOMOREBI_SUPABASE_READY || Promise.resolve(null));
       if (!library) throw new Error("Supabase library unavailable");
-      const db = library.createClient(cfg.supabaseUrl, cfg.supabasePublishableKey);
+      const db = window.getKomorebiSupabaseClient ? await window.getKomorebiSupabaseClient() : library.createClient(cfg.supabaseUrl, cfg.supabasePublishableKey);
       const sessionResult = await db.auth.getSession();
       const session = sessionResult.data.session;
       if (session) {
