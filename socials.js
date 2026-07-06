@@ -2,9 +2,9 @@
 
 // Fill in each url once the account exists; leave it empty to show as "coming soon."
 const SOCIAL_LINKS = [
-  { name: 'YouTube', handle: '', url: '', icon: '▶', color: '#db5b47' },
-  { name: 'Instagram', handle: '', url: '', icon: '📷', color: '#db5b47' },
-  { name: 'TikTok', handle: '', url: '', icon: '🎵', color: '#19333a' },
+  { name: 'YouTube', handle: 'Ben Ballard Music', url: 'https://www.youtube.com/channel/UCpZ3i0_Ua58VJ5ButiRkslw', icon: '▶', color: '#db5b47' },
+  { name: 'Instagram', handle: '@benballardmusic', url: 'https://www.instagram.com/benballardmusic/', icon: '📷', color: '#db5b47' },
+  { name: 'TikTok', handle: '@benballardmusicofficial', url: 'https://www.tiktok.com/@benballardmusicofficial', icon: '🎵', color: '#19333a' },
 ];
 
 function escapeHtml(value) {
