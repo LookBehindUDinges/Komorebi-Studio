@@ -74,6 +74,11 @@
   margin: 0 0 18px;
 }
 
+.briefing-japanese-title ruby {
+  white-space: nowrap;
+  ruby-align: start;
+}
+
 .briefing-japanese-title ruby rt {
   font-size: 11px;
   color: var(--red);
@@ -88,6 +93,11 @@
 .briefing-japanese {
   font: 22px/2 "Noto Sans JP", sans-serif;
   margin: 0 0 20px;
+}
+
+.briefing-japanese ruby {
+  white-space: nowrap;
+  ruby-align: start;
 }
 
 .briefing-japanese ruby rt {
@@ -137,11 +147,14 @@
   font-weight: 700;
 }
 
-.briefing-vocab dt i {
-  display: block;
-  font-size: 12px;
+.briefing-vocab dt ruby {
+  white-space: nowrap;
+  ruby-align: start;
+}
+
+.briefing-vocab dt ruby rt {
+  font-size: 11px;
   color: var(--red);
-  font-style: normal;
 }
 
 .briefing-vocab dd {

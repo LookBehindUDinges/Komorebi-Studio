@@ -47,7 +47,10 @@ FURIGANA_RULES = """Furigana formatting rules (apply to both japanese_title and 
   Correct example: この天気(てんき)は変(へん)ですね。
   WRONG (never do this): この天気は変ですね(このてんきはへんですね)  <- do not wrap a whole phrase or title in one single reading.
 - Use half-width parentheses ( ) only. Never use full-width （）.
-- Do not add parentheses after katakana, hiragana-only words, numbers, or non-Japanese text (e.g. FIFA, GPT stay unannotated)."""
+- Do not add parentheses after katakana, hiragana-only words, numbers, or non-Japanese text (e.g. FIFA, GPT stay unannotated).
+- Never merge a katakana word's reading into the next kanji word's parentheses.
+  WRONG: トランプ大統領(とらんぷだいとうりょう)  <- トランプ is katakana and must stay unannotated, separate from 大統領's own reading.
+  CORRECT: トランプ大統領(だいとうりょう)"""
 
 PROMPT_TEMPLATE = """You are a bilingual news assistant helping a Japanese-language learner stay current with tech and Japan news.
 
@@ -65,6 +68,10 @@ Given this article, respond with ONLY a JSON object (no other text, no markdown 
 {furigana_rules}
 
 Include 5 to 8 entries in "vocabulary", drawn from words actually used in your japanese_summary.
+Only include words that contain at least one kanji. Never include a word written
+entirely in hiragana or entirely in katakana (e.g. skip words like ミサイル or
+です) — the learner already reads both kana scripts fluently and only needs
+help with kanji readings.
 
 Article title: {title}
 Article description: {description}
@@ -85,12 +92,32 @@ def extract_json(text):
     return json.loads(text[start:end + 1])
 
 
+KANJI_PATTERN = re.compile(r"[一-鿿々]")
+
+
+def filter_vocabulary(vocabulary):
+    # Defensive backstop for prompt drift: drop malformed entries and any
+    # word that's pure kana (redundant furigana the learner doesn't need).
+    cleaned = []
+    for entry in vocabulary:
+        if not isinstance(entry, dict):
+            continue
+        word = (entry.get("word") or "").strip()
+        if not word or not KANJI_PATTERN.search(word):
+            continue
+        cleaned.append(entry)
+    return cleaned
+
+
 def validate_summary(summary):
     for field in ("japanese_title", "english_summary", "japanese_summary", "why_it_matters"):
         if not summary.get(field, "").strip():
             raise ValueError(f"Model response is missing or empty '{field}'")
     if not isinstance(summary.get("vocabulary"), list) or not summary["vocabulary"]:
         raise ValueError("Model response is missing or empty 'vocabulary'")
+    summary["vocabulary"] = filter_vocabulary(summary["vocabulary"])
+    if not summary["vocabulary"]:
+        raise ValueError("No kanji-containing vocabulary survived filtering")
     return summary
 
 

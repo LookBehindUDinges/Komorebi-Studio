@@ -13,9 +13,19 @@ function escapeHtml(value) {
 const KANJI_RANGE = '一-鿿々';
 const HIRAGANA_RANGE = '぀-ゟ';
 const FURIGANA_PATTERN = new RegExp('([' + KANJI_RANGE + ']+)\\(([' + HIRAGANA_RANGE + ']+)\\)', 'g');
+const HAS_KANJI = new RegExp('[' + KANJI_RANGE + ']');
 
 function toRuby(text) {
   return escapeHtml(text).replace(FURIGANA_PATTERN, '<ruby>$1<rt>$2</rt></ruby>');
+}
+
+// Vocabulary words are only worth annotating with a reading if they contain
+// kanji — a learner who already knows kana doesn't need it spelled out again.
+function vocabTerm(word, reading) {
+  if (reading && HAS_KANJI.test(word)) {
+    return '<ruby>' + escapeHtml(word) + '<rt>' + escapeHtml(reading) + '</rt></ruby>';
+  }
+  return escapeHtml(word);
 }
 
 function emptyState(message) {
@@ -23,9 +33,9 @@ function emptyState(message) {
 }
 
 function articleCard(article, index) {
-  const vocabList = article.vocabulary || [];
+  const vocabList = (article.vocabulary || []).filter(v => v && typeof v === 'object' && v.word);
   const vocab = vocabList.map(v =>
-    '<div><dt>' + escapeHtml(v.word) + ' <i>' + escapeHtml(v.reading) + '</i></dt><dd>' + escapeHtml(v.meaning) + '</dd></div>'
+    '<div><dt>' + vocabTerm(v.word, v.reading) + '</dt><dd>' + escapeHtml(v.meaning || '') + '</dd></div>'
   ).join('');
   const titleHtml = article.link
     ? '<a href="' + escapeHtml(article.link) + '" target="_blank" rel="noopener">' + escapeHtml(article.title) + '</a>'

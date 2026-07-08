@@ -445,6 +445,11 @@ h1 {
   border-bottom-left-radius: 6px;
 }
 
+.tutor-msg-body ruby {
+  white-space: nowrap;
+  ruby-align: start;
+}
+
 .tutor-msg-body ruby rt {
   font-size: 11px;
   color: var(--red);
