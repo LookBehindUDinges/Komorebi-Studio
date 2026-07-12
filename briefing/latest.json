@@ -1,0 +1,897 @@
+{
+  "generated_at": "2026-07-12T15:16:05.328856+00:00",
+  "model": "qwen3:14b",
+  "articles": [
+    {
+      "source": "NHK News",
+      "category": "Japan News",
+      "title": "スマホオプション 気づかず10年以上支払いも 相談相次ぐ",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015171821000.html",
+      "published": "Sun, 12 Jul 2026 18:01:12 +0900",
+      "japanese_title": "スマホオプション(スマホオプション) 気づかず10年(じゅうねん)以上(いじょう)支払い(しはらい)も(も) 相談(そうだん)相次ぐ(あいつぐ)",
+      "english_summary": "Consumers in Japan are reporting issues with optional smartphone services that automatically renew, leading to unexpected long-term payments. Some users have been paying for unwanted services for over a decade without realizing it, prompting calls for better contract practices and transparency.",
+      "japanese_summary": "スマートフォン(スマートフォン)を(を)購入(こうにゅう)する(する)際に(際に)勧め(すすめ)られる(られる)オプション(オプション)サービス(サービス)。この(この)オプション(オプション)は(は)「(「)不要(ふよう)な(な)オプション(オプション)を(を)契約(けいやく)し(し)、長年(ちょうねん)に(に)わたって(わたって)支払い(しはらい)が(が)続いて(続いて)いた(いた)」などの(などの)トラブル(とらぶる)の(の)相談(そうだん)が(が)消費生活センター(しょうひせいかつせんたー)に(に)相次いで(あいついで)います(います)。中(なか)には(には)本人(ほんしん)が(が)気づ(き)かない(かない)まま(まま)、10年(じゅうねん)以上(いじょう)支払(しはら)って(って)いた(いた)と(と)み(み)られる(られる)ケース(ケース)も(も)。専門家(せんもんか)は(は)契約(けいやく)の(の)あり方(ありかた)や(や)長期(ちょうき)に(に)わたる(わたる)自動更新(じどうこうしん)の(の)仕組み(しくみ)について(について)、改善(かいぜん)すべき(すべき)だと(だと)指摘(ししょう)します(します)。",
+      "vocabulary": [
+        {
+          "word": "購入",
+          "reading": "こうにゅう",
+          "meaning": "to purchase"
+        },
+        {
+          "word": "勧める",
+          "reading": "すすめる",
+          "meaning": "to recommend"
+        },
+        {
+          "word": "契約",
+          "reading": "けいやく",
+          "meaning": "contract"
+        },
+        {
+          "word": "支払い",
+          "reading": "しはらい",
+          "meaning": "payment"
+        },
+        {
+          "word": "消費生活センター",
+          "reading": "しょうひせいかつせんたー",
+          "meaning": "Consumer Affairs Center"
+        },
+        {
+          "word": "専門家",
+          "reading": "せんもんか",
+          "meaning": "expert"
+        },
+        {
+          "word": "改善",
+          "reading": "かいぜん",
+          "meaning": "improvement"
+        }
+      ],
+      "why_it_matters": "This story highlights a common consumer issue in Japan where automatic renewals on smartphone add-ons can lead to years of unexpected payments, emphasizing the need for better transparency and contract practices."
+    },
+    {
+      "source": "NHK News",
+      "category": "Japan News",
+      "title": "四国梅雨明け 九州や中国は38度超の危険な暑さ 13日も注意を",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174761000.html",
+      "published": "Sun, 12 Jul 2026 20:29:41 +0900",
+      "japanese_title": "四国梅雨明け(しごくういあけ) 九州(きゅうしゅう)や中国(ちゅうごく)は38度(ど)超(こし)の危険(きけん)な暑さ(あつさ) 13日(にち)も注意(ちゅうい)を",
+      "english_summary": "On the 12th, temperatures in Kyushu and the Chugoku region exceeded 38 degrees Celsius, posing a danger of heatstroke. The Japan Meteorological Agency warns of continued extreme heat in western Japan on the 13th and advises precautions. Meanwhile, in northern Japan, heavy rain is expected due to developing rain clouds, with the agency urging caution against landslides and other disasters.",
+      "japanese_summary": "12日(じゅうににち)に、九州(きゅうしゅう)や中国(ちゅうごく)地方(ちほう)では、最高気温(さいこうきおん)が38度(ど)を超(こ)えて、危険(きけん)な暑さ(あつさ)になりました(なったましや)。13日(じゅうさんにち)も、西日本(さいにほん)を中心に、猛烈(もくろつ)な暑さ(あつさ)が続く(つづく)見込み(みこみ)で、熱中症(ねつちゅうしょう)対策(たいさく)を徹底(てってい)してください(すてひどう)。一方(いっぽう)、北日本(ほくにほん)では、断続的(だんぞくてき)に発達(はったつ)した雨雲(あめくも)が流れ込(ながれこ)み、雨量(あめりょう)が多く(おおく)なっている地域(ちいき)があり(ある)、気象庁(きしょうちょう)は、土砂災害(どしゃさいがい)などに警戒(けいがい)するよう呼びかけ(よびかけ)ています(ています)。",
+      "vocabulary": [
+        {
+          "word": "注意",
+          "reading": "ちゅうい",
+          "meaning": "caution, attention"
+        },
+        {
+          "word": "地方",
+          "reading": "ちほう",
+          "meaning": "region, area"
+        },
+        {
+          "word": "最高気温",
+          "reading": "さいこうきおん",
+          "meaning": "highest temperature"
+        },
+        {
+          "word": "超",
+          "reading": "こし",
+          "meaning": "exceed, go beyond"
+        },
+        {
+          "word": "危険",
+          "reading": "きけん",
+          "meaning": "danger, risk"
+        },
+        {
+          "word": "猛烈",
+          "reading": "もくろつ",
+          "meaning": "intense, fierce"
+        },
+        {
+          "word": "対策",
+          "reading": "たいさく",
+          "meaning": "measure, countermeasure"
+        },
+        {
+          "word": "徹底",
+          "reading": "てってい",
+          "meaning": "thoroughly, completely"
+        },
+        {
+          "word": "断続的",
+          "reading": "だんぞくてき",
+          "meaning": "intermittent, sporadic"
+        },
+        {
+          "word": "発達",
+          "reading": "はったつ",
+          "meaning": "development, growth"
+        },
+        {
+          "word": "雨雲",
+          "reading": "あめくも",
+          "meaning": "rain cloud"
+        },
+        {
+          "word": "流れ込む",
+          "reading": "ながれこむ",
+          "meaning": "to flow into, to come into"
+        },
+        {
+          "word": "雨量",
+          "reading": "あめりょう",
+          "meaning": "rainfall, amount of rain"
+        },
+        {
+          "word": "地域",
+          "reading": "ちいき",
+          "meaning": "area, region"
+        },
+        {
+          "word": "警戒",
+          "reading": "けいがい",
+          "meaning": "alert, caution"
+        },
+        {
+          "word": "呼びかける",
+          "reading": "よびかける",
+          "meaning": "to call out, to urge"
+        },
+        {
+          "word": "土砂災害",
+          "reading": "どしゃさいがい",
+          "meaning": "landslide disaster"
+        },
+        {
+          "word": "気象庁",
+          "reading": "きしょうちょう",
+          "meaning": "Japan Meteorological Agency"
+        },
+        {
+          "word": "災害",
+          "reading": "さいがい",
+          "meaning": "disaster, calamity"
+        }
+      ],
+      "why_it_matters": "This story is important because it highlights extreme weather conditions across Japan, emphasizing the need for heatstroke prevention and landslide preparedness."
+    },
+    {
+      "source": "NHK News",
+      "category": "Japan News",
+      "title": "W杯 ベスト4出そろう 世界ランキング上位4チームの争いに",
+      "link": "http://www3.nhk.or.jp/news/html/20260712/k10015174941000.html",
+      "published": "Sun, 12 Jul 2026 14:02:13 +0900",
+      "japanese_title": "W杯(ダブルユービー) ベスト4(べすとふぉー) 出そろう(でそろう)",
+      "english_summary": "The CONCACAF Gold Cup has reached the semifinals stage, with France, Spain, England, and Argentina advancing. These four teams are ranked 1st to 4th in the world, making for a high-level competition.",
+      "japanese_summary": "サッカー(サッカー) W杯(ダブルユービー) は、ベスト4(べすとふぉー) が決(き)まり、準決勝(じゅんけっしょう) に進(すす)むチーム(チーム) が決(き)まりました(きまりました)。準決勝(じゅんけっしょう) に進(すす)んだのは(したのは) フランス(ふらんす)、スペイン(すぺいん)、イングランド(いんぐらんど)、アルゼンチン(あるぜんちん) です(です)。世界(せかい) ランキング(らんきんぐ) 1位(い) から(から) 4位(い) まで(まで) がそろって(がそろって) 勝ち上がり(かちあがり)、ハイレベル(ハイレベル) な(な) 戦い(たたかい) が期待(きたい) されます(されます)。",
+      "vocabulary": [
+        {
+          "word": "準決勝",
+          "reading": "じゅんけっしょう",
+          "meaning": "semifinal"
+        },
+        {
+          "word": "世界",
+          "reading": "せかい",
+          "meaning": "world"
+        },
+        {
+          "word": "勝ち上がり",
+          "reading": "かちあがり",
+          "meaning": "advance"
+        },
+        {
+          "word": "戦い",
+          "reading": "たたかい",
+          "meaning": "battle, competition"
+        },
+        {
+          "word": "期待",
+          "reading": "きたい",
+          "meaning": "expectation"
+        }
+      ],
+      "why_it_matters": "This story is important because the World Cup semifinals feature the top four teams in the world, promising an exciting and high-stakes competition."
+    },
+    {
+      "source": "New York Times",
+      "category": "US News",
+      "title": "Lindsey Graham Was Facing Re-election in November. What Happens Now?",
+      "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html",
+      "published": "Sun, 12 Jul 2026 12:54:01 +0000",
+      "japanese_title": "リンゼイ・グレアム(りんぜい・ぐれあむ)の再選(さいせん)が11月(がつ)に迫(せま)っていた。今後(いまごし)どうなるのか？",
+      "english_summary": "Lindsey Graham, a U.S. Senator from South Carolina, died recently, raising questions about his re-election in November. South Carolina law indicates that his death triggers a special Republican primary election on August 11, and the state's governor can appoint a replacement to complete the remainder of his term until early January.",
+      "japanese_summary": "リンゼイ・グレアム(りんぜい・ぐれあむ)というアメリカの議員(ぎいん)が最近(さいきん)亡(なくな)くなった。彼(かれ)は11月(がつ)に再選(さいせん)を控(ひか)えていた。南カロライナ州(なんかろらいなしゅう)の法律(ほうりつ)によると、彼の死(し)は8月11日(がつじゅういちにち)に特別(とくべつ)な共和党(こうわとう)の選挙(せんきょ)を引き起(ひきおこ)す。また、州(しゅう)の知事(ちじ)は彼の代わり(かわり)に職員(しょくいん)を任命(にんめい)して、任期(にんき)を終(お)わるまで務(つと)めさせることができる。この出来事(できごと)はアメリカの政治(せいじ)に大きな影響(えいきょう)を与(あた)えると考え(かんが)られている。",
+      "vocabulary": [
+        {
+          "word": "議員",
+          "reading": "ぎいん",
+          "meaning": "legislator or member of parliament"
+        },
+        {
+          "word": "再選",
+          "reading": "さいせん",
+          "meaning": "re-election"
+        },
+        {
+          "word": "法律",
+          "reading": "ほうりつ",
+          "meaning": "law or legislation"
+        },
+        {
+          "word": "特別",
+          "reading": "とくべつ",
+          "meaning": "special or particular"
+        },
+        {
+          "word": "任命",
+          "reading": "にんめい",
+          "meaning": "appointment"
+        },
+        {
+          "word": "任期",
+          "reading": "にんき",
+          "meaning": "term of office"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence or impact"
+        },
+        {
+          "word": "職員",
+          "reading": "しょくいん",
+          "meaning": "official or staff member"
+        }
+      ],
+      "why_it_matters": "This story is significant because it highlights the procedural and political implications of a high-profile politician's death on upcoming elections and governance."
+    },
+    {
+      "source": "New York Times",
+      "category": "US News",
+      "title": "World Leaders Remember Senator Lindsey Graham",
+      "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
+      "published": "Sun, 12 Jul 2026 13:12:56 +0000",
+      "japanese_title": "世界的リーダーたちがリンジー・グレアム上院議員を悼(いた)む",
+      "english_summary": "The sudden death of U.S. Senator Lindsey Graham has prompted global leaders to pay tribute, reflecting on his significant and often controversial role in American foreign policy over two decades.",
+      "japanese_summary": "世界的リーダー(せかい的 リーダー)たちが、リンジー・グレアム(リンジー・グレアム)上院議員(じょういんぎいん)を悼(いた)む(いたむ)。グレアム(グレアム)氏(し)は、20年(20年)にわたり米国の外交(がいこう)政策(せいさく)において大きな影響(えいきょう)を及ぼ(およ)したが、その意見(いけん)はしばしば議論(ぎろん)を呼(よ)んでいた。彼(かれ)の急死(きゅうし)は、多くの国(くに)の指導者(しどうしゃ)たちに衝撃(しょうげき)を与(あ)えた。国際社会(こくさいしゃかい)は、彼の貢献(こうけん)と遺産(いさん)を称(たた)えるための行動(こうどう)を開始(かいし)した。今後(こんご)、彼の人生(じんせい)と功績(こうせき)についての議論(ぎろん)が続くと期待(きたい)されている。",
+      "vocabulary": [
+        {
+          "word": "悼む",
+          "reading": "いたむ",
+          "meaning": "to mourn, to grieve"
+        },
+        {
+          "word": "上院議員",
+          "reading": "じょういんぎいん",
+          "meaning": "senator"
+        },
+        {
+          "word": "外交政策",
+          "reading": "がいこうせいさく",
+          "meaning": "foreign policy"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
+        },
+        {
+          "word": "遺産",
+          "reading": "いさん",
+          "meaning": "legacy"
+        },
+        {
+          "word": "称える",
+          "reading": "たたえる",
+          "meaning": "to praise, to commend"
+        },
+        {
+          "word": "行動",
+          "reading": "こうどう",
+          "meaning": "action, measure"
+        },
+        {
+          "word": "功績",
+          "reading": "こうせき",
+          "meaning": "merit, achievement"
+        }
+      ],
+      "why_it_matters": "This story highlights the international impact of a prominent U.S. senator and the global response to his passing, offering insight into diplomatic relations and public figures' legacies."
+    },
+    {
+      "source": "BBC World",
+      "category": "World News",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 06:49:46 GMT",
+      "japanese_title": "米(び)国(こく)が新(しん)たな攻撃(こうげき)を開始(かいし)。イラン(いらん)がホルムズ(ホルムズ)海峡(かきょう)を閉(へ)鎖(さ)。",
+      "english_summary": "The US has launched new strikes in response to an attack on a Cyprus-flagged ship in the Strait of Hormuz, a critical waterway. Iran has closed the Strait of Hormuz, escalating tensions in the region.",
+      "japanese_summary": "米(び)国(こく)が新(しん)たな攻撃(こうげき)を開始(かいし)した。イラン(いらん)はホルムズ(ホルムズ)海峡(かきょう)を閉(へ)鎖(さ)し、緊(きん)張(ちょう)が高(たか)まっている。攻撃(こうげキ)はキプロス(きぷろす)の船(ふね)に起(お)こった。ホルムズ(ホルムズ)海峡(かきょう)は重(じゅう)要(よう)な水(みず)路(ろ)で、船(ふね)の通(つう)過(か)が止(と)まっている。国(くに)際(さい)的な対(たい)話(わ)が必(ひつ)要(よう)と考(かんが)えられている。",
+      "vocabulary": [
+        {
+          "word": "米国",
+          "reading": "びこく",
+          "meaning": "United States"
+        },
+        {
+          "word": "新た",
+          "reading": "しんた",
+          "meaning": "new, fresh"
+        },
+        {
+          "word": "攻撃",
+          "reading": "こうげき",
+          "meaning": "attack, strike"
+        },
+        {
+          "word": "開始",
+          "reading": "かいし",
+          "meaning": "begin, start"
+        },
+        {
+          "word": "海峡",
+          "reading": "かきょう",
+          "meaning": "strait"
+        },
+        {
+          "word": "閉鎖",
+          "reading": "へさ",
+          "meaning": "closure, blockage"
+        },
+        {
+          "word": "緊張",
+          "reading": "きんちょう",
+          "meaning": "tension"
+        },
+        {
+          "word": "重要",
+          "reading": "じゅうよう",
+          "meaning": "important, critical"
+        },
+        {
+          "word": "国際的",
+          "reading": "こくさいてき",
+          "meaning": "international"
+        }
+      ],
+      "why_it_matters": "This story highlights the ongoing tensions between the US and Iran in a strategically important waterway, which could impact global oil trade and security."
+    },
+    {
+      "source": "BBC World",
+      "category": "World News",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 14:18:45 GMT",
+      "japanese_title": "米議員・トランプの仲間グレアム氏が「突然の病気」で死去",
+      "english_summary": "US Senator Lindsey Graham, a close ally of Donald Trump, has died at the age of 71 following a sudden and brief illness. Trump paid tribute to Graham, calling him a 'true American patriot' who will be 'greatly missed'.",
+      "japanese_summary": "米議員(びぎいん)・トランプ(とらんぷ)の仲間(なかま)グレアム(ぐれあむ)氏(し)が「突然(とつじつ)の病気(びょうき)」で死去(しに)した。グレアム氏(し)は南カロライナ(なんかろらいな)州(しゅう)の議員(ぎいん)で、トランプ(とらんぷ)大統領(だいとうりょう)の重要な(じゅうような)仲間(なかま)だった。トランプ(とらんぷ)氏(し)は、グレアム(ぐれあむ)氏(し)を「真の(まの)アメリカ(あめりか)の愛国者(あいこくしゃ)」と称(しょう)え、彼(かれ)が「非常に(ひじょうに)欠かせない(かけせない)存在(そんざい)」であると語(かた)った。グレアム(ぐれあむ)氏(し)の死去(しに)は、アメリカ(あめりか)国内(こくない)の政治(せいじ)に影響(えいきょう)を与(あた)える可能性(かんせい)がある。この出来事(できごと)は、トランプ(とらんぷ)政権(せいけん)とその周囲(しゅうい)の関係(かんけい)についての注目(ちゅうもく)を高(たか)めている。",
+      "vocabulary": [
+        {
+          "word": "議員",
+          "reading": "ぎいん",
+          "meaning": "member of parliament or legislature"
+        },
+        {
+          "word": "仲間",
+          "reading": "なかま",
+          "meaning": "fellow, companion, associate"
+        },
+        {
+          "word": "突然",
+          "reading": "とつじつ",
+          "meaning": "sudden, unexpected"
+        },
+        {
+          "word": "病気",
+          "reading": "びょうき",
+          "meaning": "illness, disease"
+        },
+        {
+          "word": "大統領",
+          "reading": "だいとうりょう",
+          "meaning": "president (of a country)"
+        },
+        {
+          "word": "愛国者",
+          "reading": "あいこくしゃ",
+          "meaning": "patriot"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
+        },
+        {
+          "word": "政権",
+          "reading": "せいけん",
+          "meaning": "government, administration"
+        }
+      ],
+      "why_it_matters": "This story highlights the impact of political figures' deaths on international relations and public sentiment, particularly in the context of the Trump administration and its allies."
+    },
+    {
+      "source": "BBC Business",
+      "category": "Economic News",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 05:00:15 GMT",
+      "japanese_title": "アルディ(あるでぃ)が米国スーパーマーケットと戦(たたか)う、4ドル(ドル)のアーモンドバター(あーもんどばたー)",
+      "english_summary": "Aldi, a German supermarket chain, is expanding its US presence with a $9 billion investment, focusing on urban areas like Manhattan. The company is using its discount model to compete with giants like Walmart, offering products such as $4 almond butter.",
+      "japanese_summary": "アルディ(あるでぃ)は、米国(べいこく)のスーパーマーケットと競(きょう)争(そう)するため、90億ドル(きゅうじゅうおくドル)を投資(とうし)しています。マンハッタン(まんはったん)などの都市部(としぶ)に注目(ちゅうもく)し、割引(わりおう)モデル(もでる)を採用(さいよう)しています。このモデル(もでる)では、アーモンドバター(あーもんどばたー)を4ドル(ドル)で販売(はんばい)しています。ウォルマート(うぉるまーと)などの大手(だいしゅ)企業(きぎょう)と競(きょう)争(そう)しています。アルディ(あるでぃ)は、米国(べいこく)市場(しじょう)で成長(せいちょう)を目指(めざ)しています。",
+      "vocabulary": [
+        {
+          "word": "投資",
+          "reading": "とうし",
+          "meaning": "investment"
+        },
+        {
+          "word": "都市部",
+          "reading": "としぶ",
+          "meaning": "urban area"
+        },
+        {
+          "word": "割引",
+          "reading": "わりおう",
+          "meaning": "discount"
+        },
+        {
+          "word": "採用",
+          "reading": "さいよう",
+          "meaning": "adopt, use"
+        },
+        {
+          "word": "販売",
+          "reading": "はんばい",
+          "meaning": "sale, selling"
+        },
+        {
+          "word": "企業",
+          "reading": "きぎょう",
+          "meaning": "company, enterprise"
+        },
+        {
+          "word": "成長",
+          "reading": "せいちょう",
+          "meaning": "growth"
+        }
+      ],
+      "why_it_matters": "Aldi's strategy highlights how international companies are leveraging discount models to compete in expensive US markets, offering insights into global retail trends."
+    },
+    {
+      "source": "BBC Business",
+      "category": "Economic News",
+      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
+      "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 12:00:16 GMT",
+      "japanese_title": "リーブズ氏(りーぶすし)がBBCに語る(ごる)：バーンハム氏(ばーんはむし)は、最初(さいしょ)から政(まち)を運(はこ)ぶためのしっかりとした計画(けいかく)が必要(ひつよう)だ",
+      "english_summary": "UK Chancellor Rishi Sunak tells BBC presenter Laura Kuenssberg that he will leave a stable economy to the incoming Prime Minister, Keir Starmer. He emphasizes the need for a detailed plan to govern effectively from the outset.",
+      "japanese_summary": "リーブズ(りーぶす)氏(し)は、BBC(びーびーし)のラウラ・クエンスバーグ(くえんすばーぐ)氏(し)に語(ご)った。新(しん)しい首相(しゅしょう)バーンハム(ばーんはむ)氏(し)は、最初(さいしょ)からしっかりとした計画(けいかく)が必要(ひつよう)だという。リーブズ(りーぶす)氏(し)は、安定(あんてい)した経済(けいざい)を次の首相(しゅしょう)に引き渡(わた)すと語(ご)った。彼(かのう)は、政(まち)を運(はこ)ぶためには、詳細(しょうさい)な計画(けいかく)が必(ひつ)要(よう)だと強調(きょうちょう)した。この会(かい)見(けん)は、イギリス(いぎりす)の政(まち)局(きょく)に大きな影響(えいきょう)を与(あた)える可能性(かんせい)がある。",
+      "vocabulary": [
+        {
+          "word": "計画",
+          "reading": "けいかく",
+          "meaning": "plan, scheme"
+        },
+        {
+          "word": "必要",
+          "reading": "ひつよう",
+          "meaning": "necessary, required"
+        },
+        {
+          "word": "安定",
+          "reading": "あんてい",
+          "meaning": "stability, steadiness"
+        },
+        {
+          "word": "経済",
+          "reading": "けいざい",
+          "meaning": "economy"
+        },
+        {
+          "word": "引き渡す",
+          "reading": "ひきわたす",
+          "meaning": "to hand over, transfer"
+        },
+        {
+          "word": "詳細",
+          "reading": "しょうさい",
+          "meaning": "detailed, specific"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
+        },
+        {
+          "word": "政局",
+          "reading": "せききょく",
+          "meaning": "political situation, political climate"
+        }
+      ],
+      "why_it_matters": "This highlights the importance of economic stability and planning in leadership transitions, which is crucial for understanding political and economic dynamics in the UK."
+    },
+    {
+      "source": "BBC Entertainment & Arts",
+      "category": "Music / Entertainment",
+      "title": "'The perfect football song': Why England fans (like Beckham) and players love Wonderwall",
+      "link": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 07:15:40 GMT",
+      "japanese_title": "「完璧なサッカーの曲」：なぜイングランドのファン(ベッカムも)と選手たちは『ワンダーワールド』を愛するのか",
+      "english_summary": "David Beckham joined England fans in singing Oasis's 'Wonderwall' after the team's World Cup victory in Miami. The song has become a beloved anthem for English football supporters, symbolizing unity and celebration.",
+      "japanese_summary": "イングランドのサッカー選手たちは、ワールドカップで勝った後、オアシスの『ワンダーワールド』を歌った。ベッカムも一緒に歌った。この曲は、イングランドのファンにとって特別な存在だ。なぜなら、この曲はチームの勝利を祝うために使われてきたからだ。ファンたちは、この曲を歌うことで、仲間意識を感じることができる。選手たちも、この曲を歌うことで、チームの結束を強めることが期待されている。",
+      "vocabulary": [
+        {
+          "word": "選手",
+          "reading": "せんしゅ",
+          "meaning": "player"
+        },
+        {
+          "word": "勝利",
+          "reading": "しょうり",
+          "meaning": "victory"
+        },
+        {
+          "word": "仲間",
+          "reading": "なかま",
+          "meaning": "comrade, teammate"
+        },
+        {
+          "word": "結束",
+          "reading": "けっそく",
+          "meaning": "solidarity, cohesion"
+        },
+        {
+          "word": "祝う",
+          "reading": "いわう",
+          "meaning": "celebrate"
+        },
+        {
+          "word": "使われる",
+          "reading": "つかわれる",
+          "meaning": "to be used"
+        }
+      ],
+      "why_it_matters": "This story highlights the cultural impact of music in sports, showing how a song can become a unifying symbol for fans and players alike."
+    },
+    {
+      "source": "BBC Entertainment & Arts",
+      "category": "Music / Entertainment",
+      "title": "Tributes paid to TV presenter Dermot Murnaghan",
+      "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 19:29:45 GMT",
+      "japanese_title": "テレビパーソナリティのダーモット・マーニガンさんへの追悼(ついちょう)が行われた",
+      "english_summary": "Tributes have been paid to Dermot Murnaghan, a former BBC, ITV, and Sky News journalist, who passed away after revealing he had stage four prostate cancer. Murnaghan was known for his work in television and journalism.",
+      "japanese_summary": "テレビパーソナリティのダーモット・マーニガンさんへの追悼(ついちょう)が行われた。マーニガンさんは、BBCやITV、Sky Newsなどの記者(こうし)として働(はた)っていた。彼(かれ)は、前(まえ)がんの段(だん)階(かい)で、前立腺(ぜんりつせん)がんを患(わず)っていたことを公(こう)にした。がんの進行(しんこう)により、彼(かれ)は亡(な)くなった。テレビやジャーナリズム(じゃーなりずむ)の分野(ぶんや)で活(かつ)躍(やく)した彼(かれ)は、多くの人(ひと)に影響(えいきょう)を与(あた)えた。",
+      "vocabulary": [
+        {
+          "word": "追悼",
+          "reading": "ついちょう",
+          "meaning": "tribute, commemoration"
+        },
+        {
+          "word": "記者",
+          "reading": "こうし",
+          "meaning": "journalist, reporter"
+        },
+        {
+          "word": "前がん",
+          "reading": "まえばん",
+          "meaning": "advanced stage of cancer"
+        },
+        {
+          "word": "前立腺がん",
+          "reading": "ぜんりつせんがん",
+          "meaning": "prostate cancer"
+        },
+        {
+          "word": "進行",
+          "reading": "しんこう",
+          "meaning": "progression, advancement"
+        },
+        {
+          "word": "活躍",
+          "reading": "かつやく",
+          "meaning": "to excel, to perform well"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
+        },
+        {
+          "word": "分野",
+          "reading": "ぶんや",
+          "meaning": "field, area"
+        }
+      ],
+      "why_it_matters": "This story highlights the impact of a respected journalist and the importance of raising awareness about prostate cancer."
+    },
+    {
+      "source": "BBC Entertainment & Arts",
+      "category": "Music / Entertainment",
+      "title": "Reading Festival applies for main stage music on a fourth day",
+      "link": "https://www.bbc.co.uk/news/articles/cx249p3ndjgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 13:05:45 GMT",
+      "japanese_title": "リーディング音楽祭(れーでぃんぐおんがくさい)がメインステージ(めいんすてじ)の音楽(おんがく)を4日間(よっかかん)で行う(おこなう)申請(しんこう)を提出(ていしゅつ)する",
+      "english_summary": "The Reading Festival has applied to extend its main stage music performances to a fourth day. Traditionally, the event's main stage runs over three days, with Wednesdays and Thursdays serving as warm-up days before the main festival weekend.",
+      "japanese_summary": "リーディング音楽祭(れーでぃんぐおんがくさい)は、メインステージ(めいんすてじ)の音楽(おんがく)を4日間(よっかかん)で行う(おこなう)申請(しんこう)を提出(ていしゅつ)しました。この音楽祭(おんがくさい)では、通常(つうじょう)は水曜日(すいようび)と木曜日(もくようび)が、本番(ほんばん)の週末(しゅうまつ)の前のウォームアップ(うぉーむあっぷ)の日(ひ)として使われ(つかわれ)ています。この申請(しんこう)が許可(きょか)されれば、メインステージ(めいんすてじ)の音楽(おんがく)は1日(1にち)多く(おおく)なる(なる)ことになります。音楽祭(おんがくさい)の運営(うんえい)側(がわ)は、観客(かんきゃく)のニーズ(にーず)に応じ(おうじ)て、イベント(いわんと)の日程(にちてい)を調整(ちょうせい)したいと考え(かんがえ)ています。この変更(へんこう)により(により)、多くの(おおくの)音楽ファン(おんがくはん)が楽し(たのし)むことができる(ことができる)と期待(きたい)されています。",
+      "vocabulary": [
+        {
+          "word": "音楽祭",
+          "reading": "おんがくさい",
+          "meaning": "music festival"
+        },
+        {
+          "word": "申請",
+          "reading": "しんこう",
+          "meaning": "application, request"
+        },
+        {
+          "word": "提出",
+          "reading": "ていしゅつ",
+          "meaning": "to submit, to present"
+        },
+        {
+          "word": "通常",
+          "reading": "つうじょう",
+          "meaning": "normally, usually"
+        },
+        {
+          "word": "許可",
+          "reading": "きょか",
+          "meaning": "permission, approval"
+        },
+        {
+          "word": "運営",
+          "reading": "うんえい",
+          "meaning": "operation, management"
+        },
+        {
+          "word": "調整",
+          "reading": "ちょうせい",
+          "meaning": "adjustment, modification"
+        }
+      ],
+      "why_it_matters": "This story highlights a potential change in the Reading Festival's schedule, which could impact attendance and the experience of music festival-goers."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "McCullum sacked as England Test head coach",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 14:03:13 GMT",
+      "japanese_title": "マクカールム(まっかーるむ)が解任(かいにん)された。イングランド(いんぐらんど)のテスト(てすと)ヘッドコーチ(へっどこーち)としての職(しょく)を辞(の)めた。",
+      "english_summary": "Brendon McCullum has been sacked as England's Test head coach, leaving the team without a head coach and captain. He stepped down after four years in the role.",
+      "japanese_summary": "イングランド(いんぐらんど)のテスト(てすと)ヘッドコーチ(へっどこーち)として働(はた)いていたマクカールム(まっかーるむ)が解任(かいにん)されてしまった。これでイングランド(いんぐらんど)はテスト(てすと)ヘッドコーチ(へっどこーち)とキャプテン(きゃぷてん)の両方(りょうほう)がいなくなってしまった。マクカールム(まっかーるむ)はこの職(しょく)について4年(4ねん)間(かん)務(む)めた。イングランド(いんぐらんど)は今(いま)後(ご)のヘッドコーチ(へっどこーち)を誰(だれ)にするかを決め(きめ)る必要(ひつよう)がある。この出来事(できごと)はイングランド(いんぐらんど)の野球(やきゅう)界(かい)に大きな影響(えいきょう)を与(あ)えるかもしれない。",
+      "vocabulary": [
+        {
+          "word": "解任",
+          "reading": "かいにん",
+          "meaning": "removal from a position"
+        },
+        {
+          "word": "職",
+          "reading": "しょく",
+          "meaning": "position; job"
+        },
+        {
+          "word": "両方",
+          "reading": "りょうほう",
+          "meaning": "both; either"
+        },
+        {
+          "word": "必要",
+          "reading": "ひつよう",
+          "meaning": "necessity; need"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence; effect"
+        },
+        {
+          "word": "与える",
+          "reading": "あたえる",
+          "meaning": "to give; to impart"
+        }
+      ],
+      "why_it_matters": "This story highlights a significant change in England's cricket leadership, which could impact the team's performance and future strategies."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "'Not happy with the performance' - so why do England keep winning?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 12:19:03 GMT",
+      "japanese_title": "イングランド(いんぐらんど)のチーム(チーム)のパフォーマンス(ぱふぉーまんす)に不満(ふまん)がある(ある)のに(のに)、なぜ(なぜ)勝(かっ)つ(つ)ている(ている)のか(のか)",
+      "english_summary": "Despite Thomas Tuchel's criticism of England's performance, the team continues to win matches. Football tactics correspondent Umir Irfan analyzes the reasons behind this surprising success.",
+      "japanese_summary": "イングランド(いんぐらんど)のチーム(チーム)は(は)、トーマス・タクセル(とうます・たっくせる)という(という)指導者(しどうしゃ)が(が)「パフォーマンス(ぱふぉーまんす)が(が)よく(よく)ない(ない)」と(と)言(い)っている(っている)にも(にも)かかわらず(かかわらず)、試合(しあい)で(で)勝(かっ)つ(つ)ています(ています)。この(この)こと(こと)について(について)、フットボール(ふっとボール)の(の)戦術(せんじゅつ)を(を)担当(たんとう)する(する)ウマー・イフラン(うまあー・いふらん)記者(きし)が(が)分析(ぶんせき)しています(しています)。イングランド(いんぐらんど)の(の)チーム(チーム)が(が)なぜ(なぜ)パフォーマンス(ぱふぉーまんす)が(が)よく(よく)ない(ない)にも(にも)かかわらず(かかわらず)勝(かっ)つ(つ)ている(ている)のか(のか)、その(その)理由(りゆう)を(を)考え(かんがえ)ています(ています)。分析(ぶんせき)によると(よると)、チーム(チーム)の(の)戦術(せんじゅつ)や(や)選手(せんしゅ)の(の)動き(うごき)が(が)勝(かっ)つ(つ)ため(ため)の(の)理由(りゆう)の(の)一つ(いちつ)になっている(なっている)ようです(ようです)。",
+      "vocabulary": [
+        {
+          "word": "指導者",
+          "reading": "しどうしゃ",
+          "meaning": "coach, instructor"
+        },
+        {
+          "word": "試合",
+          "reading": "しあい",
+          "meaning": "game, match"
+        },
+        {
+          "word": "戦術",
+          "reading": "せんじゅつ",
+          "meaning": "tactics"
+        },
+        {
+          "word": "担当",
+          "reading": "たんとう",
+          "meaning": "responsible, in charge of"
+        },
+        {
+          "word": "分析",
+          "reading": "ぶんせき",
+          "meaning": "analysis, examination"
+        },
+        {
+          "word": "理由",
+          "reading": "りゆう",
+          "meaning": "reason, cause"
+        }
+      ],
+      "why_it_matters": "This story highlights the complex relationship between team performance and success in football, offering insights into tactical strategies that can lead to victory even when individual play is subpar."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "Rice in bed for nearly three days before Norway game - Tuchel",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 11:15:14 GMT",
+      "japanese_title": "トランプ大統領(だいとうりょう)が訪(おとず)れた日(ひ)に、米国(べいこく)議会(ぎかい)で議員(ぎいん)の議(ぎ)が開(ひら)かれた",
+      "english_summary": "England's football manager Thomas Tuchel revealed that Declan Rice was in bed for nearly three days before the World Cup quarter-final against Norway due to a sickness bug, which affected his availability for the game.",
+      "japanese_summary": "イングランド代表(だいひょう)の監督(かんとう)トーマス・タクセル(たくせる)は、ワールドカップ(わーるどかっぷ)の8強(はちきょう)進出(しんしゅつ)に向け(むか)い、ノルウェー(のるとうえい)との試合(しやかい)で活躍(かつやく)したライス(らいす)選手(せんしゅ)について話(はな)しました。この選手(せんしゅ)は、試合(しやかい)の3日(みっか)前(まえ)から体調(たいちょう)が悪(わる)く、ベッド(べっど)に横(よこ)になり、3日(みっか)間(かん)ほぼ寝(ね)続けたといいます。これは、風邪(かぜ)のような病気(びょうき)が原因(がいイン)だったようです。選手(せんしゅ)はその後(ご)、試合(しやかい)で活躍(かつやく)し、イングランド代表(だいひょう)が勝(か)つことができました。この件(けん)は、BBCスポーツ(びーびーつうがく)が報道(ほうとう)しました。",
+      "vocabulary": [
+        {
+          "word": "代表",
+          "reading": "だいひょう",
+          "meaning": "representative; team"
+        },
+        {
+          "word": "監督",
+          "reading": "かんとう",
+          "meaning": "coach; manager"
+        },
+        {
+          "word": "進出",
+          "reading": "しんしゅつ",
+          "meaning": "advance; progress"
+        },
+        {
+          "word": "活躍",
+          "reading": "かつやく",
+          "meaning": "perform well; excel"
+        },
+        {
+          "word": "体調",
+          "reading": "たいちょう",
+          "meaning": "health condition"
+        },
+        {
+          "word": "原因",
+          "reading": "がいイン",
+          "meaning": "cause; reason"
+        }
+      ],
+      "why_it_matters": "This story highlights the challenges athletes face with illness during major tournaments and how they overcome them to perform at their best."
+    },
+    {
+      "source": "OpenAI News",
+      "category": "Tech",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "japanese_title": "ドイツェル・テレコム(ドイツェル・テレコム)がAI(エーアイ)でテレコミュニケーション(テレコミュニケーション)を再構築(さいこうち)する方法(ほうほう)",
+      "english_summary": "Deutsche Telekom is integrating AI into its telecommunications services, transforming customer service, employee workflows, network operations, and the future of voice. The company is becoming an AI-native telco, leveraging OpenAI's technologies to enhance efficiency and innovation across its operations.",
+      "japanese_summary": "ドイツェル・テレコム(ドイツェル・テレコム)はAI(エーアイ)を活用(かつよう)して、テレコミュニケーション(テレコミュニケーション)サービス(サービス)を変(へん)えていっています。従業員(じゅうぎょういん)の業務(ぎょうむ)フロー(フロー)や、顧客(こきゃく)へのサービス(サービス)、ネットワーク(ネットワーク)の運用(うんよう)にAI(エーアイ)を導入(どうにゅう)しています。これにより、会社(かいしゃ)はAI(エーアイ)ネイティブ(ネイティブ)なテレコム(テレコム)企業(きぎょう)へと進化(しんか)しています。今後(いまごし), 会社(かいしゃ)は音声(おんせい)技術(ぎじゅつ)の未来(みらい)もAI(エーアイ)で変えていく予定(よてい)です。AI(エーアイ)の導入(どうにゅう)により、効率(こうりつ)やイノベーション(イノベーション)が向上(こうじょう)しています。",
+      "vocabulary": [
+        {
+          "word": "活用",
+          "reading": "かつよう",
+          "meaning": "utilization, use"
+        },
+        {
+          "word": "業務フロー",
+          "reading": "ぎょうむフロー",
+          "meaning": "workflow process"
+        },
+        {
+          "word": "導入",
+          "reading": "どうにゅう",
+          "meaning": "implementation, introduction"
+        },
+        {
+          "word": "進化",
+          "reading": "しんか",
+          "meaning": "evolution, development"
+        },
+        {
+          "word": "運用",
+          "reading": "うんよう",
+          "meaning": "operation, management"
+        },
+        {
+          "word": "向上",
+          "reading": "こうじょう",
+          "meaning": "improvement, enhancement"
+        },
+        {
+          "word": "変える",
+          "reading": "かえる",
+          "meaning": "to change, to alter"
+        },
+        {
+          "word": "予定",
+          "reading": "よてい",
+          "meaning": "plan, intention"
+        }
+      ],
+      "why_it_matters": "This story highlights how a major telecommunications company is leveraging AI to transform multiple aspects of its operations, setting a precedent for the industry's future."
+    },
+    {
+      "source": "OpenAI News",
+      "category": "Tech",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://openai.com/index/gpt-5-6",
+      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "japanese_title": "GPT-5.6: ごくろう(ごくろう)が拡(かく)大(だい)するフロンティア(フロンティア)の知(ち)恵(え)",
+      "english_summary": "OpenAI has announced the release of GPT-5.6, a new version of their language model that offers more intelligence per token, stronger performance per dollar, and enhanced capabilities for demanding tasks.",
+      "japanese_summary": "オープンエイ(オープンエイ)は、トークン(とーくん)ごとに多くの知(ち)恵(え)をもたらすGPT-5.6を発(はつ)表(ひょう)しました。このモデル(もでいる)は、ドル(ドル)あたりの性能(せいのう)が強(つよ)くなり、難(なん)しいタスク(タスク)にも対(たい)応(おう)できるようになりましょ。使(つか)い方(ほう)によっては、より多くの機能(きんのう)が使(つか)えます。これにより、ユーザー(ゆーざー)はより効(こう)率(りつ)よく作(さく)業(ぎょう)ができるようになります。この技術(ぎじゅつ)は、人工(こうじょう)知能(ちのう)の進(しん)化(か)に影響(えいきょう)を与(あた)えると予(よ)想(そう)されます。",
+      "vocabulary": [
+        {
+          "word": "拡大",
+          "reading": "かくだい",
+          "meaning": "expansion, enlargement"
+        },
+        {
+          "word": "性能",
+          "reading": "せいのう",
+          "meaning": "performance, capability"
+        },
+        {
+          "word": "対応",
+          "reading": "たいおう",
+          "meaning": "response, correspondence"
+        },
+        {
+          "word": "機能",
+          "reading": "きんのう",
+          "meaning": "function, feature"
+        },
+        {
+          "word": "効率",
+          "reading": "こうりつ",
+          "meaning": "efficiency"
+        },
+        {
+          "word": "人工",
+          "reading": "こうじょう",
+          "meaning": "artificial"
+        },
+        {
+          "word": "進化",
+          "reading": "しんか",
+          "meaning": "evolution, development"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
+        }
+      ],
+      "why_it_matters": "GPT-5.6 represents a significant advancement in AI efficiency and capability, offering users more powerful tools for complex tasks at a lower cost."
+    }
+  ]
+}
