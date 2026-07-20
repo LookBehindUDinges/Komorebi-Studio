@@ -1,228 +1,89 @@
 {
-  "generated_at": "2026-07-18T15:59:06.961134+00:00",
+  "generated_at": "2026-07-20T15:43:45.689494+00:00",
   "model": "qwen3:14b",
   "articles": [
     {
       "source": "NHK News",
       "category": "Japan News",
-      "title": "改正皇室典範成立で養子迎える手続きなど実務的課題検討 政府",
-      "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179731000.html",
-      "published": "Sat, 18 Jul 2026 05:08:24 +0900",
-      "japanese_title": "改正(こうせい)皇室(こうしょく)典範(てんぱん)成立(せいりつ)で養子(ようし)迎(むか)える手続き(てつづき)など実務(じむ)的(てき)課題(かだい)検討(けんとう) 政府(せいふ)",
-      "english_summary": "Following the enactment of the amended Imperial Household Act, the Japanese government plans to discuss practical issues related to procedures for adopting male-line descendants from former imperial families. This includes formalities and challenges in implementing the new regulations.",
-      "japanese_summary": "改正(こうせい)皇室(こうしょく)典範(てんぱん)が成立(せいりつ)したため、政府(せいふ)は養子(ようし)を迎(むか)える手続き(てつづき)や実務(じむ)的(てき)な課題(かだい)について検討(けんとう)を進めています。この法律(ほうりつ)は皇族(こうぞく)の数(かず)を増やそうとするものです。養子(ようし)を迎(むか)える際(さい)の具体的(たいくてき)な手続き(てつづき)や、法律(ほうりつ)が実際にどう運用(ようよう)されるかについて、関係(かんけい)する省庁(しょうちょう)が話し合(はなしあ)いを進めています。また、この法律(ほうりつ)が皇族(こうぞく)の人数(にんすう)を確保(ほしょう)するためのものであるため、養子(ようし)を迎(むか)える際(さい)に必要な書類(しょるい)や条件(じょうけん)についても検討(けんとう)が必要(ひつよう)です。",
+      "title": "小泉防衛相「中国とロシアが日本のEEZで実戦演習」明らかに",
+      "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
+      "published": "Mon, 20 Jul 2026 23:25:25 +0900",
+      "japanese_title": "小泉(こいずみ)防衛(ぼうえい)相(しょう)「中国(ちゅうごく)とロシア(ろしあ)が日本のEEZで実戦(じっせん)演習(えんしゅ)」明らか(あきらか)に",
+      "english_summary": "Japan's Defense Minister Koizumi revealed during a speech in the UK that Chinese and Russian naval vessels are conducting joint naval exercises in Japanese surrounding waters, including within Japan's Exclusive Economic Zone (EEZ), over the weekend. This disclosure highlights growing concerns over regional security and potential military tensions.",
+      "japanese_summary": "小泉(こいずみ)防衛(ぼうえい)相(しょう)は、20日(にじゅうにち)夜(や)にイギリス(いぎりす)で行った講演(こうえん)で、中国(ちゅうごく)とロシア(ろしあ)の海軍(かいぐん)艦艇(かんてい)が日本の周辺(しゅうへん)海域(かいわ)で共同(きょうどう)航行(こうこう)作戦(さくせん)を実施(じっし)していると明らか(あきらか)にしました。両国(りょうこく)は今週末(こんしゅうまつ)にかけて、日本のEEZ＝排他的(はいてき)経済(けいざい)水域(みゃくい)内で実戦(じっせん)演習(えんしゅ)を行(おこな)ったと明らか(あきらか)にしました。この発言(はつげん)は、日本の周辺(しゅうへん)海域(かいわ)での軍事(ぐんじ)活動(かつどう)に対する関心(かんしん)を示(し)しています。今後(こんご)の動向(どうこう)に注目(ちゅうもく)が集(あつ)まっています。このような状況(じょうきょう)は、地域(ちいき)の安全(あんぜん)保障(ぼうじょう)に影響(えいきょう)を与(あた)える可能性(かんせい)があります。",
       "vocabulary": [
         {
-          "word": "改正",
-          "reading": "こうせい",
-          "meaning": "revision; amendment"
+          "word": "防衛",
+          "reading": "ぼうえい",
+          "meaning": "defense"
         },
         {
-          "word": "皇室",
-          "reading": "こうしょく",
-          "meaning": "imperial family"
+          "word": "周辺",
+          "reading": "しゅうへん",
+          "meaning": "surrounding"
         },
         {
-          "word": "典範",
-          "reading": "てんぱん",
-          "meaning": "code; regulation"
+          "word": "海域",
+          "reading": "かいわ",
+          "meaning": "sea area"
         },
         {
-          "word": "成立",
-          "reading": "せいりつ",
-          "meaning": "enactment; establishment"
+          "word": "排他的",
+          "reading": "はいてき",
+          "meaning": "exclusive"
         },
         {
-          "word": "養子",
-          "reading": "ようし",
-          "meaning": "adopter; adopted child"
+          "word": "経済",
+          "reading": "けいざい",
+          "meaning": "economic"
         },
         {
-          "word": "実務",
-          "reading": "じむ",
-          "meaning": "practical; administrative"
+          "word": "水域",
+          "reading": "みゃくい",
+          "meaning": "waters"
         },
         {
-          "word": "課題",
-          "reading": "かだい",
-          "meaning": "issue; problem"
+          "word": "実戦",
+          "reading": "じっせん",
+          "meaning": "actual combat"
         },
         {
-          "word": "検討",
-          "reading": "けんとう",
-          "meaning": "consideration; discussion"
+          "word": "演習",
+          "reading": "えんしゅ",
+          "meaning": "exercise"
         }
       ],
-      "why_it_matters": "This story highlights Japan's efforts to address the declining number of imperial family members through legal reforms, which has significant cultural and political implications."
+      "why_it_matters": "This revelation underscores the increasing military activities by China and Russia near Japan, raising concerns about regional security and potential escalations."
     },
     {
       "source": "New York Times",
       "category": "US News",
-      "title": "Paul Pelosi Charged With Hit-and-Run in Napa Valley Crash",
-      "link": "https://www.nytimes.com/2026/07/17/us/paul-pelosi-napa-valley-crash.html",
-      "published": "Fri, 17 Jul 2026 22:31:57 +0000",
-      "japanese_title": "ポール・ペロシ(ぽーる・ぺろし)がナパバレー(なぱばれー)での衝突(しょうとつ)事故(じこ)で告訴(こしょう)された",
-      "english_summary": "Paul Pelosi, the 86-year-old husband of former U.S. House Speaker Nancy Pelosi, was charged with hit-and-run after a crash involving his vehicle and a parked Tesla near his Napa Valley home. The incident occurred this month.",
-      "japanese_summary": "ポール・ペロシ(ぽーる・ぺろし)は、ナパバレー(なぱばれー)の自宅(じたく)近く(ちかく)で発生(はっせい)した衝突(しょうとつ)事故(じこ)について、告訴(こしょう)された(こしょうされた)。事故(じこ)は今月(こんげつ)に起きた(おきた)。ペロシ(ぺろし)氏(し)は、86歳(さい)で、かつての議長(ぎちょう)ナンシー・ペロシ(なんしー・ぺろし)の夫(おっと)である(である)。彼(かれ)の車(くるま)は、駐車(ちゅうしゃ)中のテスラ(てすら)に衝突(しょうとつ)した(しょうとつした)。事故(じこ)の詳細(しょうけい)はまだ公表(こうひょう)されていない(まだこうひょうされていない)。",
+      "title": "Pentagon Identifies 2 U.S. Soldiers Killed in Jordan",
+      "link": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html",
+      "published": "Mon, 20 Jul 2026 13:23:00 +0000",
+      "japanese_title": "ペンタゴン(ぺんたごん)がヨルダン(よるとん)で死亡(しぼう)した2人の米(み)軍(ぐん)兵(へい)を特定(ていてい)した",
+      "english_summary": "The Pentagon has identified two U.S. soldiers killed in Jordan following an Iranian attack on a U.S. base. Both soldiers were active-duty members of the military.",
+      "japanese_summary": "ペンタゴン(ぺんたごん)は、ヨルダン(よるとん)で死亡(しぼう)した2人の米(み)軍(ぐん)兵(へい)を特定(ていてい)したと発表(はつぴょう)しました。この事故(じこ)は、金曜日(きんようび)にイラン(いらん)が米(み)軍(ぐん)の基地(きち)を攻撃(こうげき)した後(あと)に起きた(おこった)ものです。両者(りょうしゃ)は、現役(げんえき)の軍(ぐん)人(じん)でした。攻撃(こうげき)により、2人の兵(へい)が死亡(しぼう)し、負傷(ふしょう)者(しゃ)も出ています。米(み)国(こく)は、イラン(いらん)に責任(せきにん)を問(と)うことを検討(けんとう)しています。",
       "vocabulary": [
         {
-          "word": "衝突",
-          "reading": "しょうとつ",
-          "meaning": "collision"
+          "word": "特定",
+          "reading": "ていてい",
+          "meaning": "to identify"
+        },
+        {
+          "word": "基地",
+          "reading": "きち",
+          "meaning": "base"
+        },
+        {
+          "word": "現役",
+          "reading": "げんえき",
+          "meaning": "active-duty"
         },
         {
           "word": "事故",
           "reading": "じこ",
-          "meaning": "accident"
-        },
-        {
-          "word": "告訴",
-          "reading": "こしょう",
-          "meaning": "indictment; formal charge"
-        },
-        {
-          "word": "自宅",
-          "reading": "じたく",
-          "meaning": "home; residence"
-        },
-        {
-          "word": "発生",
-          "reading": "はっせい",
-          "meaning": "occurrence; happening"
-        },
-        {
-          "word": "詳細",
-          "reading": "しょうけい",
-          "meaning": "details; specifics"
-        },
-        {
-          "word": "公表",
-          "reading": "こうひょう",
-          "meaning": "disclosure; announcement"
-        },
-        {
-          "word": "議長",
-          "reading": "ぎちょう",
-          "meaning": "speaker; chairman"
-        }
-      ],
-      "why_it_matters": "This case highlights the legal consequences of hit-and-run incidents, even for high-profile individuals, and the ongoing scrutiny of public figures in the media."
-    },
-    {
-      "source": "New York Times",
-      "category": "US News",
-      "title": "Billionaires Prepare $87 Million Ad Campaign to Block California Wealth Tax",
-      "link": "https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html",
-      "published": "Fri, 17 Jul 2026 22:02:03 +0000",
-      "japanese_title": "億万長者(おくまんちょうじゃ)がカリフォルニア(かリフォルニア)の富(たから)税(ぜい)を阻止(そし)するため8700万ドル(まんドル)の広告(こうこく)キャンペーン(せんめん)を準備(じゅんび)中(ちゅう)",
-      "english_summary": "A group of billionaires, including Google co-founder Sergey Brin and other wealthy tech investors, is launching an $87 million advertising campaign to oppose a proposed one-time wealth tax in California. The campaign aims to influence public opinion and prevent the tax from being implemented.",
-      "japanese_summary": "億万長者(おくまんちょうじゃ)と投資家(とうしか)のグループ(ぐるーぷ)が、カリフォルニア(かリフォルニア)州(しゅう)の富(たから)税(ぜい)を阻止(そし)するため、8700万ドル(まんドル)の広告(こうこく)キャンペーン(せんめん)を準備(じゅんび)しています。この税(ぜい)は、州(しゅう)の最も豊か(ゆたか)な人々(ひとびと)に一時的(いちじてき)に課(か)される予定(よてい)です。キャンペーン(せんめん)では、税(ぜい)が実施(じっし)されることで起こる悪影響(あくえいきょう)を人々(ひとびと)に伝えています。億万長者(おくまんちょうじゃ)らは、この税(ぜい)が実施(じっし)されないよう、広告(こうこく)を通じて(つうじて)人々(ひとびと)の意見(いけん)を変えることを目指(めざ)しています。このキャンペーン(せんめん)は、富(たから)税(ぜい)の導入(どうにゅう)を阻止(そし)するために、広範囲(こうはんい)にわたる宣伝(せんでん)活動(かつどう)を含(ふく)んでいます。",
-      "vocabulary": [
-        {
-          "word": "億万長者",
-          "reading": "おくまんちょうじゃ",
-          "meaning": "billionaire"
-        },
-        {
-          "word": "投資家",
-          "reading": "とうしか",
-          "meaning": "investor"
-        },
-        {
-          "word": "州",
-          "reading": "しゅう",
-          "meaning": "state (U.S.)"
-        },
-        {
-          "word": "富税",
-          "reading": "たからぜい",
-          "meaning": "wealth tax"
-        },
-        {
-          "word": "阻止",
-          "reading": "そし",
-          "meaning": "prevent, block"
-        },
-        {
-          "word": "悪影響",
-          "reading": "あくえいきょう",
-          "meaning": "negative impact"
-        },
-        {
-          "word": "宣伝",
-          "reading": "せんでん",
-          "meaning": "promotion, advertisement"
-        }
-      ],
-      "why_it_matters": "This story highlights the growing influence of wealthy individuals in shaping public policy and the potential impact of wealth taxes on economic inequality."
-    },
-    {
-      "source": "New York Times",
-      "category": "US News",
-      "title": "Trump Endorses Graham for Senate, Scrambling South Carolina Primary",
-      "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html",
-      "published": "Fri, 17 Jul 2026 21:50:44 +0000",
-      "japanese_title": "トランプ(とらんぷ)大統領(だいとうりょう)がグレアム(グレアム)議員(ぎいん)を上院(じょういん)議員(ぎいん)に推薦(すいせん)、南カロライナ(なんかろらいな)の主要(しゅよう)選挙(せんきょ)で競争(きょうそう)が激化(げっか)する",
-      "english_summary": "President Donald Trump has endorsed Senator Lindsey Graham's sister, Senator Darline Graham, for the Senate, intensifying the primary race in South Carolina following the sudden death of Lindsey Graham. This move adds a new dynamic to the already crowded field of candidates vying to succeed him.",
-      "japanese_summary": "トランプ(とらんぷ)大統領(だいとうりょう)がグレアム(グレアム)議員(ぎいん)を上院(じょういん)議員(ぎいん)に推薦(すいせん)した。グレアム(グレアム)議員(ぎいん)は、弟(おとうと)のグレアム(グレアム)議員(ぎいん)が突然(とつじょう)亡くなった(なくなった)あと、その議席(ぎせき)を守る(まもる)立場(たちば)にあった。しかし、今(いま)ではトランプ(とらんぷ)大統領(だいとうりょう)の推薦(すいせん)で、南カロライナ(なんかろらいな)の主要(しゅよう)選挙(せんきょ)で競争(きょうそう)が激化(げっか)している。この選挙(せんきょ)では、多くの候補者(こうほうしゃ)が弟(おとうと)の議席(ぎせき)を継ぐ(つぐ)ために立候補(りっこうほ)している。トランプ(とらんぷ)大統領(だいとうりょう)の推薦(すいせん)は、この選挙(せんきょ)の展開(てんかい)に大きな影響(えいきょう)を与える(あたえる)可能性(かんせい)がある。",
-      "vocabulary": [
-        {
-          "word": "推薦",
-          "reading": "すいせん",
-          "meaning": "endorsement or recommendation"
-        },
-        {
-          "word": "議員",
-          "reading": "ぎいん",
-          "meaning": "member of legislature"
-        },
-        {
-          "word": "上院",
-          "reading": "じょういん",
-          "meaning": "senate"
-        },
-        {
-          "word": "議席",
-          "reading": "ぎせき",
-          "meaning": "seat or position in legislature"
-        },
-        {
-          "word": "立場",
-          "reading": "たちば",
-          "meaning": "position or stance"
-        },
-        {
-          "word": "激化",
-          "reading": "げっか",
-          "meaning": "intensify or escalate"
-        },
-        {
-          "word": "候補者",
-          "reading": "こうほうしゃ",
-          "meaning": "candidate"
-        },
-        {
-          "word": "継ぐ",
-          "reading": "つぐ",
-          "meaning": "to succeed or inherit"
-        }
-      ],
-      "why_it_matters": "This story highlights the significant influence of the president in shaping political outcomes and the dynamics of intra-party competition in primary elections."
-    },
-    {
-      "source": "BBC World",
-      "category": "World News",
-      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 18:33:12 GMT",
-      "japanese_title": "米国(べいこく)はイラン(いらん)の主張(しゅちょう)を否定(ひんい)する。最新(さいしん)の攻撃(こうげき)で民間(みんかん)インフラを標的(ひっだい)にしたと主張(しゅちょう)している。",
-      "english_summary": "The US military has denied Iranian claims that its recent strikes targeted civilian infrastructure. The US stated that its attacks aimed to further degrade Iranian military capabilities.",
-      "japanese_summary": "米国(べいこく)は、イラン(いらん)が最新(さいしん)の攻撃(こうげき)で民間(みんかん)インフラを標的(ひっだい)にしたと主張(しゅちょう)していることを否定(ひんい)しています。米国(べいこく)軍(ぐん)は、攻撃(こうげき)の目的(もく的)はイラン(いらん)の軍事(ぐんじ)能力(ねいりょく)をさらに弱体(じゃくたい)にすることだと説明(せつめい)しています。この攻撃(こうげき)は、イラン(いらん)と米国(べいこく)の間(あいだ)の緊張(きんちょう)を高(たか)めています。両(りょう)国(こく)は、今後(こんご)の対話(たいわ)の結果(けっか)が注目(ちゅうもく)されています。",
-      "vocabulary": [
-        {
-          "word": "否定",
-          "reading": "ひんい",
-          "meaning": "to deny"
+          "meaning": "incident"
         },
         {
           "word": "攻撃",
@@ -230,279 +91,212 @@
           "meaning": "attack"
         },
         {
-          "word": "民間",
-          "reading": "みんかん",
-          "meaning": "civilian"
+          "word": "責任",
+          "reading": "せきにん",
+          "meaning": "responsibility"
         },
         {
-          "word": "標的",
-          "reading": "ひっだい",
-          "meaning": "target"
+          "word": "検討",
+          "reading": "けんとう",
+          "meaning": "consideration"
         },
         {
-          "word": "軍事",
-          "reading": "ぐんじ",
-          "meaning": "military"
-        },
-        {
-          "word": "能力",
-          "reading": "ねいりょく",
-          "meaning": "capability"
-        },
-        {
-          "word": "緊張",
-          "reading": "きんちょう",
-          "meaning": "tension"
-        },
-        {
-          "word": "対話",
-          "reading": "たいわ",
-          "meaning": "dialogue"
+          "word": "死亡",
+          "reading": "しぼう",
+          "meaning": "death"
         }
       ],
-      "why_it_matters": "This story highlights the ongoing tensions between the US and Iran, and the potential for further escalation in the region."
+      "why_it_matters": "This incident highlights the ongoing tensions between the U.S. and Iran, and the risks faced by U.S. military personnel in the region."
+    },
+    {
+      "source": "New York Times",
+      "category": "US News",
+      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
+      "link": "https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html",
+      "published": "Mon, 20 Jul 2026 15:11:11 +0000",
+      "japanese_title": "メイン州上院議員候補者トロイ・ジャクソンに関する5つのこと(メインじゅうじょういんぎいんこうほしょとろい・じゃくそんにかんするごつのこと)",
+      "english_summary": "Troy Jackson, a Republican-turned-Democrat, is the leading candidate to replace Graham Platner in Maine's Senate race. Jackson is viewed as policy-aligned with Platner, despite their party differences.",
+      "japanese_summary": "トロイ・ジャクソン(とろい・じゃくそん)さんは、メイン州の上院議員(じょういんぎいん)に立候補(りっこうほ)する予定(よてい)です。彼(かれ)はもともと共和党(こうわとう)でしたが、現在(げんざい)は民主党(みょうしゅとう)に所属(しゅぞく)しています。グレアム・プラッター(ぐれあむ・ぷらッター)氏(し)の代(かわり)に立候補する予定です。プラッター氏とジャクソンさんは政策(せいさく)の面(めん)で近(ちか)い関係(かんけい)にあるとされています。彼(かれ)は、共和党から民主党に転じ(てんじ)た経緯(けいよい)があるため、注目(ちゅうもく)されています。",
+      "vocabulary": [
+        {
+          "word": "立候補",
+          "reading": "りっこうほ",
+          "meaning": "to run for office"
+        },
+        {
+          "word": "所属",
+          "reading": "しゅぞく",
+          "meaning": "affiliation, belonging"
+        },
+        {
+          "word": "予定",
+          "reading": "よてい",
+          "meaning": "plan, intention"
+        },
+        {
+          "word": "政策",
+          "reading": "せいさく",
+          "meaning": "policy"
+        },
+        {
+          "word": "関係",
+          "reading": "かんけい",
+          "meaning": "relationship"
+        },
+        {
+          "word": "注目",
+          "reading": "ちゅうもく",
+          "meanin": "",
+          "meaning": "attention, focus"
+        },
+        {
+          "word": "代",
+          "reading": "かわり",
+          "meaning": "replacement, substitute"
+        }
+      ],
+      "why_it_matters": "This story highlights the political dynamics in Maine and the unique background of a candidate who switched parties, which is relevant to understanding U.S. political landscapes."
     },
     {
       "source": "BBC World",
       "category": "World News",
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 19:04:09 GMT",
-      "japanese_title": "ウクライナの兵士(ひょうし)が国防(こくぼう)大臣(だいじん)の罷免(ひまん)に怒(いかり)っているとBBCに語(く)った",
-      "english_summary": "Protests broke out in Ukraine after the removal of Mykhailo Fedorov as defense minister. Soldiers are criticizing the move, according to BBC reports.",
-      "japanese_summary": "ウクライナの兵士(ひょうし)が国防(こくぼう)大臣(だいじん)の罷免(ひまん)に怒(いかり)っているとBBCに語(く)った。この罷免(ひまん)により、多くの兵士(ひょうし)が不満(ふまん)を感じている。ウクライナでは、罷免(ひまん)の発表(はつぴょう)後(ご)、抗議(こうぎ)行動(どうこう)が起(お)こった。兵士(ひょうし)たちは、国防(こくぼう)大臣(だいじん)の役割(やくがく)が軍隊(ぐんたい)の士気(しき)に影響(えいきょう)を与(あ)えると考え(かんが)っている。この件(けん)は、ウクライナ政府(せいふ)の政策(せいさく)に影響(えいきょう)を与(あ)える可能性(かんせい)がある。",
+      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+      "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 14:14:08 GMT",
+      "japanese_title": "黒海(こくかい)における商船(しょうせん)へのロシア(ろしあ)の攻撃(こうげき)が強化(きょうか)される中、10人が死亡(しょくせい)した",
+      "english_summary": "Ten people were killed in recent Russian attacks on merchant ships in the Black Sea. Local authorities in the Odesa region reported 28 deaths in July alone due to these strikes.",
+      "japanese_summary": "黒海(こくかい)でロシア(ろしあ)が商船(しょうせん)を攻撃(こうげき)している。この攻撃(こうげき)で10人が死亡(しょくせい)した。ウクライナ(うくらいな)のオデーサ(おでーサ)地方(ちほう)の当局(とうきょ)は、7月(がつ)だけで28人が死亡(しょくせい)したと発表(はっぴょう)した。攻撃(こうげき)は7月(がつ)にかけて強化(きょうか)されている。ロシア(ろしあ)はウクライナ(うくらいな)の商船(しょうせん)を攻撃(こうげき)し、国際(こくさい)的な注目(ちゅうもく)を集め(しゅうもく)ている。",
       "vocabulary": [
         {
-          "word": "兵士",
-          "reading": "ひょうし",
-          "meaning": "soldier"
+          "word": "黒海",
+          "reading": "こくかい",
+          "meaning": "Black Sea"
         },
         {
-          "word": "国防大臣",
-          "reading": "こくぼうだいじん",
-          "meaning": "defense minister"
+          "word": "商船",
+          "reading": "しょうせん",
+          "meaning": "merchant ship"
         },
         {
-          "word": "罷免",
-          "reading": "ひまん",
-          "meaning": "removal from position"
+          "word": "攻撃",
+          "reading": "こうげき",
+          "meaning": "attack"
         },
         {
-          "word": "不満",
-          "reading": "ふまん",
-          "meaning": "dissatisfaction"
+          "word": "死亡",
+          "reading": "しょくせい",
+          "meaning": "death"
         },
         {
-          "word": "抗議行動",
-          "reading": "こうぎどうこう",
-          "meaning": "protest action"
+          "word": "地方",
+          "reading": "ちほう",
+          "meaning": "region"
         },
         {
-          "word": "士気",
-          "reading": "しき",
-          "meaning": "morale"
+          "word": "当局",
+          "reading": "とうきょ",
+          "meaning": "authorities"
+        },
+        {
+          "word": "強化",
+          "reading": "きょうか",
+          "meaning": "intensify"
+        },
+        {
+          "word": "国際的",
+          "reading": "こくさいてき",
+          "meaning": "international"
+        }
+      ],
+      "why_it_matters": "This highlights the ongoing conflict in the Black Sea and its impact on international shipping and regional stability."
+    },
+    {
+      "source": "BBC Business",
+      "category": "Economic News",
+      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 10:12:36 GMT",
+      "japanese_title": "ライアンエアー(ライアンエアー)の利益(えりい)が下が(さが)る　イラン(いらん)戦争(せんそう)で乗客(じょうきゃく)が減(へ)り、燃料(ねんりょう)費用(ようひ)が増(ふ)える",
+      "english_summary": "Ryanair's profits have decreased due to the Iran war, which has deterred passengers and increased fuel costs. The Irish airline noted that rising oil prices have added to the financial pressure, with Brent crude surpassing $90.",
+      "japanese_summary": "ライアンエアー(ライアンエアー)の利益(えりい)は、イラン(いらん)戦争(せんそう)の影響(えいきょう)で減(へ)っている。乗客(じょうきゃく)が少(すく)なくなって、燃料(ねんりょう)の費用(ようひ)が高(たか)くなっているからだ。この影響(えいきょう)は、イラン(いらん)とシリア(しりあ)などとの戦争(せんそう)が続(つづ)いているため、ヨーロッパ(よーろっぱ)とアジア(アジア)の間(あいだ)の飛行(ひこう)が危(あや)ういと人々(ひとびと)が思(おも)っているからだ。また、燃料(ねんりょう)の価格(かかく)は、ブルネン(ブルネン)原油(ゆんゆ)が90ドル(ドル)を越(こ)えたことでも高(たか)くなっている。この状況(じょうきょう)で、ライアンエアー(ライアンエアー)は飛行(ひこう)を減(へ)らしたり、料金(りょうきん)を高(たか)めたりする選択(せんたく)をしなければならないかもしれない。",
+      "vocabulary": [
+        {
+          "word": "利益",
+          "reading": "えりい",
+          "meaning": "profit"
         },
         {
           "word": "影響",
           "reading": "えいきょう",
-          "meaning": "influence; effect"
+          "meaning": "influence, effect"
         },
         {
-          "word": "政策",
-          "reading": "せいさく",
-          "meaning": "policy"
-        }
-      ],
-      "why_it_matters": "This story highlights the internal tensions within Ukraine's military and government, which could affect the country's ongoing conflict with Russia."
-    },
-    {
-      "source": "BBC World",
-      "category": "World News",
-      "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 21:14:02 GMT",
-      "japanese_title": "トランプ大統領(だいとうりょう)がカナダ(かなだ)に煙(けむし)を理由(ゆうり)に関税(かんぜい)を課(か)すと威嚇(いこく)する",
-      "english_summary": "US President Donald Trump has threatened to impose tariffs on Canada due to wildfire smoke affecting northern US cities. Canadian Prime Minister Mark Carney emphasized shared responsibility between the US and Canada in addressing climate change, which experts link to worsening wildfire conditions.",
-      "japanese_summary": "トランプ大統領(だいとうりょう)は、カナダ(かなだ)の山火事(やくかじ)による煙(けむし)が米国(べいこく)の北(きた)部(ぶ)の都市(とし)に悪影響(あくえいきょう)を及ぼ(およ)していることを理由(ゆうり)に、関税(かんぜい)を課(か)すと威嚇(いこく)しています。カナダ(かなだ)のマーカン(マーかん)首相(しゅしょう)は、米国(べいこく)とカナダ(かなだ)が気候変動(きこうへんどう)を防(ぼう)ぐために同等(とうとう)の責任(せきにん)があると述べ(のべ)ました。専門家(せんもんか)は、気候変動(きこうへんどう)が山火事(やくかじ)の状況(じょうきょう)を悪化(あっか)させていると指摘(してつ)しています。この問題(もんだい)は、国際(こくさい)関係(かんけい)や環境(かいわ)問題(もんだい)に影響(えいきょう)を与(あた)えるため、注目(ちゅうもく)されています。",
-      "vocabulary": [
-        {
-          "word": "威嚇",
-          "reading": "いこく",
-          "meaning": "threaten"
+          "word": "乗客",
+          "reading": "じょうきゃく",
+          "meaning": "passenger"
         },
         {
-          "word": "関税",
-          "reading": "かんぜい",
-          "meaning": "tariff"
+          "word": "燃料",
+          "reading": "ねんりょう",
+          "meaning": "fuel"
         },
         {
-          "word": "悪影響",
-          "reading": "あくえいきょう",
-          "meaning": "adverse effect"
+          "word": "費用",
+          "reading": "ようひ",
+          "meaning": "cost, expense"
         },
         {
-          "word": "同等",
-          "reading": "とうとう",
-          "meaning": "equal"
+          "word": "戦争",
+          "reading": "せんそう",
+          "meaning": "war"
         },
         {
-          "word": "責任",
-          "reading": "せきにん",
-          "meaning": "responsibility"
-        },
-        {
-          "word": "気候変動",
-          "reading": "きこうへんどう",
-          "meaning": "climate change"
+          "word": "価格",
+          "reading": "かかく",
+          "meaning": "price"
         },
         {
           "word": "状況",
           "reading": "じょうきょう",
-          "meaning": "situation"
-        },
-        {
-          "word": "悪化",
-          "reading": "あっか",
-          "meaning": "worsen"
+          "meaning": "situation, condition"
         }
       ],
-      "why_it_matters": "This story highlights the complex interplay between international relations, environmental policy, and the tangible impacts of climate change on both countries."
+      "why_it_matters": "This story highlights the economic impacts of geopolitical conflicts on global industries, specifically how war and oil prices affect airline profitability."
     },
     {
       "source": "BBC Business",
       "category": "Economic News",
-      "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-      "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Jul 2026 01:14:53 GMT",
-      "japanese_title": "ガズアンダリング(がずあんどあるิง)とその回避(ひかい)方法(ほうほう): 交換(こうかん)の前日(まえじつ)に購入(こうにゅう)者が(が)提示(ていし)価格(かかく)を15,000ポンド(ぽんどの)引き下げ(ひきさげ)た事例(じりょう)",
-      "english_summary": "A UK homebuyer reduced their offer by £15,000 the day before the exchange, highlighting the issue of gazumping. The article explains how to avoid this practice in the property market.",
-      "japanese_summary": "この記事(このきじ)は、不動産(ふどうさん)取引(とりひき)において(において)よくある「ガズアンダリング(がずあんどあるิง)」の問題(もんだい)について(について)説明(せつめい)しています(しています)。ガズアンダリング(がずあんどあるิง)とは(とは)、売買(ばいばい)の交換(こうかん)日(にち)の前日(まえじつ)に、購入(こうにゅう)者が(が)提示(ていし)した価格(かかく)を下げ(さげ)て、売主(ばいしゅ)に不利(ふり)になる行為(こうい)のことを(ことを)いいます(いいます)。この問題(もんだい)は(は)英国(えいこく)で(で)少(すこ)しずつですが(ますが)増加(ぞうか)して(して)おり(おり)、購入(こうにゅう)者が(が)注意(ちゅうい)する必要があります(必要があります)。その対策(たいさく)として(として)、購入(こうにゅう)者は(は)契約(けいやく)前(まえ)に(に)不動産(ふどうさん)業者(ぎょうしゃ)と(と)しっかり(しっかり)話し合い(はなしあい)を行い(おこない)、書面(しょめん)で(で)条件(じょうけん)を確認(かくにん)することが(ことが)重要(じょうよ)です(です)。また(また)、売主(ばいしゅ)は(は)複数(ふくすう)の購入(こうにゅう)者(しゃ)を(を)考慮(かんがえ)し(し)、早期(そうき)に(に)契約(けいやく)を(を)締結(ていけつ)することが(ことが)有効(ゆうこう)です(です)。",
+      "title": "Jobs, borrowing and taxes: Andy Burnham's economic challenges",
+      "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 09:03:48 GMT",
+      "japanese_title": "ジョブス(じょぶす), 借入金(しゃくにゅうきん)と税金(ぜいきん): アンディ・バーンハム(あんでぃ・ばーんはむ)の経済(けいざい)的(てき)な課題(かだい)",
+      "english_summary": "Andy Burnham, the incoming leader of the UK, faces significant economic challenges including job creation, managing public borrowing, and tax policies. Despite a change in leadership, the country's financial issues remain largely unchanged.",
+      "japanese_summary": "アンディ・バーンハム(あんでぃ・ばーんはむ)は、イギリス(いぎりす)の新しいリーダー(しんしゅうのりーだー)になる予定(よてい)です。しかし(しかし)、彼(かれ)は仕事(しごと)の機会(きかい)を増やすことや、国の借入金(しゃくにゅうきん)を管理(かんり)すること、税金(ぜいきん)の政策(せいさく)を決めることが課題(かだい)です。前のリーダー(前のりーだー)がいたときと同様(どうよう)に、国の経済(けいざい)の問題(もんだい)は変わっていません。バーンハム(ばーんはむ)は、これらの課題(かだい)をどう解決(かいけつ)するかが重要(じゅうよう)です。イギリス(いぎりす)の将来(しょうらい)に大きな影響(えいきょう)を与える(あたえる)かもしれません。",
       "vocabulary": [
-        {
-          "word": "交換",
-          "reading": "こうかん",
-          "meaning": "exchange (of contracts)"
-        },
-        {
-          "word": "提示",
-          "reading": "ていし",
-          "meaning": "to present or state"
-        },
-        {
-          "word": "引き下げ",
-          "reading": "ひきさげ",
-          "meaning": "to lower or reduce"
-        },
-        {
-          "word": "不動産",
-          "reading": "ふどうさん",
-          "meaning": "real estate or property"
-        },
-        {
-          "word": "業者",
-          "reading": "ぎょうしゃ",
-          "meaning": "professional or business person"
-        },
-        {
-          "word": "書面",
-          "reading": "しょめん",
-          "meaning": "written document"
-        },
-        {
-          "word": "確認",
-          "reading": "かくにん",
-          "meaning": "confirmation or verification"
-        }
-      ],
-      "why_it_matters": "This story is important as it highlights a growing issue in the property market and provides practical advice to protect buyers and sellers from gazumping."
-    },
-    {
-      "source": "BBC Business",
-      "category": "Economic News",
-      "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-      "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 05:00:08 GMT",
-      "japanese_title": "バーンハムの「マンチェスター主義(まんちぇすたーしゅぎ)」が彼をNo 10に導(みちび)いたが、イギリス全体(ぜんたい)でうまくいくか？",
-      "english_summary": "The article discusses whether Burnham's 'Manchesterism' policy, which contributed to his rise to the UK's No. 10 position, can be effectively applied nationwide. Economics editor Faisal Islam analyzes if the north-west city of Manchester can serve as a model for the entire country.",
-      "japanese_summary": "バーンハムの「マンチェスター主義(まんちぇすたーしゅぎ)」は、彼をイギリスのNo 10に導(みちび)いたが、イギリス全体(ぜんたい)でうまくいくのかが問(と)題(だい)になっている。この記事では、経済(けいざい)編集長(ひんしゅうちょう)のファイサル・イスラムが、マンチェスターという北西部(ほくせいぶ)の都市(とし)がイギリス全体(ぜんたい)のモデル(もくてき)になるかどうかを分析(ぶんせき)している。マンチェスター主義(まんちぇすたーしゅぎ)は、地域(ちいき)ごとの経済(けいざい)発展(はつたん)を促進(そしん)する政策(せいさく)で、イギリス全体(ぜんたい)に適用(てきよう)できるかどうかが注目(ちゅうもく)されている。この政策(せいさく)が成功(せいこう)すれば、他の都市(とし)にも広(ひろ)がる可能性(かんせい)がある。しかし、イギリス全体(ぜんたい)の状況(じょうきょう)とマンチェスターの状況(じょうきょう)は異なる(ことなる)ため、課題(かだい)もある。",
-      "vocabulary": [
-        {
-          "word": "導(みちび)",
-          "reading": "みちび",
-          "meaning": "to lead, to guide"
-        },
-        {
-          "word": "全体(ぜんたい)",
-          "reading": "ぜんたい",
-          "meaning": "entirety, whole"
-        },
-        {
-          "word": "分析(ぶんせき)",
-          "reading": "ぶんせき",
-          "meaning": "analysis"
-        },
-        {
-          "word": "北西部(ほくせいぶ)",
-          "reading": "ほくせいぶ",
-          "meaning": "north-west"
-        },
-        {
-          "word": "促進(そしん)",
-          "reading": "そしん",
-          "meaning": "promote, encourage"
-        },
-        {
-          "word": "適用(てきよう)",
-          "reading": "てきよう",
-          "meaning": "application, implementation"
-        },
-        {
-          "word": "注目(ちゅうもく)",
-          "reading": "ちゅうもく",
-          "meaning": "attention, focus"
-        }
-      ],
-      "why_it_matters": "This story is significant as it explores the potential scalability of a successful local policy to a national level, which has implications for governance and economic strategy in the UK."
-    },
-    {
-      "source": "BBC Business",
-      "category": "Economic News",
-      "title": "Five headaches Andy Burnham will have to deal with as PM",
-      "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 05:59:36 GMT",
-      "japanese_title": "次期英国首相が直面する5つの課題(かっが)について",
-      "english_summary": "The article discusses the five major challenges that the next UK Prime Minister, Andy Burnham, will face, including defense spending and housing issues. These challenges highlight the complexities of leading the UK in the current global and domestic context.",
-      "japanese_summary": "次期英国首相(しょうし)のアンディ・バーンハム(Andy Burnham)は、防衛(ぼうえい)費(ひ)の増加(ぞうか)や住宅(じゅうたく)問題(もんだい)など、5つの課題(かっが)に直面(ちょくめい)しなければならない(ならない)。この中(なか)には、経済(けいざい)や教育(きょういく)、医療(いりょう)の問題(もんだい)も含まれ(こむ)ている(ている)。彼(かれ)は、これらの課題(かっが)を解決(かいけつ)する(する)ために、慎重(しゅんせい)な判断(はんだん)をしなければならない(ならない)。また、国際(こくさい)情勢(じょうせい)や国内(こくない)の不満(ふまん)を考慮(こうりょ)しながら、政策(せいさく)を立案(りゃくい)する(する)必要(ひつよう)がある(ある)。このように、次期首相(しゅしょう)には、多くの責任(せきにん)が伴(とも)う(まう)。",
-      "vocabulary": [
-        {
-          "word": "首相",
-          "reading": "しゅしょう",
-          "meaning": "prime minister"
-        },
         {
           "word": "課題",
-          "reading": "かっが",
-          "meaning": "challenge, issue"
+          "reading": "かだい",
+          "meaning": "challenge or issue"
         },
         {
-          "word": "防衛費",
-          "reading": "ぼうえいひ",
-          "meaning": "defense spending"
+          "word": "経済的",
+          "reading": "けいざいてき",
+          "meaning": "economic"
         },
         {
-          "word": "住宅",
-          "reading": "じゅうたく",
-          "meaning": "housing, residence"
+          "word": "借入金",
+          "reading": "しゃくにゅうきん",
+          "meaning": "borrowing or loans"
         },
         {
-          "word": "経済",
-          "reading": "けいざい",
-          "meaning": "economy"
+          "word": "税金",
+          "reading": "ぜいきん",
+          "meaning": "taxes"
         },
         {
-          "word": "慎重",
-          "reading": "しゅんせい",
-          "meaning": "careful, cautious"
+          "word": "管理",
+          "reading": "かんり",
+          "meaning": "management or control"
         },
         {
           "word": "政策",
@@ -510,239 +304,219 @@
           "meaning": "policy"
         },
         {
-          "word": "責任",
-          "reading": "せきにん",
-          "meaning": "responsibility"
+          "word": "解決",
+          "reading": "かいけつ",
+          "meaning": "resolution or solving"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence or effect"
         }
       ],
-      "why_it_matters": "This article is worth knowing about because it highlights the critical challenges facing the next UK leader, offering insight into the complexities of governance and policy-making in a global context."
+      "why_it_matters": "Understanding the economic challenges faced by new leaders helps learners grasp the complexities of governance and fiscal policy in the UK."
     },
     {
       "source": "BBC Entertainment & Arts",
       "category": "Music / Entertainment",
-      "title": "Gracie Abrams captures pain of early adulthood in new album - but you're left wanting more",
-      "link": "https://www.bbc.co.uk/news/articles/c20y0we8nz1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Jul 2026 00:33:47 GMT",
-      "japanese_title": "グラシーアブラムズ(グラシーアブラムズ)の新アルバム(しんあるばむ)は若年成人(じゃっねんせいせい)の苦悩(このう)を表現(ひょうげん)するが、生産性(せいさんせい)が控えめ(ひかえめ)で物足りない(ものたうりない)",
-      "english_summary": "Gracie Abrams' third album explores the pain of early adulthood with sharp, witty lyrics, but its muted production leaves listeners wanting more. The singer's incisive storytelling is overshadowed by a lackluster musical arrangement.",
-      "japanese_summary": "グラシーアブラムズ(グラシーアブラムズ)の新アルバム(しんあるばむ)は、若年成人(じゃっねんせいせい)の苦悩(このう)や感情(かんじょう)を表現(ひょうげん)しています。このアルバム(あるばむ)には、鋭い(えい)言葉(ことば)やユーモア(ゆうもあ)が使(つか)われていて、聴(き)く人に深い(ふか)い感動(かんどう)を与え(あた)えます。しかし(しかし)、音楽(おんがく)の生産性(せいさんせい)やプロダクション(ぷろだくしょん)が控えめ(ひかえめ)なので、物足りなさ(ものたうりなさ)を感じ(かんじ)る人もいます。アーティスト(あーてぃすと)の表現(ひょうげん)力(りょく)は高く評価(ひょうか)されていますが、音楽(おんがく)の質(しつ)がもう少し高(たか)くても良い(よい)かもしれません。このアルバム(あるばむ)は若者(わかもの)の心(こころ)に響(ひび)く内容(ないよう)で、多くの(おおなる)聴(き)き手(ちょう)に感銘(かんぼう)を与え(あた)える可能性(かんせい)があります。",
+      "title": "Maternity scandal to be dramatised in new series",
+      "link": "https://www.bbc.co.uk/news/articles/cj9djljr43lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 05:09:05 GMT",
+      "japanese_title": "出産(しゅっさん)スキャンダル(すかんだーる)が新(しん)シリーズ(しりーず)でドラマ(ドラマ)化(か)される",
+      "english_summary": "A new drama series will depict a maternity scandal involving Sarah and Jack Hawkins, who were among the first to report the issue. The story will explore the events that led to the scandal and its impact on the individuals involved.",
+      "japanese_summary": "このドラマ(ドラマ)は、出産(しゅっさん)スキャンダル(すかんだーる)をテーマ(てま)にしています。サラ(サラ)とジャック・ハワキンズ(ジャック・ハワキンズ)という人物(じんぶつ)が、最初(さいしょ)に問題(もんだい)を告発(こっぱつ)した人物(じんぶつ)です。ドラマ(ドラマ)では、スキャンダル(すかんだーる)が起(お)こった理由(りゆう)や、その影響(えいきょう)が描(えが)かれます。この物語(ものがたり)は、実際(じっさい)の出来事(できごと)を基(もと)にしています。視聴者(しちょうしゃ)は、ドラマ(ドラマ)を通して、その出来事(できごと)についてもっと理解(りかい)できるようになります。",
       "vocabulary": [
         {
-          "word": "若年成人",
-          "reading": "じゃっねんせいせい",
-          "meaning": "young adult"
+          "word": "出産",
+          "reading": "しゅっさん",
+          "meaning": "childbirth"
         },
         {
-          "word": "苦悩",
-          "reading": "このう",
-          "meaning": "suffering, anguish"
+          "word": "人物",
+          "reading": "じんぶつ",
+          "meaning": "person, individual"
         },
         {
-          "word": "表現",
-          "reading": "ひょうげん",
-          "meaning": "expression, portrayal"
+          "word": "告発",
+          "reading": "こっぱつ",
+          "meaning": "expose, report"
         },
         {
-          "word": "生産性",
-          "reading": "せいさんせい",
-          "meaning": "productivity, output"
+          "word": "理由",
+          "reading": "りゆう",
+          "meaning": "reason, cause"
         },
         {
-          "word": "控えめ",
-          "reading": "ひかえめ",
-          "meaning": "modest, restrained"
-        },
-        {
-          "word": "物足りなさ",
-          "reading": "ものたうりなさ",
-          "meaning": "insufficiency, lack"
-        },
-        {
-          "word": "鋭い",
-          "reading": "えい",
-          "meaning": "sharp, incisive"
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "impact, effect"
         }
       ],
-      "why_it_matters": "This story highlights the challenges of balancing lyrical depth with musical production in modern album creation, offering insights into artistic priorities in the music industry."
-    },
-    {
-      "source": "BBC Entertainment & Arts",
-      "category": "Music / Entertainment",
-      "title": "16 World Cup viral moments - from Posh Spice's nonchalance to Haaland's bromance",
-      "link": "https://www.bbc.co.uk/news/articles/cdr4rrzypymo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 23:40:03 GMT",
-      "japanese_title": "16試合(しかい)のワールドカップ(わーるどかっぷ)のウイルス(ういるす)の瞬間(しゅんかん) - Posh Spiceの無関心(むかんしん)からHaalandの兄弟(きょうだい)の友情(ゆいじょう)まで",
-      "english_summary": "This article highlights 16 memorable moments from the 2026 World Cup that went viral online, including Posh Spice's nonchalance and Haaland's bromance. These moments captured global attention and became cultural touchpoints.",
-      "japanese_summary": "この記事(きじ)では、2026年のワールドカップ(わーるどかっぷ)で話題(わだい)になった16の瞬間(しゅんかん)を紹介(しょうかい)しています。ポジ・スパイス(ぽじ・すぱいす)の無関心(むかんしん)や、ハラルド(はらると)の兄弟(きょうだい)の友情(ゆいじょう)など、インターネット(いんたーねっと)で大きな話題(わだい)となった場面(ばめん)が含まれています。多くの人がこの瞬間(しゅんかん)を楽し(たのし)んでおり、世界(せかい)中(じゅう)で注目(ちゅうもく)されています。この記事(きじ)は、サッカー(サッカー)ファン(はん)だけでなく、多くの人々(ひとびと)に楽し(たのし)みをもたらしています。また、これらの瞬間(しゅんかん)は、SNS(えすえぬえす)やテレビ(てれび)などで広く紹介(しょうかい)されており、多くの人が関心(かんしん)を持っています。",
-      "vocabulary": [
-        {
-          "word": "瞬間",
-          "reading": "しゅんかん",
-          "meaning": "moment"
-        },
-        {
-          "word": "無関心",
-          "reading": "むかんしん",
-          "meaning": "indifference"
-        },
-        {
-          "word": "兄弟",
-          "reading": "きょうだい",
-          "meaning": "siblings"
-        },
-        {
-          "word": "友情",
-          "reading": "ゆいじょう",
-          "meaning": "friendship"
-        },
-        {
-          "word": "紹介",
-          "reading": "しょうかい",
-          "meaning": "introduction, presentation"
-        },
-        {
-          "word": "注目",
-          "reading": "ちゅうもく",
-          "meaning": "attention, focus"
-        },
-        {
-          "word": "楽し",
-          "reading": "たのし",
-          "meaning": "enjoy"
-        },
-        {
-          "word": "関心",
-          "reading": "かんしん",
-          "meaning": "interest"
-        }
-      ],
-      "why_it_matters": "This story highlights how sports moments can become global cultural phenomena, blending entertainment and athlete interactions."
+      "why_it_matters": "This story is worth knowing about because it highlights a real-life scandal that has significant social implications and is being dramatized for broader public awareness."
     },
     {
       "source": "BBC Sport",
       "category": "Sports",
-      "title": "Britain's Kerr breaks 27-year mile world record in London",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Jul 2026 14:48:16 GMT",
-      "japanese_title": "イギリスのカー(カー)が27年ぶりのマイル(マイル)世界記録(せかいてききろく)を破(や)る",
-      "english_summary": "Great Britain's Josh Kerr set a new men's mile world record during the London Diamond League, breaking a 27-year-old record. His performance was described as spectacular by the BBC.",
-      "japanese_summary": "イギリス(イギリス)のジョシュ・カー(ジョシュ・カー)選手(せんしゅ)は、ロンドン(ロンドン)で開催(かいさい)されたダイヤモンドリーグ(ダイヤモンドリーグ)で、27年(27ねん)ぶりにマイル(マイル)の世界記録(せかいてききろく)を破(や)りました。この記録(きろく)は長期間(ちょうきかん)にわたって保持(ほじ)されていました。カー(カー)選手(せんしゅ)の走(はし)り方は、非常に(ひじんに)素晴ら(すばら)しく、BBC(ビー・ビーシー)はそのパフォーマンス(パフォーマンス)を「すばらしい」だと評価(ひょうか)しました。この記録(きろく)は、長期間(ちょうきかん)にわたって保持(ほじ)されていました。カー(カー)選手(せんしゅ)の走(はし)り方は、非常に(ひじんに)素晴ら(すばら)しく、BBC(ビー・ビーシー)はそのパフォーマンス(パフォーマンス)を「すばらしい」だと評価(ひょうか)しました。",
+      "title": "Newcastle, Liverpool and England legend Keegan dies",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 14:38:28 GMT",
+      "japanese_title": "ニューカッスル、リバプール、イングランドの伝説ケイガン氏が死去(しに)。75歳で、4段階のガンの診断(しんどの)を7週間後に明らか(こうめいか)にした後(ご)。",
+      "english_summary": "Former England football captain and manager Kevin Keegan has died at the age of 75, seven weeks after he revealed he had been diagnosed with stage four cancer. Keegan played for Newcastle and Liverpool, and managed England, leaving a lasting legacy in football.",
+      "japanese_summary": "元イングランド代表(だいひょう)のキャプテンでマネージャーだったケイガン氏(し)が、75歳で亡(な)くなった。7週間(しゅうかん)前に、4段階(だんかい)のガンと診断(しんどの)を受けたことを明らか(こうめいか)にした後(ご)だった。ケイガン氏はニューカッスルとリバプールの選手(せんしゅ)として活躍(かつやく)し、イングランド代表の監督(かんとう)も務(つと)めた。彼(かれ)の功績(こうかく)はサッカー界(かい)に長(なが)く残(のこ)るだろう。サッカー界の多くの人が彼の死去(しに)に哀悼(あいたう)の意を表(ひび)している。",
       "vocabulary": [
         {
-          "word": "記録",
-          "reading": "きろく",
-          "meaning": "record"
+          "word": "代表",
+          "reading": "だいひょう",
+          "meaning": "representative; team member (in sports)"
         },
         {
-          "word": "開催",
-          "reading": "かいさい",
-          "meaning": "hold, host (event)"
+          "word": "診断",
+          "reading": "しんどの",
+          "meaning": "diagnosis"
         },
         {
-          "word": "保持",
-          "reading": "ほじ",
-          "meaning": "maintain, keep (a record)"
+          "word": "明らか",
+          "reading": "こうめいか",
+          "meaning": "clear; made public"
         },
         {
-          "word": "非常に",
-          "reading": "ひじんに",
-          "meaning": "very, extremely"
+          "word": "活躍",
+          "reading": "かつやく",
+          "meaning": "to excel; to perform well"
         },
         {
-          "word": "評価",
-          "reading": "ひょうか",
-          "meaning": "evaluate, assess"
+          "word": "監督",
+          "reading": "かんとう",
+          "meaning": "coach; manager (sports)"
         },
         {
-          "word": "破る",
-          "reading": "やぶる",
-          "meaning": "break, shatter (a record)"
+          "word": "功績",
+          "reading": "こうかく",
+          "meaning": "achievements; merits"
         },
         {
-          "word": "選手",
-          "reading": "せんしゅ",
-          "meaning": "athlete, player"
-        },
-        {
-          "word": "長期間",
-          "reading": "ちょうきかん",
-          "meaning": "long period of time"
+          "word": "哀悼",
+          "reading": "あいたう",
+          "meaning": "mourn; express condolences"
         }
       ],
-      "why_it_matters": "This story highlights a significant athletic achievement that may inspire learners interested in sports and world records."
+      "why_it_matters": "This story highlights the passing of a significant figure in football history, offering insight into the impact of cancer and the legacy of a beloved sports icon."
     },
     {
       "source": "BBC Sport",
       "category": "Sports",
-      "title": "Scotland flirt with defeat before overpowering Fiji",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3w0p3wedj6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Jul 2026 15:25:29 GMT",
-      "japanese_title": "スコットランド(スコットランド)が敗北(はいぼく)の危機(きき)に直面(ちょくめい)したあと、フィジー(フィジー)を圧倒(あつとう)して勝利(しょうり)する",
-      "english_summary": "Scotland secured a hard-fought bonus-point victory against Fiji in a thrilling Nations Championship match at Murrayfield. The game was intense, with Scotland initially struggling before dominating in the second half.",
-      "japanese_summary": "スコットランド(スコットランド)は、フィジー(フィジー)との試合(しわい)で最初(さいしょ)は敗北(はいぼく)するかもしれないと感じ(かんじ)ていた。しかし(しかし)、後半(こう반)に入(はい)ると、スコットランド(スコットランド)はフィジー(フィジー)を圧倒(あつとう)して、試合(しわい)を勝利(しょうり)に導(みちび)いた。この試合(しわい)では、両チーム(りょうチーム)が激しく(げきしく)戦(たたか)い、観客(かんきゃく)を楽しませ(たのしませ)た。スコットランド(スコットランド)は、この勝利(しょうり)でボーナスポイント(ボーナスポイント)を獲得(にょうとく)し、リーグ(りーグ)の順位(じゅんい)を上げ(あげ)ることになった。フィジー(フィジー)は再(さい)出発(しゅっぱつ)して、強(つよい)いチーム(チーム)として注目(ちゅうもく)されている。",
+      "title": "Gifted, charismatic and passionate amid highs and lows - Keegan obituary",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20z4d87vp3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 15:00:33 GMT",
+      "japanese_title": "ケイガン(けいがん)の人生(じんせい) - 高揚(こうよう)と低落(ていらく)の間(ま)で贈(おくり)られた(られた)才能(ざいのう)と魅力(むい)と情熱(じょうねつ)",
+      "english_summary": "The article is an obituary for Kevin Keegan, highlighting his charismatic and passionate nature throughout his life, as described by football writer Phil McNulty. It emphasizes the positive impact he had on the sport and his enduring legacy.",
+      "japanese_summary": "ケイガン(けいがん)は、人生(じんせい)の高揚(こうよう)と低落(ていらく)の間(ま)で、才能(ざいのう)と魅力(むい)と情熱(じょうねつ)を贈(おくり)ました。彼(かれ)のポジティブ(ぽじてぃぶ)でエネルギッシュ(えねるぎっしゅ)な性格(せっかく)は、サッカー界(かい)で多くの人(ひと)に愛(あい)され、尊敬(そんけい)されました。困難(こんなん)に直面(ちょくめい)しても前向き(まえばかり)な態度(たいど)を貫(つらぬ)き、多くの選手(せんしゅ)やファン(ふぁん)にインスピレーション(いんすぴれーしょん)を与えました。彼(かれ)の影響(えいきょう)は今もサッカー界(かい)に残(のこ)り、彼(かれ)の名前(なまえ)は歴史(れきし)に刻(きざ)まれています。",
       "vocabulary": [
         {
-          "word": "敗北",
-          "reading": "はいぼく",
-          "meaning": "defeat"
+          "word": "贈(おくり)",
+          "reading": "おくり",
+          "meaning": "to give, to present"
         },
         {
-          "word": "危機",
-          "reading": "きき",
-          "meaning": "crisis"
+          "word": "才能(ざいのう)",
+          "reading": "ざいのう",
+          "meaning": "talent, ability"
         },
         {
-          "word": "直面",
-          "reading": "ちょくめい",
-          "meaning": "face"
+          "word": "魅力(むい)",
+          "reading": "むい",
+          "meaning": "charisma, appeal"
         },
         {
-          "word": "圧倒",
-          "reading": "あつとう",
-          "meaning": "overwhelm"
+          "word": "情熱(じょうねつ)",
+          "reading": "じょうねつ",
+          "meaning": "passion, enthusiasm"
         },
         {
-          "word": "勝利",
-          "reading": "しょうり",
-          "meaning": "victory"
+          "word": "尊敬(そんけい)",
+          "reading": "そんけい",
+          "meaning": "respect, veneration"
         },
         {
-          "word": "後半",
-          "reading": "こうはん",
-          "meaning": "second half"
+          "word": "困難(こんなん)",
+          "reading": "こんなん",
+          "meaning": "difficulty, hardship"
         },
         {
-          "word": "導く",
-          "reading": "みちびく",
-          "meaning": "lead"
+          "word": "前向き(まえばかり)",
+          "reading": "まえばかり",
+          "meaning": "positive, optimistic"
         },
         {
-          "word": "観客",
-          "reading": "かんきゃく",
-          "meaning": "audience"
+          "word": "態度(たいど)",
+          "reading": "たいど",
+          "meaning": "attitude, behavior"
         },
         {
-          "word": "獲得",
-          "reading": "にょうとく",
-          "meaning": "acquire"
+          "word": "影響(えいきょう)",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
         },
         {
-          "word": "順位",
-          "reading": "じゅんい",
-          "meaning": "rank"
+          "word": "歴史(れきし)",
+          "reading": "れきし",
+          "meaning": "history, past events"
+        }
+      ],
+      "why_it_matters": "Kevin Keegan's legacy in football highlights the impact a charismatic and passionate individual can have on a sport and its community."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "Could Infantino really push through a 64-team World Cup?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly7ley50g9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 11:57:57 GMT",
+      "japanese_title": "インファントイノ(いんふぁんといの)が本当に64チーム(チーム)のワールドカップ(わーるどかっぷ)を実現(じっせい)できるか？",
+      "english_summary": "Gianni Infantino, the president of FIFA, has proposed expanding the FIFA World Cup to 64 teams. This would increase the number of participating nations and potentially extend the tournament's duration.",
+      "japanese_summary": "インファントイノ(いんふぁんといの)という人物(じんぶつ)は、FIFA(ふぃある)の会長(かいちょう)をしています。彼(かれ)は、ワールドカップ(わーるどかっぷ)のチーム(チーム)数(すう)を64チーム(チーム)に増やす(ふやす)ことを考えています。これにより(これにより)、参加(さんか)する国(くに)の数(すう)が増える(ふえる)可能性(かんせい)があります。また、大会(たいかい)の日程(にちてい)も長くなる(ながくなる)かもしれません。この計画(けいかく)は、世界(せかい)中(じゅう)のサッカー(サッカー)ファン(はん)に注目(ちゅうもく)されています。",
+      "vocabulary": [
+        {
+          "word": "実現",
+          "reading": "じっせい",
+          "meaning": "realization; accomplishment"
         },
         {
-          "word": "再出発",
-          "reading": "さいしゅっぱつ",
-          "meaning": "renewal, new beginning"
+          "word": "人物",
+          "reading": "じんぶつ",
+          "meaning": "person; individual"
+        },
+        {
+          "word": "会長",
+          "reading": "かいちょう",
+          "meaning": "chairperson; president"
+        },
+        {
+          "word": "参加",
+          "reading": "さんか",
+          "meaning": "participation; joining"
+        },
+        {
+          "word": "可能性",
+          "reading": "かんせい",
+          "meaning": "possibility; potential"
+        },
+        {
+          "word": "日程",
+          "reading": "にちてい",
+          "meaning": "schedule; itinerary"
         },
         {
           "word": "注目",
           "reading": "ちゅうもく",
-          "meaning": "attention, focus"
+          "meaning": "attention; focus"
+        },
+        {
+          "word": "計画",
+          "reading": "けいかく",
+          "meaning": "plan; scheme"
         }
       ],
-      "why_it_matters": "This match highlights the intense competition in the Nations Championship and showcases Scotland's resilience and Fiji's emerging strength as a team."
+      "why_it_matters": "This story highlights potential changes to one of the most prestigious sports events, which could impact global football and host nations."
     },
     {
       "source": "OpenAI News",
@@ -750,100 +524,47 @@
       "title": "A scorecard for the AI age",
       "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "published": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "japanese_title": "AIの時代の評価(ひょうか)カード(かーど)",
-      "english_summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "japanese_summary": "サラ・フライア(さら・ふらいあ)氏(し)は、OpenAI(オープンエイアイ)のCFO(シーエフオー)として、AI(エーアイ)の成果(せいか)を測(はか)るための評価(ひょうか)カード(かーど)を紹介(しょうかい)しました。この評価(ひょうか)カード(かーど)は、役に立つ(やくにたつ)作業(さぎょう)、成功(せいこく)したタスク(たっすく)ごとの費用(ひよう)、信頼性(しんらいせい)、コンピュート(こんぴゅーと)の投資(とうし)に対するリターン(りたーん)の4つのポイント(ぽいんと)で測(はか)ります。これにより(これにより)、AI(エーアイ)の価値(かち)を正確(せいかく)に評価(ひょうか)することが可能(かんのう)になります。この評価(ひょうか)カード(かーど)は、企業(きぎょう)がAI(エーアイ)の導入(どうにゅう)を検討(けんとう)する際に(きかい)、現実的(げんじつてき)な判断(はんだん)を助けます。AI(エーアイ)の活用(かつよう)が広がる(ひろがる)中(なか)、この評価(ひょうか)カード(かーど)は今後(こんご)の技術(ぎじゅつ)開発(かいはつ)にも影響(えいきょう)を与(あた)える可能性(かんせい)があります。",
+      "japanese_title": "AIの時代のスコアカード(アイのじだいのスコアカード)",
+      "english_summary": "Sarah Friar, CFO of OpenAI, has introduced a practical AI scorecard to measure ROI by evaluating useful work, cost per successful task, dependability, and return on compute. This framework aims to provide a standardized way to assess AI performance and efficiency.",
+      "japanese_summary": "サラ・フリアー(さら・ふりあー)氏は、OpenAI(オープンAI)のCFO(シーエフオ)です。彼女は、AIの成果(せいかも)を測(はか)るためのスコアカード(スコアカード)を紹介(しょうかい)しました。このスコアカードは、役に立つ(やくにたつ)仕事(しごと)、成功(せいこう)したタスク(タスク)ごとの費用(ひょうむ)、信頼性(しんらいせい)、コンピュート(コンピュート)への投資(とうし)の報酬(ほうしゅう)を評価(ひょうか)します。これにより、AIの成果を標準化(ひょうじゅんか)して測定(そくてい)する方法(ほうほう)を提供(ていきょう)します。このスコアカードは、AIの性能(せいのう)と効率(こうりつ)を評価(ひょうか)するためのフレームワーク(フレームワーク)です。",
       "vocabulary": [
         {
-          "word": "評価",
-          "reading": "ひょうか",
-          "meaning": "evaluation, assessment"
-        },
-        {
           "word": "成果",
-          "reading": "せいか",
-          "meaning": "results, achievements"
+          "reading": "せいかも",
+          "meaning": "results; achievements"
         },
         {
           "word": "測る",
           "reading": "はかる",
-          "meaning": "to measure, to assess"
+          "meaning": "to measure; to assess"
         },
         {
           "word": "信頼性",
           "reading": "しんらいせい",
-          "meaning": "reliability, dependability"
+          "meaning": "reliability; dependability"
         },
         {
           "word": "投資",
           "reading": "とうし",
-          "meaning": "investment"
+          "meaning": "investment; putting resources into something"
         },
         {
-          "word": "正確",
-          "reading": "せいかく",
-          "meaning": "accurate, precise"
+          "word": "報酬",
+          "reading": "ほうしゅう",
+          "meaning": "reward; return on investment"
         },
         {
-          "word": "可能",
-          "reading": "かんのう",
-          "meaning": "possible, feasible"
+          "word": "標準化",
+          "reading": "ひょうじゅんか",
+          "meaning": "standardization; making something uniform"
         },
         {
-          "word": "影響",
-          "reading": "えいきょう",
-          "meaning": "influence, effect"
+          "word": "測定",
+          "reading": "そくてい",
+          "meaning": "measurement; assessment"
         }
       ],
-      "why_it_matters": "This scorecard provides a practical framework for evaluating AI's value, helping organizations make informed decisions about AI adoption and investment."
-    },
-    {
-      "source": "OpenAI News",
-      "category": "Tech",
-      "title": "Why teens deserve access to safe AI",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "published": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "japanese_title": "なぜティーンエイジャーは安全なAIへのアクセスを deserve か(なぜてぃーんえいじぁはあんぜんないへんアクセスを deserve か)",
-      "english_summary": "OpenAI is enhancing ChatGPT's safety for teenagers by implementing age-appropriate protections, learning tools, and parental controls. The initiative also involves partnerships with experts to ensure a safer AI environment for young users.",
-      "japanese_summary": "ティーンエイジャー(てぃーんえいじぁ)は、安全(あんぜん)なAIにアクセス(あくせす)する権利(けんり)がある(ある)と、OpenAI(おぺんあい)は考え(かんが)っている(いる)。この取り組み(とりくみ)では、年齢(ねんれい)に応じ(おうじ)た(た)保護(ほご)機能(きのう)や、学習(がくしゅう)ツール(とーる)、親(おや)のコントロール(こんとろーる)が導入(どうにゅう)されている(されている)。専門家(せんもんか)との提携(ていけい)も行われ(おこなわ)れており(おり)、ティーンエイジャー(てぃーんえいじぁ)が安全(あんぜん)にAIを使(つか)える(える)ようにしている(している)。この取り組み(とりくみ)により(により)、若者(わかもの)のユーザー(ゆーざー)はより(より)安心(あんしん)してAIを使(つか)うことが可能(かんのう)になる(なる)。OpenAI(おぺんあい)は、今後(こんご)もティーンエイジャー(てぃーんえいじぁ)のニーズ(にーず)に応じ(おうじ)た(た)改善(かいぜん)を続ける(つづける)と発表(はつほう)している(している)。",
-      "vocabulary": [
-        {
-          "word": "権利",
-          "reading": "けんり",
-          "meaning": "right"
-        },
-        {
-          "word": "保護",
-          "reading": "ほご",
-          "meaning": "protection"
-        },
-        {
-          "word": "導入",
-          "reading": "どうにゅう",
-          "meaning": "implementation"
-        },
-        {
-          "word": "提携",
-          "reading": "ていけい",
-          "meaning": "partnership"
-        },
-        {
-          "word": "安心",
-          "reading": "あんしん",
-          "meaning": "peace of mind"
-        },
-        {
-          "word": "改善",
-          "reading": "かいぜん",
-          "meaning": "improvement"
-        },
-        {
-          "word": "発表",
-          "reading": "はつほう",
-          "meaning": "announcement"
-        }
-      ],
-      "why_it_matters": "This initiative addresses the growing need for safer AI environments tailored for teenagers, ensuring they can benefit from AI without unnecessary risks."
+      "why_it_matters": "This AI scorecard provides a practical framework for evaluating AI performance, which is crucial for businesses and developers aiming to optimize their AI investments."
     },
     {
       "source": "OpenAI News",
@@ -851,37 +572,42 @@
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "link": "https://openai.com/index/cars24",
       "published": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "japanese_title": "Cars24がOpenAIの技術を使って会話のスケーリングとスピードアップを実現",
-      "english_summary": "Cars24 leverages OpenAI's voice and chat agents to manage over 1 million monthly conversation minutes, recover 12% of lost leads, and implement agentic workflows across the company. This integration improves efficiency and customer engagement.",
-      "japanese_summary": "Cars24は、OpenAIの技術を使って、毎月100万以上の会話分を処理しています。これにより、失ったリードの12％を回復し、会社全体のチームにエージェンティなワークフローを導入しています。この技術は、業務の効率化と顧客との関係強化に役立っています。OpenAIの音声とチャットエージェントは、大量の会話を処理する能力があり、会社全体の業務スピードを向上させています。この取り組みは、企業がAI技術を活用してサービスを改善する一例です。",
+      "japanese_title": "Cars24がOpenAIの技術を使って会話のスケーリングと効率向上を実現",
+      "english_summary": "Cars24 leverages OpenAI's voice and chat agents to manage over 1 million monthly conversation minutes, recover 12% of lost leads, and implement agentic workflows across the company. This integration has significantly improved their operational efficiency and customer engagement.",
+      "japanese_summary": "Cars24はOpenAIの技術を活用して、月間100万以上の会話分を処理する「音声とチャットエージェント」を導入しました。これにより、12％の見込み客を回復し、会社全体のチームにエージェンティックなワークフローをもたらしました。この技術は、会話のスケーリングと業務効率の向上に大きく貢献しています。OpenAIの技術を使うことで、Cars24は顧客との関係をより深くし、業務の効率化を実現しました。この取り組みは、今後の業務改善にもつながると期待されています。",
       "vocabulary": [
         {
           "word": "回復",
           "reading": "かいふく",
-          "meaning": "recovery, restoration"
+          "meaning": "recovery; restoration"
         },
         {
           "word": "業務",
           "reading": "ぎょうむ",
-          "meaning": "work, business operations"
+          "meaning": "business; work"
         },
         {
-          "word": "効率化",
-          "reading": "こうりつか",
-          "meaning": "efficiency improvement"
+          "word": "効率",
+          "reading": "こうりつ",
+          "meaning": "efficiency; effectiveness"
         },
         {
-          "word": "関係強化",
-          "reading": "かんけいきょうか",
-          "meaning": "strengthening relationships"
+          "word": "導入",
+          "reading": "どうにゅう",
+          "meaning": "implementation; introduction"
+        },
+        {
+          "word": "関係",
+          "reading": "かんけい",
+          "meaning": "relationship; connection"
         },
         {
           "word": "改善",
           "reading": "かいぜん",
-          "meaning": "improvement, enhancement"
+          "meaning": "improvement; enhancement"
         }
       ],
-      "why_it_matters": "This example shows how AI-powered tools can significantly improve business operations and customer engagement in the automotive industry."
+      "why_it_matters": "This story highlights how integrating AI technologies like OpenAI's can transform business operations, improve customer interactions, and drive significant efficiency gains in the automotive industry."
     }
   ]
 }
