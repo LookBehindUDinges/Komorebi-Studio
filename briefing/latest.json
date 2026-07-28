@@ -1,59 +1,950 @@
 {
-  "generated_at": "2026-07-28T00:09:46.169705+00:00",
+  "generated_at": "2026-07-28T15:42:50.977168+00:00",
   "model": "qwen3:14b",
   "articles": [
     {
       "source": "NHK News",
       "category": "Japan News",
-      "title": "消費税減税 自民内税率1％案で進めるべきの意見も 首相判断へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187501000.html",
-      "published": "Tue, 28 Jul 2026 05:11:24 +0900",
-      "japanese_title": "消費税(しょうひぜい)減税(げんぜい) 自民(じみん)内(ない)税率(ぜい率)1％(いっ％)案(あん)で(で)進める(すすめる)べき(べき)の(の)意見(いけん)も(も) 首相(しゅしょう)判断(はんだん)へ(へ)",
-      "english_summary": "A revised proposal for the intermediate summary of the consumption tax reduction has been presented, but no consensus was reached in the practical session of the cross-party 'National Conference'. Within the LDP, there are opinions suggesting that a plan to lower the tax rate by 1% for two years starting next April should be implemented, with the Prime Minister expected to make a decision soon.",
-      "japanese_summary": "消費税(しょうひぜい)減税(げんぜい)について(について)、超党派(ちょうとうは)の「国民会議(こくみんかいぎ)」の実務者会議(じむしやかいぎ)では(では)、意見(いけん)の一致(いっち)に(に)至(いた)らなかった(いたらなかった)と(と)明記(めいき)された(された)中間とりまとめ案(ちゅうかんとりまとめあん)の修正案(しゅうせいあん)が(が)示(し)され(され)、方向性(ほうこうせい)は(は)打ち出(うちはで)され(され)なかった(なかった)。自民党(じみんとう)内(ない)では(では)、来年(らいねん)4月(がつ)から(から)2年(ねん)間(かん)、税率(ぜいりつ)を(を)1％(いっ％)に(に)引き下げる(ひきさげる)など(など)した(した)案(あん)で(で)進める(すすめる)べき(べき)だ(だ)という(という)意見(いけん)も(も)出(だ)て(て)いて(いて)、高市(たかち)首相(しゅしょう)が(が)近く(ちかく)方針(ほうしん)を(を)判断(はんだん)する(する)見通し(みつうし)です(です)。",
+      "title": "【速報】イオンモール熊本「ガスが漏れていたと報告」政権幹部",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188721000.html",
+      "published": "Wed, 29 Jul 2026 00:00:40 +0900",
+      "japanese_title": "イオンモール熊本(いおんもーるくまもと)「ガス(がす)が漏れて(もれて)いたと(と)報告(ほうこく)」政権幹部(せいけんかんぶ)",
+      "english_summary": "A government official reported that gas may have been leaking at ION Mall Kumamoto, where an explosion occurred. Authorities, including police, fire departments, and the Self-Defense Forces, are conducting rescue operations after shutting off the gas supply.",
+      "japanese_summary": "イオンモール熊本(いおんもーるくまもと)で爆発(ばくはつ)が起(お)こったと報(ほう)じられました。政権幹部(せいけんかんぶ)の1人(ひとり)は28日(にちにち)夜(よ)、記者団(きしゃだん)に対(たい)し、ガス(がす)が漏れて(もれて)いたとの報告(ほうこく)が有(ある)ったと述(つ)べました。ガスの元栓(げんせん)を閉(し)めた上で(じょうで)、警察(けいさつ)や消防(しょうぼう)、自衛隊(じえいだい)が救助(きゅうじゅ)活動(かつどう)にあた(あた)っていると述(つ)べました。爆発(ばくはつ)の原因(がいよう)はまだ分(わ)かっていません。",
       "vocabulary": [
         {
-          "word": "明記",
-          "reading": "めいき",
-          "meaning": "to explicitly state or record"
+          "word": "政権幹部",
+          "reading": "せいけんかんぶ",
+          "meaning": "government official"
+        },
+        {
+          "word": "爆発",
+          "reading": "ばくはつ",
+          "meaning": "explosion"
+        },
+        {
+          "word": "報告",
+          "reading": "ほうこく",
+          "meaning": "report"
+        },
+        {
+          "word": "元栓",
+          "reading": "げんせん",
+          "meaning": "shut-off valve"
+        },
+        {
+          "word": "救助",
+          "reading": "きゅうじゅ",
+          "meaning": "rescue"
+        },
+        {
+          "word": "活動",
+          "reading": "かつどう",
+          "meaning": "activity"
+        },
+        {
+          "word": "原因",
+          "reading": "がいよう",
+          "meaning": "cause"
+        },
+        {
+          "word": "分かって",
+          "reading": "わかって",
+          "meaning": "understand"
+        }
+      ],
+      "why_it_matters": "This incident highlights the importance of safety protocols and emergency response in public facilities."
+    },
+    {
+      "source": "NHK News",
+      "category": "Japan News",
+      "title": "熊本 八代 日本製紙の工場 “要救助が9人いる”総務省消防庁",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188691000.html",
+      "published": "Tue, 28 Jul 2026 22:11:41 +0900",
+      "japanese_title": "熊本 八代 日本製紙の工場 “要救助が9人いる”総務省消防庁(くまもと やつしろ にほんせいしのこうじょう 「ようきゅうがくにんが9にんいる」そうむしょうしょうぼうちょう)",
+      "english_summary": "A factory owned by Nihon Seishi in Yatsushiro, Kumamoto Prefecture, suffered damage from a strong earthquake measuring 6 on the JMA scale, leading to a collapse of a chimney. Local fire departments reported that nine people require rescue, though some have already been rescued. The situation is still being investigated.",
+      "japanese_summary": "熊本県(くまもとけん)八代市(やつしろし)の日本製紙(にほんせいし)の工場(こうじょう)で、震度(しんどの)6強(ごう)の揺れ(ゆれ)が観測(かんそく)され、煙突(えんとつ)が崩落(ほうらく)したとのことです。総務省(そうむしょう)消防庁(しょうぼうちょう)は、地元(ちもと)の消防(しょうぼう)から「要救助(ようきゅう)が9人(にん)いる」との報告(ほうこく)を受けたと発表(はっぴょう)しました。このうち、すでに救助(きゅうしゅ)された人もいるとの情報(じょうほう)があるということですが、容体(ようたい)など詳細(しょうさい)は確認(かくにん)中(ちゅう)です。この工場(こうじょう)では、被害(ひがい)が確認(かくにん)されているため、今後(こんご)の対応(たいおう)が注目(ちゅうもく)されています。また、この地震(じしん)の影響(えいきょう)で、近隣(きんりん)の地域(ちいき)にも被害(ひがい)が拡大(かくだい)する可能性(かんせい)があるとされています。",
+      "vocabulary": [
+        {
+          "word": "観測",
+          "reading": "かんそく",
+          "meaning": "to observe, to measure"
+        },
+        {
+          "word": "崩落",
+          "reading": "ほうらく",
+          "meaning": "collapse, fall down"
+        },
+        {
+          "word": "要救助",
+          "reading": "ようきゅう",
+          "meaning": "requires rescue"
+        },
+        {
+          "word": "容体",
+          "reading": "ようたい",
+          "meaning": "condition, state of health"
+        },
+        {
+          "word": "詳細",
+          "reading": "しょうさい",
+          "meaning": "details, specifics"
+        },
+        {
+          "word": "確認",
+          "reading": "かくにん",
+          "meaning": "to confirm, to verify"
+        },
+        {
+          "word": "対応",
+          "reading": "たいおう",
+          "meaning": "response, measures taken"
+        },
+        {
+          "word": "拡大",
+          "reading": "かくだい",
+          "meaning": "expansion, spread"
+        }
+      ],
+      "why_it_matters": "This incident highlights the importance of emergency preparedness and the challenges faced during natural disasters in industrial areas."
+    },
+    {
+      "source": "NHK News",
+      "category": "Japan News",
+      "title": "震度7 熊本 宇城の住宅倒壊 1人が巻き込まれ救助活動",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015189011000.html",
+      "published": "Tue, 28 Jul 2026 23:19:41 +0900",
+      "japanese_title": "震度(しんど)7 熊本(くまもと) 宇城(うきょう)の住宅(じゅうたく)倒壊(とうかい) 1人(1にん)が巻き込まれ(まきこまれ)救助(きゅうじょ)活動(かつどう)",
+      "english_summary": "A residential building collapsed in Ukiyō City, Kumamoto Prefecture, following a magnitude 7 earthquake. One elderly man was trapped inside and rescue operations are underway, but there has been no response to calls for help. Initially, four people were reported to live in the house, but two were found to be elsewhere and one was safely outside.",
+      "japanese_summary": "熊本(くまもと)県(けん)宇城(うきょう)市(し)で、震度(しんど)7のゆれが観測(かんざい)されました。その影響(えいきょう)で、住宅(じゅうたく)が倒壊(とうかい)し、1人(1にん)の高齢(こうれい)男性(だんせい)が中に巻き込まれ(まきこまれ)、救助(きゅうじょ)活動(かつどう)が行われています。しかし、呼びかけ(よびかけ)に反応(はんよう)がないと伝え(つたえ)られています。当初(とうしょ)、その住宅(じゅうたく)には4人(4にん)が住んで(すんで)いたと情報(じょうほう)がありましたが、確認(かくにん)したところ、2人は別の(べつの)場所(ばしょ)に住んで(すんで)いて、もう1人(1にん)は外出(がいしゅつ)していて無事(むじ)だったと確認(かくにん)されました。",
+      "vocabulary": [
+        {
+          "word": "震度",
+          "reading": "しんど",
+          "meaning": "intensity (of an earthquake)"
+        },
+        {
+          "word": "住宅",
+          "reading": "じゅうたく",
+          "meaning": "residential building; house"
+        },
+        {
+          "word": "倒壊",
+          "reading": "とうかい",
+          "meaning": "collapse; destruction"
+        },
+        {
+          "word": "高齢",
+          "reading": "こうれい",
+          "meaning": "elderly; aged"
+        },
+        {
+          "word": "救助",
+          "reading": "きゅうじょ",
+          "meaning": "rescue; aid"
+        },
+        {
+          "word": "呼びかけ",
+          "reading": "よびかけ",
+          "meaning": "call; appeal"
+        },
+        {
+          "word": "確認",
+          "reading": "かくにん",
+          "meaning": "confirmation; verification"
+        },
+        {
+          "word": "情報",
+          "reading": "じょうほう",
+          "meaning": "information; data"
+        }
+      ],
+      "why_it_matters": "This story highlights the immediate dangers and challenges faced during earthquake rescue operations, emphasizing the importance of safety measures and emergency response."
+    },
+    {
+      "source": "New York Times",
+      "category": "US News",
+      "title": "Here Is the Schedule for Lindsey Graham’s Services and Funeral",
+      "link": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-schedule.html",
+      "published": "Tue, 28 Jul 2026 14:59:41 +0000",
+      "japanese_title": "リンゼイ・グレ厄ム(りんぜい・ぐれあむ)さんのサービスと葬儀(そうぎ)のスケジュール(すけじゅーる)が発表(はつぱい)されました",
+      "english_summary": "The schedule for Senator Lindsey Graham's services and funeral has been announced. Tributes are being held on Tuesday in Washington, D.C., and on Wednesday in South Carolina.",
+      "japanese_summary": "リンゼイ・グレ厄ム(りんぜい・ぐれあむ)さんのサービスと葬儀(そうぎ)のスケジュール(すけじゅーる)が発表(はつぱい)されました。火曜日(ひようび)にはワシントンD.C.(うashington D.C.)で、水曜日(すいようび)にはサウスカロライナ州(さうすかろらいなしゅう)で追悼(ついとう)の式(しき)が行われます。この式(しき)は彼(かれ)の人生(じんせい)と功績(こうかく)を称える(たたえる)ために開催(かいさい)され、多くの人々(ひとびと)が参加(さんか)する予定(よてい)です。また、彼(かれ)の家族(かぞく)や友人(ゆうじん)が式(しき)に出席(しゅっせつ)し、彼(かれ)の生涯(しょうがい)を振り返(ふりかえ)る発言(はつげん)をする予定(よてい)です。この式(しき)は、多くの人々(ひとびと)にとって重要なイベント(いわくどく)となり、彼(かれ)の影響(えいきょう)が今後(こんご)も続くことを示(しめ)しています。",
+      "vocabulary": [
+        {
+          "word": "葬儀",
+          "reading": "そうぎ",
+          "meaning": "funeral"
+        },
+        {
+          "word": "発表",
+          "reading": "はつぱい",
+          "meaning": "announcement, release"
+        },
+        {
+          "word": "追悼",
+          "reading": "ついとう",
+          "meaning": "tribute, commemoration"
+        },
+        {
+          "word": "功績",
+          "reading": "こうかく",
+          "meaning": "achievements, merits"
+        },
+        {
+          "word": "称える",
+          "reading": "たたえる",
+          "meaning": "to praise, to honor"
+        },
+        {
+          "word": "開催",
+          "reading": "かいさい",
+          "meaning": "to hold, to host (event)"
+        },
+        {
+          "word": "参加",
+          "reading": "さんか",
+          "meaning": "to participate, to attend"
+        },
+        {
+          "word": "出席",
+          "reading": "しゅっせつ",
+          "meaning": "to attend, to be present"
+        },
+        {
+          "word": "振り返る",
+          "reading": "ふりかえる",
+          "meaning": "to look back, to review"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
+        }
+      ],
+      "why_it_matters": "This story is worth knowing about because it highlights the respect and remembrance shown to a prominent political figure after his passing."
+    },
+    {
+      "source": "New York Times",
+      "category": "US News",
+      "title": "AFSCME Leader Lee Saunders to Retire as Unions Face New Opposition",
+      "link": "https://www.nytimes.com/2026/07/28/us/politics/lee-saunders-afscme-retirement.html",
+      "published": "Tue, 28 Jul 2026 14:59:41 +0000",
+      "japanese_title": "AFSCMEリーダー・リー・サウンダースが退任、労働組合が新たな反対に直面する",
+      "english_summary": "Lee Saunders, the leader of AFSCME, the largest union for local public workers in the United States, is retiring. His departure comes as unions face increasing opposition from political and business leaders.",
+      "japanese_summary": "AFSCME(エフエフエスシーメー)リーダー(れいだー)のリー・サウンダース(リー・サウンダース)は退任(たいにん)することになった。この決定(けいとう)は、労働組合(ろうどうしゅうかい)が新たな(あらたな)反対(はんたい)に直面(ちょくめい)している中で発表(はっぴょう)された。AFSCMEは米国(べいこく)で地元(ちもん)の公務員(こうむいん)を守る(まもる)最大の(さいだいの)労働組合(ろうどうしゅうかい)である。リー・サウンダースは長年(ちょうねん)そのリーダーとして、組合員(しゅうかいいん)をサポート(さぽーと)してきた。今後(こんご)、労働組合(ろうどうしゅうかい)は新たな(あらたな)反対(はんたい)にどう対応(たいおう)するか注目(ちゅうもく)されている。",
+      "vocabulary": [
+        {
+          "word": "退任",
+          "reading": "たいにん",
+          "meaning": "resignation; retirement from a position"
+        },
+        {
+          "word": "決定",
+          "reading": "けいとう",
+          "meaning": "decision; determination"
+        },
+        {
+          "word": "労働組合",
+          "reading": "ろうどうしゅうかい",
+          "meaning": "labor union"
+        },
+        {
+          "word": "反対",
+          "reading": "はんたい",
+          "meaning": "opposition"
+        },
+        {
+          "word": "直面",
+          "reading": "ちょくめい",
+          "meaning": "to confront; to face"
+        },
+        {
+          "word": "公務員",
+          "reading": "こうむいん",
+          "meaning": "civil servant; public official"
+        },
+        {
+          "word": "対応",
+          "reading": "たいおう",
+          "meaning": "response; countermeasure"
+        }
+      ],
+      "why_it_matters": "This story highlights the challenges faced by labor unions in the U.S. as they navigate political and economic opposition, which is relevant to understanding labor dynamics and social change."
+    },
+    {
+      "source": "BBC World",
+      "category": "World News",
+      "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 13:25:13 GMT",
+      "japanese_title": "ギロンデ(ギロンデ)の山火事(やっかし)が増(ふ)える　フランス(ふらんす)の地域(いきい)が40度(ど)の熱波(ねっぱ)に備(そろ)える",
+      "english_summary": "Wildfires in the Gironde region of France are expected to intensify as the area prepares for a new heatwave with temperatures reaching 40°C. Firefighters are concerned that the rising temperatures will make it more difficult to control the fires.",
+      "japanese_summary": "ギロンデ(ギロンデ)の山火事(やっかし)が増(ふ)えることが予想(よそう)されています。フランス(ふらんす)の地域(いきい)は40度(ど)に達(た)する熱波(ねっぱ)に備(そろ)えるため、消防(しょうぼう)士(し)が警戒(けいがい)を強(つよ)めています。高温(こうおん)により、火(ひ)の拡(かく)大(だい)を防(ふせ)ぐのが難(むずか)しくなると懸(け)念(ねん)されています。地域(いきい)の住(す)民(みん)は、火(ひ)の広(ひろ)がりを防(ふせ)ぐために、避難(ひなん)を勧(すす)められています。消防(しょうぼう)士(し)は、高温(こうおん)の影響(えいきょう)を考慮(こうりょ)し、火(ひ)の消(き)し方(かた)を変(へん)える必要(ひつよう)があるとされています。",
+      "vocabulary": [
+        {
+          "word": "山火事",
+          "reading": "やっかし",
+          "meaning": "wildfire"
+        },
+        {
+          "word": "地域",
+          "reading": "いきい",
+          "meaning": "area, region"
+        },
+        {
+          "word": "熱波",
+          "reading": "ねっぱ",
+          "meaning": "heatwave"
+        },
+        {
+          "word": "消防士",
+          "reading": "しょうぼうし",
+          "meaning": "firefighter"
+        },
+        {
+          "word": "警戒",
+          "reading": "けいがい",
+          "meaning": "vigilance, caution"
+        },
+        {
+          "word": "高温",
+          "reading": "こうおん",
+          "meaning": "high temperature"
+        },
+        {
+          "word": "拡大",
+          "reading": "かくだい",
+          "meaning": "expansion, spread"
+        },
+        {
+          "word": "避難",
+          "reading": "ひなん",
+          "meaning": "evacuation"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
+        },
+        {
+          "word": "考慮",
+          "reading": "こうりょ",
+          "meaning": "consideration"
+        }
+      ],
+      "why_it_matters": "This story highlights the increasing challenges of wildfire management in the face of extreme heat, which is a growing global concern."
+    },
+    {
+      "source": "BBC World",
+      "category": "World News",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 09:32:25 GMT",
+      "japanese_title": "米国(べいこく)がフランス(ふらんす)の発言(はつげん)中に国連(こくれん)安全保障理事会(あんぜんぼうりいき)会議(かいぎ)から退席(たいせき)した",
+      "english_summary": "The United States left a UN Security Council meeting during France's speech, following a vote where the US, North Korea, and Russia opposed extending the term of the UN high commissioner for human rights. This incident highlights tensions within the council over human rights issues.",
+      "japanese_summary": "米国(べいこく)がフランス(ふらんす)の発言(はつげん)中に国連(こくれん)安全保障理事会(あんぜんぼうりいき)会議(かいぎ)から退席(たいせき)した。この出来事(できごと)は、国連(こくれん)安全保障理事会(あんぜんぼうりいき)の会議(かいぎ)で、米国(べいこく)、北朝鮮(ほっちょうせん)、ロシア(ろしあ)が人権(じんけん)に関する国連(こくれん)の高官(こうかん)の任期(にんき)延長(えんちょう)に反対(はんたい)したことが原因(げんいん)だった。米国(べいこく)は、この高官(こうかん)の任期(にんき)延長(えんちょう)が国連(こくれん)の権限(けんげん)を強化(きょうか)すると考え(かんがえ)ている。この件(けん)は、国際(こくさい)社会(しゃかい)における人権(じんけん)問題(もんだい)の取り扱い(とりあつかい)に関する意見(いけん)の違い(ちがい)を示(し)している。",
+      "vocabulary": [
+        {
+          "word": "退席",
+          "reading": "たいせき",
+          "meaning": "to leave a meeting or event"
+        },
+        {
+          "word": "発言",
+          "reading": "はつげん",
+          "meaning": "statement, speech"
+        },
+        {
+          "word": "安全保障理事会",
+          "reading": "あんぜんぼうりいき",
+          "meaning": "Security Council"
+        },
+        {
+          "word": "高官",
+          "reading": "こうかん",
+          "meaning": "high-ranking official"
+        },
+        {
+          "word": "任期",
+          "reading": "にんき",
+          "meaning": "term of office"
+        },
+        {
+          "word": "延長",
+          "reading": "えんちょう",
+          "meaning": "extension, prolongation"
+        },
+        {
+          "word": "反対",
+          "reading": "はんたい",
+          "meaning": "opposition, opposition"
+        },
+        {
+          "word": "強化",
+          "reading": "きょうか",
+          "meaning": "strengthening, enhancement"
+        }
+      ],
+      "why_it_matters": "This incident highlights the growing tensions and differing priorities among UN Security Council members regarding human rights and international governance."
+    },
+    {
+      "source": "BBC Business",
+      "category": "Economic News",
+      "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 10:25:52 GMT",
+      "japanese_title": "学校(がっこう)が14歳(さい)からテクニカル(てくにかる)な科目(かくも)を提供(ていきょう)する予定(よてい) - バーナム(ばーなむ)氏(し)の発言(はつげん)",
+      "english_summary": "In England, schools plan to introduce technical subjects such as AI and manufacturing starting at age 14, according to Business Secretary Kwarteng. The government aims to align these courses with local job market needs.",
+      "japanese_summary": "イングランド(いんぐらんど)の学校(がっこう)は、14歳(さい)からAI(エーアイ)や製造(せいぞう)などのテクニカル(てくにかる)な科目(かくも)を提供(ていきょう)する予定(よてい)です。この計画(けいかく)は、バーナム(ばーなむ)氏(し)が発言(はつげん)したものです。これらの科目(かくも)は、地元(ちもん)の仕事(しごと)と関係(かんけい)があるため、生徒(せいと)が将来(しょうらい)のキャリア(けいあり)に役立(やくた)つことを目的(もく的)としています。また、政府(せいふ)は、これらのコース(こーす)が地域(ちいき)の雇用(こよう)創出(そうしゅつ)に貢献(こうけん)することを期待(きど)しています。生徒(せいと)たちは、これらの科目(かくも)を通じ(つうじ)て、技術(ぎじゅつ)や問題(もんだい)解決(かいけつ)能力(にんりょく)を学(まな)ぶことができます。",
+      "vocabulary": [
+        {
+          "word": "提供",
+          "reading": "ていきょう",
+          "meaning": "to provide, to offer"
+        },
+        {
+          "word": "予定",
+          "reading": "よてい",
+          "meaning": "plan, intention"
+        },
+        {
+          "word": "発言",
+          "reading": "はつげん",
+          "meaning": "statement, remark"
+        },
+        {
+          "word": "関係",
+          "reading": "かんけい",
+          "meaning": "relation, connection"
+        },
+        {
+          "word": "目的",
+          "reading": "もく的",
+          "meaning": "purpose, goal"
+        },
+        {
+          "word": "期待",
+          "reading": "きど",
+          "meaning": "expectation, hope"
+        },
+        {
+          "word": "解決",
+          "reading": "かいけつ",
+          "meaning": "solution, resolution"
+        },
+        {
+          "word": "能力",
+          "reading": "にんりょく",
+          "meaning": "ability, capability"
+        }
+      ],
+      "why_it_matters": "This initiative highlights the UK's effort to align education with industry needs, preparing students for future careers in technology and manufacturing."
+    },
+    {
+      "source": "BBC Business",
+      "category": "Economic News",
+      "title": "Is it safe to travel to France and Spain right now?",
+      "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 13:54:20 GMT",
+      "japanese_title": "フランス(ふらんす)とスペイン(すぺいん)への旅行(りょこう)は今(いま)安全(あんぜん)ですか？",
+      "english_summary": "The article discusses safety concerns for travelers planning to visit France and Spain, highlighting potential impacts on holiday plans due to current conditions in these regions. It provides information for those with upcoming trips to these areas.",
+      "japanese_summary": "フランス(ふらんす)とスペイン(すぺいん)に旅行(りょこう)を計画(けいかく)している人(ひと)は、今(いま)の状況(じょうきょう)がどう影響(えいおう)するかを知っておくべき(べき)です。記事(きじ)では、これらの地域(いきどま)に影響(えいおう)が出ている可能性(かんせい)について説明(せつめい)しています。旅行(りょこう)を計画(けいかく)している人(ひと)は、安全(あんぜん)を確認(かくにん)するための情報を得(える)ことが重要(じょうよう)です。また、現地(げんち)の状況(じょうきょう)が変(か)わる可能性(かんせい)もあるため、注意(ちゅうい)が必要(ひつよう)です。今(いま)後の旅行(りょこう)に影響(えいおう)が出るかもしれない情報(じょうほう)を確認(かくにん)しておくことが勧(すす)められます。",
+      "vocabulary": [
+        {
+          "word": "旅行",
+          "reading": "りょこう",
+          "meaning": "trip, journey"
+        },
+        {
+          "word": "計画",
+          "reading": "けいかく",
+          "meaning": "plan, schedule"
+        },
+        {
+          "word": "状況",
+          "reading": "じょうきょう",
+          "meaning": "situation, condition"
+        },
+        {
+          "word": "影響",
+          "reading": "えいおう",
+          "meaning": "impact, effect"
+        },
+        {
+          "word": "地域",
+          "reading": "いきどま",
+          "meaning": "region, area"
+        },
+        {
+          "word": "重要",
+          "reading": "じょうよう",
+          "meaning": "important"
+        },
+        {
+          "word": "確認",
+          "reading": "かくにん",
+          "meaning": "confirmation, verification"
+        },
+        {
+          "word": "注意",
+          "reading": "ちゅうい",
+          "meaning": "attention, caution"
+        }
+      ],
+      "why_it_matters": "Travelers planning trips to France and Spain should be aware of current safety conditions that may affect their itineraries."
+    },
+    {
+      "source": "BBC Business",
+      "category": "Economic News",
+      "title": "The 10 most overcrowded commuter trains revealed",
+      "link": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 14:17:57 GMT",
+      "japanese_title": "最も混雑(こんざつ)する通勤(つうきん)電車(でんしゃ)10本(ほん)が発表(はつぴょう)される",
+      "english_summary": "The BBC Business reports that the UK government has revealed the 10 most overcrowded commuter trains in England and Wales. Despite a slight decrease in overcrowding due to increased capacity, the issue remains significant for commuters.",
+      "japanese_summary": "英国(イギリス)政府(せいふ)は、イングランドとウェールズで最も混雑(こんざつ)する通勤(つうきん)電車(でんしゃ)10本(ほん)を発表(はつぴょう)しました。この報告(ほうこく)によると、混雑(こんざつ)の程度(ていど)はわずかに改善(かいしょう)していますが、依然として(いぜんとして)多くの通勤者(つうきんしゃ)が困難(かんにん)を感じているようです。増加(ぞうか)した運力(うんりょく)により、混雑(こんざつ)の緩和(かんわ)が見込まれていますが、ピーク時間(じかん)には多くの人が電車(でんしゃ)に乗り込めない状況(じょうきょう)が続いています。",
+      "vocabulary": [
+        {
+          "word": "混雑",
+          "reading": "こんざつ",
+          "meaning": "crowded; congestion"
+        },
+        {
+          "word": "通勤",
+          "reading": "つうきん",
+          "meaning": "commuting"
+        },
+        {
+          "word": "発表",
+          "reading": "はつぴょう",
+          "meaning": "announcement; publication"
+        },
+        {
+          "word": "改善",
+          "reading": "かいしょう",
+          "meaning": "improvement"
+        },
+        {
+          "word": "困難",
+          "reading": "かんにん",
+          "meaning": "difficulty; hardship"
+        },
+        {
+          "word": "運力",
+          "reading": "うんりょく",
+          "meaning": "transport capacity"
+        },
+        {
+          "word": "緩和",
+          "reading": "かんわ",
+          "meaning": "mitigation; easing"
+        },
+        {
+          "word": "状況",
+          "reading": "じょうきょう",
+          "meaning": "situation; condition"
+        }
+      ],
+      "why_it_matters": "This story highlights ongoing transportation challenges in the UK and the government's efforts to address commuter overcrowding."
+    },
+    {
+      "source": "BBC Entertainment & Arts",
+      "category": "Music / Entertainment",
+      "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
+      "link": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 11:38:26 GMT",
+      "japanese_title": "ナガ・マウンチェッティ(なが・まうんちぇったい)は17年間(じゅうしちねんかん)BBCブレックファスト(びーびーしーぶれっかふあっくと)を離(はな)れる(わかれれる)",
+      "english_summary": "Naga Munchetty will leave BBC Breakfast after 17 years as co-host, moving to Radio 5 Live Breakfast as a presenter. This marks a significant change for the BBC One show, which has been a staple of morning television.",
+      "japanese_summary": "ナガ・マウンチェッティ(なが・まうんちぇったい)は17年間(じゅうしちねんかん)BBCブレックファスト(びーびーしーぶれっかふあっくと)の共同(きょうごう)ホスト(ほすと)として働(はたら)いてきた(あそってきただ)。彼女(かのじょ)は今後(こんご)ラジオ5ライブブレックファスト(らじおごらいぶぶれっかふあっくと)の司会者(しかいしゃ)になる(なってく)。BBC One(びーびーしーうぉん)の番組(ばんぐみ)は朝(あさ)のテレビの定番(ていはん)だった(だった)。この変(へん)化(か)は番組(ばんぐみ)にとって大きな(おおきな)ものだ(ものだ)。彼女(かのじょ)の新しい(あたらしい)仕事(しごと)に注目(ちゅうもく)が集(あつ)まる(まる)。",
+      "vocabulary": [
+        {
+          "word": "共同",
+          "reading": "きょうごう",
+          "meaning": "joint, together"
+        },
+        {
+          "word": "司会者",
+          "reading": "しかいしゃ",
+          "meaning": "presenter, moderator"
+        },
+        {
+          "word": "定番",
+          "reading": "ていはん",
+          "meaning": "standard, staple"
+        },
+        {
+          "word": "変化",
+          "reading": "へんか",
+          "meaning": "change, transformation"
+        },
+        {
+          "word": "注目",
+          "reading": "ちゅうもく",
+          "meaning": "attention, focus"
+        }
+      ],
+      "why_it_matters": "This story highlights a major personnel change in a long-running BBC show, which may affect its future direction and audience engagement."
+    },
+    {
+      "source": "BBC Entertainment & Arts",
+      "category": "Music / Entertainment",
+      "title": "Booker Prize longlist: See the 13 'dynamite' novels up for this year's prestigious award",
+      "link": "https://www.bbc.co.uk/news/articles/czekl599087o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 13:00:16 GMT",
+      "japanese_title": "ブッカー賞(ぶっかーしょう)の長(なが)編(へん)リスト(りすと): 今年(ことし)の栄誉(えいよ)ある賞(しょう)に挙(あ)げら(れ)れた13の『ダイナマイト(ダイナマイト)』小説(しょうせつ)",
+      "english_summary": "The Booker Prize longlist for this year has been announced, featuring 13 'dynamite' novels. Notable authors on the list include Elizabeth Strout, Douglas Stuart, and Marlon James.",
+      "japanese_summary": "ブッカー賞(ぶっかーしょう)の長編(ながへん)リスト(りすと)が発表(はっぴょう)され(られ)ました(ました)。今年(ことし)の栄誉(えいよ)ある賞(しょう)に挙げ(あ)げら(れ)れた13の『ダイナマイト(ダイナマイト)』小説(しょうせつ)が紹介(しょうかい)されています(されています)。エリザベス・ストラウト(えりざべす・すとらうと)、ダグラス・スタuart(だぐらす・すたうあーと)、マーロン・ジェームズ(まーろん・じぇーむず)などの著名(ちょむ)な著者(ちくし)が含まれ(ふくまれ)ています(ています)。このリスト(りすと)に挙げ(あ)げら(れ)れた小説(しょうせつ)は、文学(ぶんがく)的に(てきに)非常に(ひじいに)価値(かち)が高い(たかいか)と評価(ひょうか)されています(されています)。ブッカー賞(ぶっかーしょう)は毎年(まいねん)、優れた(すぐれつ)文学作品(ぶんがくさくひん)に贈(おくる)られる(られ)ます(ます)。",
+      "vocabulary": [
+        {
+          "word": "長編",
+          "reading": "ながへん",
+          "meaning": "long-form (novel)"
+        },
+        {
+          "word": "栄誉",
+          "reading": "えいよ",
+          "meaning": "honor, glory"
+        },
+        {
+          "word": "挙げ",
+          "reading": "あげ",
+          "meaning": "to mention, to cite"
+        },
+        {
+          "word": "著名",
+          "reading": "ちょむ",
+          "meaning": "famous, well-known"
+        },
+        {
+          "word": "著者",
+          "reading": "ちくし",
+          "meaning": "author"
+        },
+        {
+          "word": "価値",
+          "reading": "かち",
+          "meaning": "value, worth"
+        },
+        {
+          "word": "評価",
+          "reading": "ひょうか",
+          "meaning": "evaluation, appraisal"
+        },
+        {
+          "word": "贈られる",
+          "reading": "おくるられ",
+          "meaning": "to be given, to be awarded"
+        }
+      ],
+      "why_it_matters": "The Booker Prize is one of the most prestigious literary awards, and its longlist highlights significant works that may go on to win the prize."
+    },
+    {
+      "source": "BBC Entertainment & Arts",
+      "category": "Music / Entertainment",
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 15:11:28 GMT",
+      "japanese_title": "オドッセイの翻訳者(はんやくしゃ)がノーラン映画(えいが)のアダプテーション(あだぷてーしょん)を厳しい(きびしい)レビュー(りゅーびゅー)する",
+      "english_summary": "A translator of Homer's Odyssey has criticized Christopher Nolan's film adaptation, despite the movie receiving rave reviews from film critics. The translator found the adaptation lacking in capturing the essence of the original epic.",
+      "japanese_summary": "オドッセイ(おうどっせい)の翻訳者(はんやくしゃ)が、ノーラン(のうらん)監督(かんとう)の映画(えいが)のアダプテーション(あだぷてーしょん)に対して厳しい(きびしい)レビュー(りゅーびゅー)をした。この映画(えいが)は、映画批評家(えいがひひょうか)から高い評価(こうか)を受けていた。翻訳者(はんやくしゃ)は、このアダプテーション(あだぷてーしょん)が原作(げんさく)のエッセンス(えっせんす)をうまく再現(さいげん)できていないと感じた。彼(かれ)は、原作(げんさく)の精神(せいしん)を映画(えいが)に反映(はんえい)できていないと述べた。この件(けん)は、文学(ぶきん)と映画(えいが)の関係(かんけい)についての議論(ぎろん)を引き起こした。",
+      "vocabulary": [
+        {
+          "word": "翻訳者",
+          "reading": "はんやくしゃ",
+          "meaning": "translator"
+        },
+        {
+          "word": "厳しい",
+          "reading": "きびしい",
+          "meaning": "severe, harsh"
+        },
+        {
+          "word": "映画批評家",
+          "reading": "えいがひひょうか",
+          "meaning": "film critic"
+        },
+        {
+          "word": "原作",
+          "reading": "げんさく",
+          "meaning": "original work"
+        },
+        {
+          "word": "再現",
+          "reading": "さいげん",
+          "meaning": "reproduction, recreation"
+        },
+        {
+          "word": "精神",
+          "reading": "せいしん",
+          "meaning": "spirit, mind"
+        },
+        {
+          "word": "反映",
+          "reading": "はんえい",
+          "meaning": "reflection, manifestation"
+        },
+        {
+          "word": "関係",
+          "reading": "かんけい",
+          "meaning": "relationship"
+        }
+      ],
+      "why_it_matters": "This story highlights the challenges of adapting classic literature into film and the differing perspectives between literary experts and filmmakers."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "Alonso's first Chelsea match a tale of four strikers",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 13:28:28 GMT",
+      "japanese_title": "アロンソ(アロンソ)のチェルシー(チェルシー)初(しょ)マッチは4人のストライカー(ストライカー)の物語(ものがたり)",
+      "english_summary": "Xabi Alonso's first match as Chelsea's manager featured four strikers, with one scoring a hat-trick and another potentially leaving the club. The game highlighted both offensive strength and uncertainty in the team's future.",
+      "japanese_summary": "アロンソ(アロンソ)氏(し)のチェルシー(チェルシー)初(しょ)マッチは、4人のストライカー(ストライカー)が活(かつ)動(どう)した物語(ものがたり)です。1人はハットトリック(ハットトリック)を記(き)録(ろく)し、1人はクラブ(クラブ)を離(ばな)れる可能性(かんせい)があると報(ほう)じられました。この試(し)合(あい)では、攻(こう)撃(げき)の強(つよ)さとチーム(チーム)の将来(しょうらい)にかかわる不(ふ)確(かく)定(てい)性(せい)が見(み)られました。アロンソ(アロンソ)氏(し)は、選(せん)手(し)たちのパフォーマンス(パフォーマンス)に満(まん)足(ぞく)していると語(かた)ったようです。この試(し)合(あい)は、今(いまと)後のチーム(チーム)構(こう)成(せい)に影(えい)響(えいきょう)を与(あた)える可能性(かんせい)があります。",
+      "vocabulary": [
+        {
+          "word": "初",
+          "reading": "しょ",
+          "meaning": "first; initial"
+        },
+        {
+          "word": "活動",
+          "reading": "かつどう",
+          "meaning": "activity; action"
+        },
+        {
+          "word": "記録",
+          "reading": "きろく",
+          "meaning": "record; recording"
+        },
+        {
+          "word": "可能性",
+          "reading": "かんせい",
+          "meaning": "possibility; probability"
+        },
+        {
+          "word": "不確実性",
+          "reading": "ふかくじつせい",
+          "meaning": "uncertainty; ambiguity"
+        },
+        {
+          "word": "満足",
+          "reading": "まんぞく",
+          "meaning": "satisfaction; contentment"
+        },
+        {
+          "word": "構成",
+          "reading": "こうせい",
+          "meaning": "composition; structure"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence; effect"
+        }
+      ],
+      "why_it_matters": "This story highlights a significant moment in Xabi Alonso's managerial career and shows the dynamic changes happening within Chelsea FC."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "Celtic 'a really good match' for record signing Hogh",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 14:43:18 GMT",
+      "japanese_title": "セルティックは (セルティックは) ホグ (ホグ) にとって (にとって) 実に (実に) 良い (良い) マッチ (マッチ) である (である)",
+      "english_summary": "Celtic FC has broken their transfer record by signing Danish striker Kasper Hogh from Bodo/Glimt on a four-year contract. The move highlights Celtic's ambition to strengthen their attacking options.",
+      "japanese_summary": "セルティック (セルティック) は (は) デンマーク (デンマーク) の (の) ストライカー (ストライカー) 、カスパル・ホグ (カスパル・ホグ) を (を) 買い取り (かいとり) する (する) ために (ために) レコード (レコード) を (を) 突破 (とっぱ) しました (しました) 。ホグ (ホグ) は (は) ボド・グリムト (ボド・グリムト) から (から) 四年 (よんねん) の (の) プラント (プラント) に (に) 紹介 (しょうかい) されました (されました) 。この (この) 移動 (いどう) は (は) セルティック (セルティック) が (が) 攻撃 (こうげき) の (の) 選択肢 (せんたくし) を (を) 強化 (きょうか) する (する) ために (ために) 進みました (進みました) 。ホグ (ホグ) は (は) 今シーズン (こんせASON) から (から) セルティック (セルティック) の (の) フォーム (フォーム) を (を) 増やす (ふやす) ために (ために) 集中 (しゅうちゅう) しています (しています) 。",
+      "vocabulary": [
+        {
+          "word": "買い取り",
+          "reading": "かいとり",
+          "meaning": "purchase, buy out"
+        },
+        {
+          "word": "突破",
+          "reading": "とっぱ",
+          "meaning": "break through, surpass"
+        },
+        {
+          "word": "紹介",
+          "reading": "しょうかい",
+          "meaning": "introduce, present"
+        },
+        {
+          "word": "強化",
+          "reading": "きょうか",
+          "meaning": "strengthen, reinforce"
+        },
+        {
+          "word": "選択肢",
+          "reading": "せんたくし",
+          "meaning": "option, choice"
+        },
+        {
+          "word": "集中",
+          "reading": "しゅうちゅう",
+          "meaning": "concentrate, focus"
+        }
+      ],
+      "why_it_matters": "This transfer highlights Celtic's strategic investment in their attacking lineup and sets a new benchmark for their financial commitments in player acquisitions."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "Mancini reappointed Italy boss after Pirlo controversy",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 13:54:00 GMT",
+      "japanese_title": "マッキーニ(まっきーに)がイタリア(いたりあ)の監督(かんとう)に再任(さいにん) - ピルロ(ピルロ)の騒動(そうどう)の後(あと)",
+      "english_summary": "Roberto Mancini has been reappointed as Italy's head coach following a controversy involving Andrea Pirlo and the resignation of technical director Paolo Maldini. Pirlo had previously withdrawn from consideration for the role.",
+      "japanese_summary": "ロベルト・マッキーニ(まっきーに)氏(し)がイタリア(いたりあ)の監督(かんとう)に再任(さいにん)され、ピルロ(ピルロ)氏(し)の騒動(そうどう)の後(あと)に決定(けいとう)されました。ピルロ(ピルロ)氏(し)はこのポジション(ぽじしょん)を辞退(じたい)し、技術(ぎじゅつ)ディレクター(でぃれくたー)のパオロ・マルディーニ(ぱあるょ・まるでぃに)氏(し)は辞表(じひょう)を提出(ていしゅつ)しました。この決定(けいとう)は、イタリア(いたりあ)の代表(だいひょう)チーム(てーむ)の今後(いまごし)の方向性(ほうこうせい)に影響(えいきょう)を与(あた)える可能性(かんせい)があります。マッキーニ(まっきーに)氏(し)は、イタリア(いたりあ)代表(だいひょう)チーム(てーむ)を率(ひき)いることにより、国際(こくさい)的な試合(しあい)で良い結果(けっか)を出(だ)すことを期待(きたい)されています。この出来事(できごと)は、イタリア(いたりあ)サッカー(さっかー)界(かい)の重要な(じゅうよな)変化(へんか)を示(し)しています。",
+      "vocabulary": [
+        {
+          "word": "再任",
+          "reading": "さいにん",
+          "meaning": "reappointment"
+        },
+        {
+          "word": "騒動",
+          "reading": "そうどう",
+          "meaning": "controversy, incident"
+        },
+        {
+          "word": "辞退",
+          "reading": "じたい",
+          "meaning": "withdrawal, refusal"
+        },
+        {
+          "word": "辞表",
+          "reading": "じひょう",
+          "meaning": "resignation letter"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
         },
         {
           "word": "方向性",
           "reading": "ほうこうせい",
-          "meaning": "direction or orientation"
+          "meaning": "direction, course"
         },
         {
-          "word": "引き下げる",
-          "reading": "ひきさげる",
-          "meaning": "to lower or reduce"
+          "word": "期待",
+          "reading": "きたい",
+          "meaning": "expectation, hope"
         },
         {
-          "word": "案",
-          "reading": "あん",
-          "meaning": "proposal or plan"
-        },
-        {
-          "word": "見通し",
-          "reading": "みつうし",
-          "meaning": "forecast or expectation"
-        },
-        {
-          "word": "実務者",
-          "reading": "じむしや",
-          "meaning": "practitioner or professional"
-        },
-        {
-          "word": "超党派",
-          "reading": "ちょうとうは",
-          "meaning": "cross-party or bipartisan"
-        },
-        {
-          "word": "打ち出す",
-          "reading": "うちはで",
-          "meaning": "to announce or propose"
+          "word": "変化",
+          "reading": "へんか",
+          "meaning": "change, transformation"
         }
       ],
-      "why_it_matters": "This story is important as it highlights the ongoing debate and potential changes in Japan's consumption tax policy, which significantly impacts the economy and public finances."
+      "why_it_matters": "This story highlights the ongoing leadership changes in Italy's national football team and the impact of key figures like Mancini and Pirlo on the team's future."
+    },
+    {
+      "source": "OpenAI News",
+      "category": "Tech",
+      "title": "How AI is expanding what people do at work",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "published": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "japanese_title": "AI(エーアイ)が仕事(しごと)で人々(ひとびと)がすることを広(ひろ)げている",
+      "english_summary": "New research from OpenAI reveals that AI is expanding the range of tasks workers perform, with ChatGPT users taking on diverse roles and reshaping job boundaries. The study highlights how AI integration is transforming traditional work roles and responsibilities.",
+      "japanese_summary": "AI(エーアイ)は仕事(しごと)で人々(ひとびと)がすることを広(ひろ)げている。新しい(あたらしく)研究(けんきゅう)では、AI(エーアイ)が仕事(しごと)の範囲(はんい)を広(ひろ)げ、ChatGPT(ちゃっとじーぴーたー)を使(つか)う人々(ひとびと)がさまざまな(さまざまな)役割(やくわり)を果た(はた)していることが示(しめ)されている。この研究(けんきゅう)は、仕事(しごと)の境界(きょうかい)が変(か)わっていることを示(しめ)している。AI(エーアイ)の導入(どうにゅう)により(により)、伝統的(でんとうてき)な仕事(しごと)の役割(やくわり)と責任(せきにん)が変(か)わっていることがわかり(わかり)ます。",
+      "vocabulary": [
+        {
+          "word": "広げる",
+          "reading": "ひろげる",
+          "meaning": "to expand"
+        },
+        {
+          "word": "研究",
+          "reading": "けんきゅう",
+          "meaning": "research"
+        },
+        {
+          "word": "範囲",
+          "reading": "はんい",
+          "meaning": "scope, range"
+        },
+        {
+          "word": "境界",
+          "reading": "きょうかい",
+          "meaning": "boundary"
+        },
+        {
+          "word": "導入",
+          "reading": "どうにゅう",
+          "meaning": "introduction, implementation"
+        },
+        {
+          "word": "伝統的",
+          "reading": "でんとうてき",
+          "meaning": "traditional"
+        },
+        {
+          "word": "責任",
+          "reading": "せきにん",
+          "meaning": "responsibility"
+        },
+        {
+          "word": "果たす",
+          "reading": "はたす",
+          "meaning": "to perform, to fulfill"
+        }
+      ],
+      "why_it_matters": "This story highlights the transformative impact of AI on modern work roles and responsibilities, offering insights into how technology is reshaping the future of work."
+    },
+    {
+      "source": "OpenAI News",
+      "category": "Tech",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "japanese_title": "エフィンガム郡(えふいんがむぐん)の地域(ちいき)と協(きょう)力(りょく)してAIインフラ(いんふら)を構(か)築(ちく)する",
+      "english_summary": "OpenAI has launched Project Camellia in Effingham County, Georgia, focusing on building AI infrastructure while committing to responsible energy use, community investment, job creation, and access to Codex. The initiative aims to foster collaboration between the company and the local community.",
+      "japanese_summary": "オペンAI(オープンエイ)は、ジョージア州(しゅう)のエフィンガム郡(えふいんがむぐん)で「プロジェクト・カメリア(ぷれじぇくと・かめりあ)」を開始(かいし)しました。このプロジェクトでは、AIインフラ(いんふら)を構(か)築(ちく)する一方(いっぽう)で、エネルギーの責任(せきにん)ある使用(しよう)や地域(ちいき)への投資(とうし)、雇(こ)用(よう)の創(そう)出(しゅつ)、Codexへのアクセス(あっくせす)を約(やく)束(そく)しています。地元(ちもん)のコミュニティ(こみゅにてぃ)と協(きょう)力(りょく)して、持(も)続(ぞく)可能な(かん)発(はつ)展(てん)を目指(めい)しています。この取り組(とりく)みは、AI技術(ぎじゅつ)の発(はつ)展(てん)と地域(ちいき)のニーズ(にーず)を結(むす)びつけるためのものです。また、プロジェクトを通(つう)じて、地元(ちもん)の企業(きぎょう)や研究(けんきゅう)機関(きかん)と協(きょう)力(りょく)し、地域(ちいき)の経済(けいざい)発(はつ)展(てん)を促(うか)進(しん)する予(よ)定(てい)です。",
+      "vocabulary": [
+        {
+          "word": "構築",
+          "reading": "こうちく",
+          "meaning": "construction, building"
+        },
+        {
+          "word": "責任",
+          "reading": "せきにん",
+          "meaning": "responsibility"
+        },
+        {
+          "word": "地域",
+          "reading": "ちいき",
+          "meaning": "region, area"
+        },
+        {
+          "word": "投資",
+          "reading": "とうし",
+          "meaning": "investment"
+        },
+        {
+          "word": "雇用",
+          "reading": "こよう",
+          "meaning": "employment"
+        },
+        {
+          "word": "持続可能",
+          "reading": "じそくかんのう",
+          "meaning": "sustainable"
+        },
+        {
+          "word": "促進",
+          "reading": "そしん",
+          "meaning": "promotion, advancement"
+        },
+        {
+          "word": "協力",
+          "reading": "きょうりょく",
+          "meaning": "cooperation, assistance"
+        }
+      ],
+      "why_it_matters": "This initiative highlights OpenAI's commitment to ethical AI development and community engagement, setting a precedent for other tech companies to follow in balancing innovation with social responsibility."
     }
   ]
 }
