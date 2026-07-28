@@ -1,5 +1,59 @@
 {
-  "generated_at": "2026-07-26T03:44:31.603725+00:00",
+  "generated_at": "2026-07-28T00:09:46.169705+00:00",
   "model": "qwen3:14b",
-  "articles": []
+  "articles": [
+    {
+      "source": "NHK News",
+      "category": "Japan News",
+      "title": "消費税減税 自民内税率1％案で進めるべきの意見も 首相判断へ",
+      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187501000.html",
+      "published": "Tue, 28 Jul 2026 05:11:24 +0900",
+      "japanese_title": "消費税(しょうひぜい)減税(げんぜい) 自民(じみん)内(ない)税率(ぜい率)1％(いっ％)案(あん)で(で)進める(すすめる)べき(べき)の(の)意見(いけん)も(も) 首相(しゅしょう)判断(はんだん)へ(へ)",
+      "english_summary": "A revised proposal for the intermediate summary of the consumption tax reduction has been presented, but no consensus was reached in the practical session of the cross-party 'National Conference'. Within the LDP, there are opinions suggesting that a plan to lower the tax rate by 1% for two years starting next April should be implemented, with the Prime Minister expected to make a decision soon.",
+      "japanese_summary": "消費税(しょうひぜい)減税(げんぜい)について(について)、超党派(ちょうとうは)の「国民会議(こくみんかいぎ)」の実務者会議(じむしやかいぎ)では(では)、意見(いけん)の一致(いっち)に(に)至(いた)らなかった(いたらなかった)と(と)明記(めいき)された(された)中間とりまとめ案(ちゅうかんとりまとめあん)の修正案(しゅうせいあん)が(が)示(し)され(され)、方向性(ほうこうせい)は(は)打ち出(うちはで)され(され)なかった(なかった)。自民党(じみんとう)内(ない)では(では)、来年(らいねん)4月(がつ)から(から)2年(ねん)間(かん)、税率(ぜいりつ)を(を)1％(いっ％)に(に)引き下げる(ひきさげる)など(など)した(した)案(あん)で(で)進める(すすめる)べき(べき)だ(だ)という(という)意見(いけん)も(も)出(だ)て(て)いて(いて)、高市(たかち)首相(しゅしょう)が(が)近く(ちかく)方針(ほうしん)を(を)判断(はんだん)する(する)見通し(みつうし)です(です)。",
+      "vocabulary": [
+        {
+          "word": "明記",
+          "reading": "めいき",
+          "meaning": "to explicitly state or record"
+        },
+        {
+          "word": "方向性",
+          "reading": "ほうこうせい",
+          "meaning": "direction or orientation"
+        },
+        {
+          "word": "引き下げる",
+          "reading": "ひきさげる",
+          "meaning": "to lower or reduce"
+        },
+        {
+          "word": "案",
+          "reading": "あん",
+          "meaning": "proposal or plan"
+        },
+        {
+          "word": "見通し",
+          "reading": "みつうし",
+          "meaning": "forecast or expectation"
+        },
+        {
+          "word": "実務者",
+          "reading": "じむしや",
+          "meaning": "practitioner or professional"
+        },
+        {
+          "word": "超党派",
+          "reading": "ちょうとうは",
+          "meaning": "cross-party or bipartisan"
+        },
+        {
+          "word": "打ち出す",
+          "reading": "うちはで",
+          "meaning": "to announce or propose"
+        }
+      ],
+      "why_it_matters": "This story is important as it highlights the ongoing debate and potential changes in Japan's consumption tax policy, which significantly impacts the economy and public finances."
+    }
+  ]
 }
