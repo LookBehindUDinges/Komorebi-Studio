@@ -1,1045 +1,200 @@
 {
-  "generated_at": "2026-08-03T14:37:43.808856+00:00",
+  "generated_at": "2026-08-04T15:04:09.243132+00:00",
   "model": "qwen3:14b",
   "articles": [
     {
       "source": "NHK News",
       "category": "Japan News",
-      "title": "熊本市などで初の酷暑日 被災地であすも危険な暑さ続く見込み",
-      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
-      "published": "Mon, 03 Aug 2026 19:31:26 +0900",
-      "japanese_title": "熊本(くまもと)市などであすも危険(きけん)な暑さ(あつさ)続く(つづく)見込み(みこみ)",
-      "english_summary": "Kumamoto Prefecture, which experienced a magnitude 7 earthquake on July 28, is now facing its first-ever heatwave day with temperatures exceeding 40 degrees Celsius. The Japan Meteorological Agency warns that dangerous heat is expected to continue for four days, urging residents to take precautions against heatstroke.",
-      "japanese_summary": "熊本(くまもと)県(けん)では、7月(ながつき)28日(にち)に最大(さいだい)震度(しんどの)7の非常に(ひじょうに)激しく(はげしく)揺れ(ゆれ)が観測(かんそく)され、地震(じしん)活動(かつどう)が活発(かつぱつ)になっている。熊本(くまもと)市(し)などでは、日中(ひちゅう)の最高(さいこう)気温(きおん)が40度(ど)を超(こ)える初(はじめて)の酷暑(こくしょ)日(ひ)になり、4日(よっか)も危険(きけん)な暑さ(あつさ)が続く(つづく)見込み(みこみ)だ。気象(きしょう)庁(ちょう)は、引き続き(ひきつづき)最大(さいだい)震度(しんどの)7程度(ていど)の揺れ(ゆれ)に注意(ちゅうい)するよう呼びかけ(よびかけ)るとともに、できるだけの熱中症(ねっちゅうしょう)対策(たいさく)をとるよう呼びかけている。",
+      "title": "【地震速報】宮城 石巻で震度3 津波の心配なし",
+      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015196741000.html",
+      "published": "Tue, 04 Aug 2026 23:20:06 +0900",
+      "japanese_title": "【地震速報】宮城(みやぎ) 石巻(いしんま)で震度(しんどう)3 津波(つなば)の心配(しんぱい)なし",
+      "english_summary": "A magnitude 3 earthquake was recorded in Ishinomaki, Miyagi Prefecture around 11 PM on the 4th. There is no risk of a tsunami from this earthquake.",
+      "japanese_summary": "4日(よんにち)午後(ごご)11時(じ)ごろ(ごろ)、宮城(みやぎ)県(けん)で震度(しんどう)3のゆれ(ゆれ)をかんざい(かんざい)する(する)じしん(じしん)が(が)ありました(ありました)。この(この)じしん(じしん)による(による)津波(つなば)の(の)心配(しんぱい)は(は)ありません(ありません)。地震(じしん)は(は)石巻(いしんま)市(し)で(で)起きた(起きた)と(と)伝え(つたえ)られています(られています)。宮城(みやぎ)県(けん)は(は)東北(とうほく)地方(ちほう)に(に)あり(あり)、地震(じしん)が(が)よく(よく)起こる(おこる)地域(ちいき)です(です)。この(この)たび(たび)の(の)地震(じしん)は(は)規模(きが)が(が)小さ(ちいさ)くて(くて)、大きな(おおきな)被害(ひがい)は(は)ないと(ないと)考え(かんがえ)られています(られています)。",
       "vocabulary": [
         {
+          "word": "宮城",
+          "reading": "みやぎ",
+          "meaning": "Miyagi"
+        },
+        {
+          "word": "石巻",
+          "reading": "いしんま",
+          "meaning": "Ishinomaki"
+        },
+        {
+          "word": "震度",
+          "reading": "しんどう",
+          "meaning": "intensity"
+        },
+        {
+          "word": "津波",
+          "reading": "つなば",
+          "meaning": "tsunami"
+        },
+        {
+          "word": "心配",
+          "reading": "しんぱい",
+          "meaning": "worry, concern"
+        },
+        {
           "word": "観測",
-          "reading": "かんそく",
+          "reading": "かんざい",
           "meaning": "observation, measurement"
         },
         {
-          "word": "活発",
-          "reading": "かつぱつ",
-          "meaning": "active, vigorous"
-        },
-        {
-          "word": "最高",
-          "reading": "さいこう",
-          "meaning": "highest, maximum"
-        },
-        {
-          "word": "超える",
-          "reading": "こえる",
-          "meaning": "to exceed, to surpass"
-        },
-        {
-          "word": "危険",
-          "reading": "きけん",
-          "meaning": "dangerous, risky"
-        },
-        {
-          "word": "呼びかけ",
-          "reading": "よびかけ",
-          "meaning": "call out, appeal"
-        },
-        {
-          "word": "注意",
-          "reading": "ちゅうい",
-          "meaning": "attention, caution"
-        },
-        {
-          "word": "対策",
-          "reading": "たいさく",
-          "meaning": "measure, countermeasure"
-        }
-      ],
-      "why_it_matters": "This story highlights the dual challenges faced by Kumamoto residents dealing with both ongoing seismic activity and extreme heat, emphasizing the need for disaster preparedness in Japan's earthquake-prone regions."
-    },
-    {
-      "source": "NHK News",
-      "category": "Japan News",
-      "title": "7月31日介入は4兆円超える規模か 民間仲介会社の分析",
-      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195391000.html",
-      "published": "Mon, 03 Aug 2026 22:42:20 +0900",
-      "japanese_title": "7月31日介入(しゅとん)は4兆円(しょうちょうえん)超える(こえる)規模(がい)か 民間(みんかん)仲介(ちゅうかい)会社(かいしゃ)の分析(ぶんせき)",
-      "english_summary": "A private financial intermediary company analyzed that the coordinated intervention between Japan and the US on July 31st, which was conducted in Eastern Time, may have exceeded 4 trillion yen in scale. The analysis suggests that the government and the Bank of Japan's intervention could have reached such a level.",
-      "japanese_summary": "7月31日(しちがつさんじゅういちにち)介入(しゅとん)は4兆円(しょうちょうえん)超える(こえる)規模(がい)か 民間(みんかん)仲介(ちゅうかい)会社(かいしゃ)の分析(ぶんせき)。アメリカ東部時間(アメリカとうぶじかん)の先月31日(せんげつさんじゅういちにち)に行われた(いわれた)日米(にちべい)の協調(きょうちょう)介入(しゅとん)について(について)、民間(みんかん)の金融(きんゆう)仲介(ちゅうかい)会社(かいしゃ)は、政府(せいふ)・日銀(にきん)による(による)介入(しゅとん)は推計(すいけい)で4兆円(しょうちょうえん)を超える(こえる)規模(がい)だった(だった)可能性(かんせい)がある(ある)と分析(ぶんせき)しています(しています)。",
-      "vocabulary": [
-        {
-          "word": "介入",
-          "reading": "しゅとん",
-          "meaning": "intervention"
+          "word": "地域",
+          "reading": "ちいき",
+          "meaning": "region, area"
         },
         {
           "word": "規模",
-          "reading": "がい",
-          "meaning": "scale, size"
-        },
-        {
-          "word": "民間",
-          "reading": "みんかん",
-          "meaning": "private, non-governmental"
-        },
-        {
-          "word": "仲介",
-          "reading": "ちゅうかい",
-          "meaning": "mediation, intermediary"
-        },
-        {
-          "word": "会社",
-          "reading": "かいしゃ",
-          "meaning": "company"
-        },
-        {
-          "word": "分析",
-          "reading": "ぶんせき",
-          "meaning": "analysis, examination"
-        },
-        {
-          "word": "協調",
-          "reading": "きょうちょう",
-          "meaning": "coordinated, harmonious"
-        },
-        {
-          "word": "推計",
-          "reading": "すいけい",
-          "meaning": "estimation, projection"
+          "reading": "きが",
+          "meaning": "scale, magnitude"
         }
       ],
-      "why_it_matters": "This story highlights the significant financial intervention between Japan and the US, providing insight into the scale of government actions in stabilizing economic conditions."
+      "why_it_matters": "This earthquake, while not causing damage, highlights the importance of being prepared for seismic activity in Japan."
     },
     {
       "source": "NHK News",
       "category": "Japan News",
-      "title": "台風13号 小笠原で高波・暴風厳重警戒 その後沖縄・奄美へ",
-      "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194591000.html",
-      "published": "Mon, 03 Aug 2026 18:49:14 +0900",
-      "japanese_title": "台風(たいふう)13号(ごう) 小笠原(こがさら)で高波(こうなみ)・暴風(ぼうふう)厳重(げんちょう)警戒(けいがい) その後(ごうか)沖縄(おきなわ)・奄美(あまみ)へ",
-      "english_summary": "Typhoon 13 is approaching the Ogasawara Islands, with the Japan Meteorological Agency issuing strict warnings for high waves and strong winds. After passing the Ogasawara Islands, the typhoon is expected to move toward Okinawa and the Amami Islands, with potential for severe weather over the weekend.",
-      "japanese_summary": "台風(たいふう)13号(ごう)は、小笠原(こがさら)近海(きんかい)に近づいていて、4日(よか)に小笠原諸島(こがさらしょとう)に最も(もっとも)近づく見込み(みこみ)です。気象庁(きしょうちょう)は、高波(こうなみ)と暴風(ぼうふう)に厳重(げんちょう)に警戒(けいがい)しているほか、不要不急(ふようふきゅう)の外出(がいがい)を控(ひか)えるよう呼びかけ(よびかけ)ています。その後(ごうか)、5日(ごか)から週末(しゅうまつ)にかけて、沖縄(おきなわ)と奄美(あまみ)、九州(きゅうしゅう)南部(なんぶ)で大荒れ(おおあら)の天気(てんき)になるおそれ(おそり)があり、最新(さいしん)の情報を注意(にちゅう)する必要があります(いります)。",
+      "title": "熊本地震1週間 38人死亡 断水は今月末までに応急復旧の見込み",
+      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195471000.html",
+      "published": "Tue, 04 Aug 2026 21:35:04 +0900",
+      "japanese_title": "熊本地震(くままたいしん)1週間(しゅうかん) 38人(にん)が死(し)に",
+      "english_summary": "One week after the Kumamoto earthquake, which measured 7 on the Japanese scale, 38 people have died, with over 7,500 still in shelters. The government expects emergency water restoration to be completed by the end of the month for over 44,000 households affected by water outages.",
+      "japanese_summary": "熊本地震(くままたいしん)は、1週間(しゅうかん)が経(た)過(か)しました。この地震(じしん)で、38人(にん)が死(し)に、避難所(ひなんしょ)に7500人(にん)以上(いじょう)が避難(ひなん)しています。一方(いっぽう)、4万4000戸(まんよんせんよんひゃく戸)以上(いじょう)で続(つづ)いていた断水(だんすい)について、国(くに)は今(いま)月末(げつまつ)までに応急復旧(おうきゅうふっきゅう)が完了(かんりょう)する見込み(みこみ)だとしています。この地震(じしん)は最大(さいだい)震度(しんど)7を観測(かんざい)しました。国(くに)は、応急復旧(おうきゅうふっきゅう)が終わ(おわ)るまでに、断水(だんすい)が続く(つづく)見込み(みこみ)です。避難所(ひなんしょ)では、多くの(おおなる)人が(ひと)生活(せいかつ)を送(おくる)っています。",
       "vocabulary": [
         {
-          "word": "台風",
-          "reading": "たいふう",
-          "meaning": "typhoon"
-        },
-        {
-          "word": "厳重",
-          "reading": "げんちょう",
-          "meaning": "strict, serious"
-        },
-        {
-          "word": "警戒",
-          "reading": "けいがい",
-          "meaning": "caution, warning"
-        },
-        {
-          "word": "不要不急",
-          "reading": "ふようふきゅう",
-          "meaning": "unnecessary, not urgent"
-        },
-        {
-          "word": "外出",
-          "reading": "がいがい",
-          "meaning": "going out, leaving home"
-        },
-        {
-          "word": "大荒れ",
-          "reading": "おおあら",
-          "meaning": "severe, stormy"
-        },
-        {
-          "word": "注意",
-          "reading": "にちゅう",
-          "meaning": "attention, caution"
-        },
-        {
-          "word": "情報",
-          "reading": "じょうほう",
-          "meaning": "information, data"
-        }
-      ],
-      "why_it_matters": "This story is important because it provides critical weather updates about a powerful typhoon approaching Japanese islands, which can help residents prepare and stay safe."
-    },
-    {
-      "source": "New York Times",
-      "category": "US News",
-      "title": "Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.",
-      "link": "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html",
-      "published": "Mon, 03 Aug 2026 13:34:41 +0000",
-      "japanese_title": "マックス・ミラー(まっくす・みらー)は虐待(あぶれい)の容疑(ようぎ)で辞職(じしょく)しない。ここまでの情報(じょうほう)。",
-      "english_summary": "Max Miller, an Ohio Republican running for a third term, has refused to step down despite allegations of domestic abuse. The deadline for replacing him on the ballot is approaching.",
-      "japanese_summary": "マックス・ミラー(まっくす・みらー)はオハイオ州(おハイオしゅう)の共和党(こうわとう)議員(ぎいん)で、3期(き)目の選挙(せんきょ)に挑戦(ちょうせん)しています。彼(かれ)は、家庭内(かていない)の虐待(あぶれい)の容疑(ようぎ)がかけられているにもかかわらず、辞職(じしょく)しないと述べ(もつ)ています。選挙(せんきょ)の立候補(たっこうほ)を替える(かえる)期限(きげん)が近づ(ちか)っているにもかかわらず、彼(かれ)はその期限(きげん)を守(まも)らないと発言(はつげん)しています。この件(けん)についての調査(ちょうさ)はまだ進んでいません。",
-      "vocabulary": [
-        {
-          "word": "共和党",
-          "reading": "こうわとう",
-          "meaning": "Republican Party"
-        },
-        {
-          "word": "議員",
-          "reading": "ぎいん",
-          "meaning": "member of parliament"
-        },
-        {
-          "word": "選挙",
-          "reading": "せんきょ",
-          "meaning": "election"
-        },
-        {
-          "word": "家庭内",
-          "reading": "かていない",
-          "meaning": "within the family"
-        },
-        {
-          "word": "容疑",
-          "reading": "ようぎ",
-          "meaning": "allegation"
-        },
-        {
-          "word": "辞職",
-          "reading": "じしょく",
-          "meaning": "resignation"
-        },
-        {
-          "word": "期限",
-          "reading": "きげん",
-          "meaning": "deadline"
-        },
-        {
-          "word": "調査",
-          "reading": "ちょうさ",
-          "meaning": "investigation"
-        }
-      ],
-      "why_it_matters": "This story highlights the ongoing controversy and political defiance surrounding a high-profile figure in American politics."
-    },
-    {
-      "source": "New York Times",
-      "category": "US News",
-      "title": "Trump’s Meddling in Justice Dept. Causes Problems of His Own Making",
-      "link": "https://www.nytimes.com/2026/08/03/us/trump-doj-comey-reflecting-pool-blanche.html",
-      "published": "Mon, 03 Aug 2026 13:26:13 +0000",
-      "japanese_title": "トランプ大統領(だいとうりょう)の司法省(さぽうしょう)への関与(かんよ)が、彼(かれ)自身(じしん)の問題(もんだい)を引き起こ(ひきおこ)す",
-      "english_summary": "President Trump's interference in the Justice Department has endangered a criminal case, created potential for sanctions in another, and hurt the confirmation prospects of his nominee for attorney general. His actions have led to complications that may come back to haunt him.",
-      "japanese_summary": "トランプ大統領(だいとうりょう)の司法省(さぽうしょう)への関与(かんよ)は、彼(かれ)自身(じしん)の問題(もんだい)を引き起こ(ひきおこ)している。この一週間(いっしゅうかん)の間に、1つの犯罪(はんざい)事件(じけん)が危(あや)うくなり、もう1つの事件(じけん)では処罰(しょばつ)が起こる可能性(かんせい)が高(たか)まった。また、司法長官(さいほうちょうかん)の指名(しめい)候補(こうほ)の承認(しょうにん)が難(むずか)しくなっている。トランプ氏(し)の行動(こうどう)は、彼(かれ)自身(じしん)に悪影響(あくえいきょう)を及ぼ(およ)す可能性(かんせい)がある。司法省(さぽうしょう)の職員(しょくいん)は、大統領(だいとうりょう)の関与(かんよ)が調査(ちょうさ)を妨(さまた)げていると述べ(のべ)ている。トランプ氏(し)は、自分の行動(こうどう)が将(しょう)来(らい)の問題(もんだい)を引き起こ(ひきおこ)すことを認識(にんしき)している必要(ひつよう)がある。",
-      "vocabulary": [
-        {
-          "word": "関与",
-          "reading": "かんよ",
-          "meaning": "involvement; participation"
-        },
-        {
-          "word": "自身",
+          "word": "地震",
           "reading": "じしん",
-          "meaning": "oneself; oneself's"
+          "meaning": "earthquake"
         },
         {
-          "word": "問題",
-          "reading": "もんだい",
-          "meaning": "problem; issue"
+          "word": "週間",
+          "reading": "しゅうかん",
+          "meaning": "week"
         },
         {
-          "word": "引き起こす",
-          "reading": "ひきおこす",
-          "meaning": "to cause; to trigger"
+          "word": "避難所",
+          "reading": "ひなんしょ",
+          "meaning": "shelter"
         },
         {
-          "word": "処罰",
-          "reading": "しょばつ",
-          "meaning": "punishment; penalty"
+          "word": "断水",
+          "reading": "だんすい",
+          "meaning": "water outage"
         },
         {
-          "word": "可能性",
-          "reading": "かんせい",
-          "meaning": "possibility; probability"
+          "word": "応急復旧",
+          "reading": "おうきゅうふっきゅう",
+          "meaning": "emergency restoration"
         },
         {
-          "word": "承認",
-          "reading": "しょうにん",
-          "meaning": "approval; ratification"
+          "word": "観測",
+          "reading": "かんざい",
+          "meaning": "observation; measurement"
         },
         {
-          "word": "妨げる",
-          "reading": "さまたげる",
-          "meaning": "to hinder; to obstruct"
+          "word": "復旧",
+          "reading": "ふっきゅう",
+          "meaning": "restoration"
+        },
+        {
+          "word": "生活",
+          "reading": "せいかつ",
+          "meaning": "life; living"
         }
       ],
-      "why_it_matters": "This story highlights how Trump's actions in the Justice Department are creating legal and political challenges that could have long-term consequences for him and his administration."
+      "why_it_matters": "This story highlights the ongoing challenges faced by Kumamoto residents after a major earthquake, including casualties, displacement, and infrastructure recovery efforts."
+    },
+    {
+      "source": "NHK News",
+      "category": "Japan News",
+      "title": "イオンモール熊本で働く男性 爆発が起きた時の状況を話す",
+      "link": "http://www3.nhk.or.jp/news/html/20260804/k10015196321000.html",
+      "published": "Tue, 04 Aug 2026 20:47:20 +0900",
+      "japanese_title": "イオンモール(いおんもーる)熊本(くまもと)で働く(はたらく)男性(だんせい) 爆発(ばくはつ)が起きた(おきた)時の(ときの)状況(じょうきょう)を話す(わす)",
+      "english_summary": "A man who was on the first floor of the ION Mall Kumamoto during the explosion that killed seven people has shared details about the situation inside the building at the time. The incident occurred at the ION Mall Kumamoto in Kurume Town, Kumamoto Prefecture.",
+      "japanese_summary": "イオンモール(いおんもーる)熊本(くまもと)で働く(はたらく)男性(だんせい)が、爆発(ばくはつ)が起きた(おきた)時の(ときの)状況(じょうきょう)を話(はな)しました。この男性(だんせい)は、爆発(ばくはつ)の時(とき)、建物(けんぶつ)の1階(いっかい)にい(い)ていた(ていた)と話(はな)しました。爆発(ばくはつ)で7人(しちにん)が死(し)に(に)た(た)ことが報道(ほうとう)されて(されて)います。この男性(だんせい)は、爆発(ばくはつ)の時(とき)の建物(けんぶつ)の内部(ないぶ)の状況(じょうきょう)について(について)詳(くわ)しく(しく)話(はな)しました。イオンモール(いおんもーる)熊本(くまもと)は、熊本県(くまもとけん)嘉島町(かじまちょう)に位(い)つ(つ)いて(いて)います。",
+      "vocabulary": [
+        {
+          "word": "熊本",
+          "reading": "くまもと",
+          "meaning": "Kumamoto Prefecture"
+        },
+        {
+          "word": "働く",
+          "reading": "はたらく",
+          "meaning": "to work"
+        },
+        {
+          "word": "男性",
+          "reading": "だんせい",
+          "meaning": "male"
+        },
+        {
+          "word": "爆発",
+          "reading": "ばくはつ",
+          "meaning": "explosion"
+        },
+        {
+          "word": "状況",
+          "reading": "じょうきょう",
+          "meaning": "situation"
+        },
+        {
+          "word": "建物",
+          "reading": "けんぶつ",
+          "meaning": "building"
+        },
+        {
+          "word": "内部",
+          "reading": "ないぶ",
+          "meaning": "interior"
+        }
+      ],
+      "why_it_matters": "This story is important because it provides firsthand details about the explosion at the ION Mall Kumamoto, which resulted in multiple fatalities and highlights the ongoing investigation into the incident."
     },
     {
       "source": "New York Times",
       "category": "US News",
-      "title": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
-      "link": "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html",
-      "published": "Mon, 03 Aug 2026 13:45:51 +0000",
-      "japanese_title": "カイ・グレンジャー(がい・ぐれんじぇー) 元テキサス州議員(げんてっかさつしゅうぎいん)が83歳で死去(しし)した",
-      "english_summary": "Kay Granger, a pioneering Republican congresswoman from Texas, has died at 83. She was the first Republican woman from Texas to be elected to Congress, and her decision to reside in a senior living facility while still in office sparked controversy in 2024.",
-      "japanese_summary": "カイ・グレンジャー(がい・ぐれんじぇー) 元テキサス州議員(げんてっかさつしゅうぎいん)は83歳で死去(しし)した。彼女(かのじょ)はテキサス州から選出された最初の共和党(こうわとう)女性議員(じょせいぎいん)で、2024年に議員(ぎいん)在職(ざいしょく)中に高齢者(こうれいしゃ)向け住宅(じゅうたく)に住んでいたことが発覚(はっかく)し、世論(せろん)を賑わ(にわ)せた。彼女(かのじょ)は長年(ちょうねん)議会(ぎかい)で活躍(かつやく)し、地域(ちいき)の発展(はつてん)に貢献(こうけん)した。その功績(こうせき)は、多くの人々(ひとびと)に称賛(しょうさん)された。彼女の死は、多くの人々(ひとびと)に深い悲しみ(かなしみ)をもたらした。",
+      "title": "What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?",
+      "link": "https://www.nytimes.com/2026/08/04/us/politics/kansas-primaries-what-to-watch.html",
+      "published": "Tue, 04 Aug 2026 14:33:13 +0000",
+      "japanese_title": "カンサス州の主要選挙(せんきょ)で、共和党(こうわとう)が州知事(しゅちしき)の職(しょく)を取(と)る機会(きかい)はあるか？",
+      "english_summary": "In the Kansas primaries, Republicans are hoping to flip a governor's mansion, which is currently held by Democrats. This race is seen as one of the key opportunities for the party to gain a governorship this year.",
+      "japanese_summary": "カンサス州(かんさすしゅう)の主要(せんがい)選挙(せんきょ)で、共和党(こうわとう)が州知事(しゅちしき)の職(しょく)を取(と)る機会(きかい)があるかどうかが注目(ちゅうもく)されています。この選挙(せんきょ)は、共和党(こうわとう)が今年(ことし)に民主党(みんしゅとう)が持(も)つ州知事(しゅちしき)の職(しょく)を取(と)るための最適(さいてき)な機会(きかい)と見(み)られています。共和党(こうわとう)は、この選挙(せんきょ)が非常に(ひじょうに)重要(じょうよう)だと考(かんが)えています。州知事(しゅちしき)の職(しょく)は、州(しゅう)の政(せい)策(さく)に大きな影響(えいきょう)を及(およ)ぼすため、選挙(せんきょ)の結果(けっか)が注目(ちゅうもく)されています。",
       "vocabulary": [
         {
-          "word": "死去",
-          "reading": "しし",
-          "meaning": "death; passing away"
+          "word": "主要",
+          "reading": "せんがい",
+          "meaning": "main, primary"
         },
         {
-          "word": "共和党",
-          "reading": "こうわとう",
-          "meaning": "Republican Party"
+          "word": "州知事",
+          "reading": "しゅちしき",
+          "meaning": "governor"
         },
         {
-          "word": "高齢者",
-          "reading": "こうれいしゃ",
-          "meaning": "elderly person; senior citizen"
+          "word": "機会",
+          "reading": "きかい",
+          "meaning": "opportunity"
         },
-        {
-          "word": "住宅",
-          "reading": "じゅうたく",
-          "meaning": "residence; housing"
-        },
-        {
-          "word": "発覚",
-          "reading": "はっかく",
-          "meaning": "exposure; discovery"
-        },
-        {
-          "word": "世論",
-          "reading": "せろん",
-          "meaning": "public opinion"
-        },
-        {
-          "word": "賑わ",
-          "reading": "にわ",
-          "meaning": "to become lively; to be bustling"
-        },
-        {
-          "word": "貢献",
-          "reading": "こうけん",
-          "meaning": "contribution; contribution to"
-        },
-        {
-          "word": "称賛",
-          "reading": "しょうさん",
-          "meaning": "praise; commendation"
-        },
-        {
-          "word": "悲しみ",
-          "reading": "かなしみ",
-          "meaning": "sadness; sorrow"
-        }
-      ],
-      "why_it_matters": "This story highlights the life and legacy of a trailblazing political figure and the controversies that surrounded her later years in public service."
-    },
-    {
-      "source": "BBC World",
-      "category": "World News",
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 14:18:30 GMT",
-      "japanese_title": "イラン(いран)はオマーン(おまん)と話(はな)し合(あ)っているが、トランプ(とらんぷ)大統領(だいとうりょう)の話(はな)を信じ(まんにん)ない",
-      "english_summary": "Iran claims it is not in negotiations with the US, but is currently in talks with Oman regarding access to the Strait of Hormuz. This comes after President Trump suggested that negotiations between Iran and the US could resume.",
-      "japanese_summary": "イラン(いらん)は、オマーン(おまん)とストレート・オブ・ホルムズ(すとれーと・おぶ・ほるむず)の通(つう)過(か)権(けん)について話(はな)し合(あ)っていると発表(はっぴょう)しました。一方(いっぽう)で、トランプ(とらんぷ)大統領(だいとうりょう)がイラン(いらん)と米国(べいこく)の交渉(こうしょう)を再開(さいかい)する可能性(かんせい)を示(し)した後(ご)、イラン(いらん)は米国(べいこく)との交渉(こうしょう)は現在(げんざい)行われていないと否定(ひがい)しています。この話(はな)は、国際(こくさい)関係(かんけい)に影響(えいきょう)を与(あた)える可能性(かんせい)があります。イラン(いらん)は、オマーン(おまん)との交渉(こうしょう)を重(じゅう)視(し)していると強調(きょうちょう)しています。国際(こくさい)社会(しゃかい)は、この話(はな)に注(しゅう)目(もく)しています。",
-      "vocabulary": [
-        {
-          "word": "発表",
-          "reading": "はっぴょう",
-          "meaning": "to announce; to make public"
-        },
-        {
-          "word": "一方",
-          "reading": "いっぽう",
-          "meaning": "on the other hand"
-        },
-        {
-          "word": "否定",
-          "reading": "ひがい",
-          "meaning": "to deny; to refute"
-        },
-        {
-          "word": "影響",
-          "reading": "えいきょう",
-          "meaning": "influence; effect"
-        },
-        {
-          "word": "強調",
-          "reading": "きょうちょう",
-          "meaning": "to emphasize; to stress"
-        },
-        {
-          "word": "注目",
-          "reading": "しゅうもく",
-          "meaning": "to pay attention; to focus on"
-        },
-        {
-          "word": "通関",
-          "reading": "つうかん",
-          "meaning": "customs; import/export"
-        },
-        {
-          "word": "国際",
-          "reading": "こくさい",
-          "meaning": "international; global"
-        }
-      ],
-      "why_it_matters": "This story highlights the complex diplomatic relations between Iran, Oman, and the US, and the potential for regional tensions in the Strait of Hormuz."
-    },
-    {
-      "source": "BBC World",
-      "category": "World News",
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 10:58:48 GMT",
-      "japanese_title": "アウン・サン・スー・チー(あうん・さん・すー・ちー)は2.5年(に.ごねん)ぶりの公(こう)の場(ば)で健康(けんこう)そうに見える",
-      "english_summary": "New photos released by Myanmar's military government show Aung San Suu Kyi meeting with an ICRC official, marking her first confirmed public appearance in over two and a half years. The images suggest she appears healthy, raising questions about her well-being during her prolonged detention.",
-      "japanese_summary": "ミャンマー(みゃんマー)の軍(ぐん)政府(せいふ)が新た(あらた)に公開(こうかい)した写真(しゃしん)では、アウン・サン・スー・チー(あうん・さん・すー・ちー)が国際(こくさい)赤(あか)十字(じゅうじ)協会(きょうかい)の担当者(たんとうしゃ)と会(あ)っている様子(ようす)が見(み)える。この会(かい)いは2.5年(に.ごねん)ぶりの公(こう)の場(ば)で、彼女(かのじょ)の健康(けんこう)状態(じょうたい)が注目(ちゅうもく)されている。スー・チー(すー・ちー)は長(なが)期間(きかん)にわたって拘束(こうそく)されており、この写真(しゃしん)は彼女(かのじょ)の状態(じょうたい)がどうなっているかを示(し)している。写真(しゃしん)では彼女(かのじょ)が元気(げんき)そうに見(み)えるが、その実際(じっさい)の健康(けんこう)状態(じょうたい)はまだ分(わか)からない。この出来事(できごと)は、国際(こくさい)社会(しゃかい)の注目(ちゅうもく)を引き(ひ)きつけており、ミャンマー(みゃんマー)政府(せいふ)の対応(たいおう)が注目(ちゅうもく)されている。",
-      "vocabulary": [
-        {
-          "word": "公開",
-          "reading": "こうかい",
-          "meaning": "to make public; to disclose"
-        },
-        {
-          "word": "写真",
-          "reading": "しゃしん",
-          "meaning": "photo; picture"
-        },
-        {
-          "word": "担当者",
-          "reading": "たんとうしゃ",
-          "meaning": "person in charge; responsible person"
-        },
-        {
-          "word": "注目",
-          "reading": "ちゅうもく",
-          "meaning": "to focus attention; to pay attention to"
-        },
-        {
-          "word": "拘束",
-          "reading": "こうそく",
-          "meaning": "to restrain; to confine"
-        },
-        {
-          "word": "状態",
-          "reading": "じょうたい",
-          "meaning": "condition; state"
-        },
-        {
-          "word": "示す",
-          "reading": "しめす",
-          "meaning": "to show; to indicate"
-        },
-        {
-          "word": "対応",
-          "reading": "たいおう",
-          "meaning": "response; measures taken"
-        }
-      ],
-      "why_it_matters": "This story is significant as it provides the first confirmed glimpse of Aung San Suu Kyi's health after a long period of isolation, sparking international interest and concern."
-    },
-    {
-      "source": "BBC World",
-      "category": "World News",
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 03:32:21 GMT",
-      "japanese_title": "「息子は正義のために立ち上がった。」- パキスタン管理キashmirの都市で殺人プロテストに巻き込まれた人々の物語",
-      "english_summary": "The BBC provides rare access to Rawalakot, Pakistan-administered Kashmir, where violent clashes between security forces and protesters have left the city in turmoil. A father recounts how his son was shot while standing up for justice during the protests.",
-      "japanese_summary": "BBCは、パキスタン管理キashmirの都市ラワラコットに初めてアクセスしました。この都市では、治安部隊と抗議者との間に激しい衝突が起きており、多くの人々が被害を受けています。ある父親は、息子が正義のために立ち上がっていたときに撃たれたと語っています。現在、この地域では多くの人が不安を抱えています。抗議活動は、人々の生活に大きな影響を与えています。政府は、状況を落ち着かせるための対策を講じています。",
-      "vocabulary": [
-        {
-          "word": "衝突",
-          "reading": "しょうとつ",
-          "meaning": "collision, clash"
-        },
-        {
-          "word": "治安",
-          "reading": "さいわい",
-          "meaning": "public order, security"
-        },
-        {
-          "word": "抗議",
-          "reading": "こうぎ",
-          "meaning": "protest, objection"
-        },
-        {
-          "word": "被害",
-          "reading": "ひがい",
-          "meaning": "damage, harm"
-        },
-        {
-          "word": "不安",
-          "reading": "ふあん",
-          "meaning": "unease, anxiety"
-        },
-        {
-          "word": "影響",
-          "reading": "えいきょう",
-          "meaning": "impact, influence"
-        },
-        {
-          "word": "対策",
-          "reading": "たいさく",
-          "meaning": "measure, countermeasure"
-        },
-        {
-          "word": "講じ",
-          "reading": "こうじ",
-          "meaning": "take, implement"
-        }
-      ],
-      "why_it_matters": "This story highlights the human cost of political unrest and the importance of understanding global conflicts."
-    },
-    {
-      "source": "BBC Business",
-      "category": "Economic News",
-      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 11:49:41 GMT",
-      "japanese_title": "イラン戦争が始まってから、英国のガソリンスタンドからほぼ毎日20万ポンド相当の燃料が盗まれている",
-      "english_summary": "Since the Iran war began, nearly £200,000 worth of fuel is stolen daily from UK forecourts. Industry analysis shows that incidents of fuel theft have increased by a fifth over five months.",
-      "japanese_summary": "イラン(いらん)戦争(せんそう)が始(し)まってから、イギリス(いぎりす)のガソリンスタンド(がそりんすたんど)からほぼ毎日(まいにち)20万(20まん)ポンド(ぽんど)にあたる燃料(ねんりょう)が盗(ぬ)まれている(ぬまれている)。業界(ぎょうかん)の分析(ぶんせき)によると、燃料(ねんりょう)の盗難(とうなん)事件(じけん)は5か月(がっげつ)で20%増(ぞう)加(か)した(ぞうかした)。この傾向(けいこう)は、価格(かかく)の高(たか)さや需要(ぜんきょう)の増(ぞう)加(か)による(よる)と考(かんが)えられている(かんがえられている)。警察(けいさつ)は、盗難(とうなん)を防(ぼう)ぐ(ぼうぐ)ために、監視(かんし)カメラ(かめら)の設置(せつし)や、従業員(じゅうぎょういん)の教育(きょういく)を強化(きょうか)する(きょうかする)必要(ひつよう)がある(ひつようがある)と提言(ていがん)している(ていがんしている)。この問題(もんだい)は、経済(けいざい)への影響(えいきょう)が大き(おお)いため、関係(かんけい)各方(ほう)が注目(ちゅうもく)している(ちゅうもくしている)。",
-      "vocabulary": [
-        {
-          "word": "戦争",
-          "reading": "せんそう",
-          "meaning": "war"
-        },
-        {
-          "word": "燃料",
-          "reading": "ねんりょう",
-          "meaning": "fuel"
-        },
-        {
-          "word": "盗まれている",
-          "reading": "ぬまれている",
-          "meaning": "are being stolen"
-        },
-        {
-          "word": "分析",
-          "reading": "ぶんせき",
-          "meaning": "analysis"
-        },
-        {
-          "word": "傾向",
-          "reading": "けいこう",
-          "meaning": "trend"
-        },
-        {
-          "word": "価格",
-          "reading": "かかく",
-          "meaning": "price"
-        },
-        {
-          "word": "需要",
-          "reading": "ぜんきょう",
-          "meaning": "demand"
-        },
-        {
-          "word": "警察",
-          "reading": "けいさつ",
-          "meaning": "police"
-        },
-        {
-          "word": "監視",
-          "reading": "かんし",
-          "meaning": "surveillance"
-        },
-        {
-          "word": "従業員",
-          "reading": "じゅうぎょういん",
-          "meaning": "employee"
-        },
-        {
-          "word": "経済",
-          "reading": "けいざい",
-          "meaning": "economy"
-        }
-      ],
-      "why_it_matters": "This story highlights the significant economic and security challenges arising from increased fuel theft in the UK during the Iran war, which could have broader implications for energy markets and public safety."
-    },
-    {
-      "source": "BBC Entertainment & Arts",
-      "category": "Music / Entertainment",
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 10:59:12 GMT",
-      "japanese_title": "アリアナ・グレインド(あるいな・ぐれいんど)は「無限(むげん)の」注目(ちゅうもく)の中(なか)で、公(こう)の場(ば)から距離(きょり)を置(お)くことにする",
-      "english_summary": "Ariana Grande, 33, will step back from public life after her world tour ends next month, according to her representative. The US singer cited 'endless' scrutiny as a reason for this decision.",
-      "japanese_summary": "アリアナ・グレインド(あるいな・ぐれいんど)は、世界(せかい)ツアー(とあー)が来月(らいげつ)終わり(おわり)になるのを機(き)に、公(こう)の場(ば)から離(はな)れることにした(きることにした)。彼女(かのじょ)の代理(だいり)は「無限(むげん)の」注目(ちゅうもく)にさら(さら)されていることから、この選択(せんたく)をした(した)と説明(せつめい)した(した)。この決定(けいとう)は、彼女(かのじょ)のメンタル(めんたる)ヘルス(へるす)を守(まも)るため(ため)のもの(もの)だと説明(せつめい)されている(されている)。アリアナ・グレインド(あるいな・ぐれいんど)は、SNS(えすえぬえす)やメディア(めでぃあ)から離(はな)れることで、自身(じしん)のプライバシー(ぷらいばしー)を守(まも)るため(ため)にこの決定(けいとう)をした(した)。この件(けん)は、芸能人(げいのうじん)が公(こう)の場(ば)で注目(ちゅうもく)を浴(あび)る中(なか)で、自身(じしん)の健康(けんこう)を守(まも)る選択(せんたく)の一つ(いっつ)として注目(ちゅうもく)されている(されている)。",
-      "vocabulary": [
         {
           "word": "注目",
           "reading": "ちゅうもく",
           "meaning": "attention, focus"
         },
         {
-          "word": "公の場",
-          "reading": "こうのば",
-          "meaning": "public place, public life"
+          "word": "最適",
+          "reading": "さいてき",
+          "meaning": "most suitable, optimal"
         },
         {
-          "word": "無限",
-          "reading": "むげん",
-          "meaning": "infinite, endless"
-        },
-        {
-          "word": "代理",
-          "reading": "だいり",
-          "meaning": "agent, representative"
-        },
-        {
-          "word": "芸能人",
-          "reading": "げいのうじん",
-          "meaning": "entertainer, celebrity"
-        },
-        {
-          "word": "健康",
-          "reading": "けんこう",
-          "meaning": "health"
-        }
-      ],
-      "why_it_matters": "This story highlights the pressures faced by celebrities and the importance of mental health in the public eye."
-    },
-    {
-      "source": "BBC Entertainment & Arts",
-      "category": "Music / Entertainment",
-      "title": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
-      "link": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 13:35:45 GMT",
-      "japanese_title": "コラムニスト兼放送局のロッド・リドルが66歳で死去(こらむにすとけんほうそうきょくのろど・りどるがろくじゅうろくさいでしに)。",
-      "english_summary": "Rod Liddle, a British journalist and broadcaster, has died at the age of 66. He passed away in a hospital in Middlesbrough on Sunday.",
-      "japanese_summary": "イギリスのジャーナリスト兼放送局のロッド・リドル(ろど・りどる)が、日曜日にミドルズブラウ(みどるすぶらう)の病院(びょういん)で66歳(ろくじゅうろくさい)で死去(しに)しました。彼(かれ)はコラムニスト(こらむにすと)として有名(ゆうめい)で、多くの人々(ひとびと)に影響(えいきょう)を与え(あた)っていました。リドル氏(し)の死(し)は、家族(かぞく)や友人(ゆうじん)にとって大きな悲しみ(かなしみ)となっています。彼の作品(さくひん)は、多くの読者(だっしゃ)や視聴者(しちょうしゃ)に評価(ひょうか)されています。リドル氏の死(し)は、メディア(メディア)界(かい)にとって大きな損失(そんしょく)となりました。",
-      "vocabulary": [
-        {
-          "word": "放送局",
-          "reading": "ほうそうきょく",
-          "meaning": "broadcasting station"
-        },
-        {
-          "word": "病院",
-          "reading": "びょういん",
-          "meaning": "hospital"
-        },
-        {
-          "word": "有名",
-          "reading": "ゆうめい",
-          "meaning": "famous"
-        },
-        {
-          "word": "影響",
-          "reading": "えいきょう",
-          "meaning": "influence"
-        },
-        {
-          "word": "家族",
-          "reading": "かぞく",
-          "meaning": "family"
-        },
-        {
-          "word": "損失",
-          "reading": "そんしょく",
-          "meaning": "loss"
-        },
-        {
-          "word": "メディア界",
-          "reading": "メディアかい",
-          "meaning": "media industry"
-        }
-      ],
-      "why_it_matters": "Rod Liddle's death is significant as he was a well-known journalist and broadcaster whose work influenced many people."
-    },
-    {
-      "source": "BBC Entertainment & Arts",
-      "category": "Music / Entertainment",
-      "title": "Presenter Tony Livesey leaves BBC Radio 5 Live after 16 years",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6pvv2zgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 12:17:22 GMT",
-      "japanese_title": "プレゼンターのトニー・リヴァジー氏がBBCラジオ5ライブを離れる(すわる)。16年間の活動(こうどう)が終(お)わる",
-      "english_summary": "Presenter Tony Livesey has left BBC Radio 5 Live after 16 years, following allegations against his former boss David Sullivan. He stepped back from his show last month.",
-      "japanese_summary": "プレゼンター(ぷれぜんたー)のトニー・リヴァジー(りばじー)氏(し)が、BBCラジオ5ライブ(びーびーえいるおうごう)を離(はな)れる(すわる)ことになった(なったことになった)。彼(かれ)は16年(ねん)間(かん)、そのラジオ局(きょく)で活(こう)動(どう)していた(した)。この決定(けいとう)は、彼の元(もと)の上司(しゅうし)である(である)デイビッド・サリヴァン(さりゅう)氏(し)に対する(たいする)不正(ふせい)の指摘(してつ)に起(お)因(いん)している(している)。彼(かれ)は先月(せんげつ)、自分の番組(ばんぐみ)から離(はな)れることを発表(はつぱい)した(した)。このニュース(ニュース)は、BBCのエンターテインメント(えんたーてぃんめんと)とアーツ(あーつ)の記事(きじ)から(から)引用(いよう)されている(されている)",
-      "vocabulary": [
-        {
-          "word": "活動",
-          "reading": "こうどう",
-          "meaning": "activity, work"
-        },
-        {
-          "word": "決定",
-          "reading": "けいとう",
-          "meaning": "decision"
-        },
-        {
-          "word": "上司",
-          "reading": "しゅうし",
-          "meaning": "boss, superior"
-        },
-        {
-          "word": "不正",
-          "reading": "ふせい",
-          "meaning": "misconduct, wrongdoing"
-        },
-        {
-          "word": "指摘",
-          "reading": "してつ",
-          "meaning": "accusation, pointing out"
-        },
-        {
-          "word": "起因",
-          "reading": "きいん",
-          "meaning": "cause, origin"
-        },
-        {
-          "word": "発表",
-          "reading": "はつぱい",
-          "meaning": "announcement, declaration"
-        },
-        {
-          "word": "引用",
-          "reading": "いよう",
-          "meaning": "citation, reference"
-        }
-      ],
-      "why_it_matters": "This story highlights the impact of allegations against high-profile individuals on the careers of those associated with them."
-    },
-    {
-      "source": "BBC Sport",
-      "category": "Sports",
-      "title": "English FA set to join Welsh in withdrawing support for Infantino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 07:49:33 GMT",
-      "japanese_title": "インフラント(いんふらんと)氏(し)への支持(しんい)を撤回(てっかい)する - イギリスFA(いぎりすFA)とウェールズ(うぇいるす)の動き(どうい)",
-      "english_summary": "The English Football Association (FA) is preparing to withdraw its support for FIFA President Gianni Infantino, following his abandoned plans to sell stakes in FIFA competitions to private investors. This decision comes amid growing criticism of Infantino's leadership and governance reforms.",
-      "japanese_summary": "イギリスFA(いぎりすFA)は、インフラント(いんふらんと)氏(し)の計画(けいかく)が中止(ちゅうし)になったことについて、支持(しんい)を撤回(てっかい)する準備(じゅんび)をしている。インフラント氏は、FIFA(ふぃふぉあ)の大会(たいかい)の株式(かぶししき)を民間(みんかん)企業(がいきょう)に売却(ばいぎゃく)する計画(けいかく)をしていたが、その計画(けいかく)は中止(ちゅうし)になった。これにより、インフラント氏のリーダーシップ(りーだーしゅぷ)や運営(うんえい)改革(かいかく)への批判(ひいき)が強(つよ)まっている。イギリスFAだけでなく、ウェールズ(うぇいるす)も同様(どうよう)に支持(しんい)を撤回(てっかい)する見込み(みこみ)である。この動き(どうい)は、FIFAの今後の運営(うんえい)に影響(えいきょう)を与(あた)える可能性(かんせい)がある。",
-      "vocabulary": [
-        {
-          "word": "撤回",
-          "reading": "てっかい",
-          "meaning": "to withdraw or retract"
-        },
-        {
-          "word": "計画",
-          "reading": "けいかく",
-          "meaning": "plan or scheme"
-        },
-        {
-          "word": "中止",
-          "reading": "ちゅうし",
-          "meaning": "to cancel or halt"
-        },
-        {
-          "word": "株式",
-          "reading": "かぶししき",
-          "meaning": "stock or share"
-        },
-        {
-          "word": "売却",
-          "reading": "ばいぎゃく",
-          "meaning": "sale or disposal"
-        },
-        {
-          "word": "運営",
-          "reading": "うんえい",
-          "meaning": "management or operation"
-        },
-        {
-          "word": "改革",
-          "reading": "かいかく",
-          "meaning": "reform or renovation"
-        }
-      ],
-      "why_it_matters": "This story highlights the growing discontent within FIFA's member associations over Infantino's controversial governance reforms and financial strategies."
-    },
-    {
-      "source": "BBC Sport",
-      "category": "Sports",
-      "title": "Inside Liverpool's summer so far - should fans be worried?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4g42rz2y89o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 14:12:22 GMT",
-      "japanese_title": "リバプール(リバプール)の今夏(こんげつ)の動き(どうき)について(について) - ファン(ファン)は(は)心配(しんぱい)すべき(すべき)か(か)?",
-      "english_summary": "BBC Sport's Aadam Patel reports on Liverpool's recent activities during their summer tour of the United States. The article examines whether fans should be concerned about the club's current situation and future prospects.",
-      "japanese_summary": "リバプール(リバプール)は(は)今夏(こんげつ)、アメリカ(アメリカ)を(を)ツアー(ツアー)で(で)訪問(ほうもん)しました(しました)。この(この)ツアー(ツアー)で(で)、クラブ(クラブ)の(の)最新(さいしん)の(の)動き(どうき)が(が)報道(ほうとう)されました(されました)。ファン(ファン)は(は)クラブ(クラブ)の(の)現在(げんざい)の(の)状況(じょうきょう)や(や)将来(しょうらい)の(の)見通し(みつうし)に(に)ついて(について)心配(しんぱい)している(している)ようです(ようです)。記事(きじ)では(では)、リバプール(リバプール)の(の)今後の(いまごの)戦略(せんりゃく)や(や)選手(せんし)の(の)獲得(かくとく)が(が)注目(ちゅうもく)されています(されています)。この(この)動き(どうき)が(が)チーム(チーム)の(の)今後(いまご)の(の)成績(せいせき)に(に)どう(どう)影響(えいきょう)を与える(あげる)か(か)が(が)問われ(たがえ)ています(ています)。",
-      "vocabulary": [
-        {
-          "word": "訪問",
-          "reading": "ほうもん",
-          "meaning": "visit"
-        },
-        {
-          "word": "報道",
-          "reading": "ほうとう",
-          "meaning": "reporting; media coverage"
-        },
-        {
-          "word": "状況",
-          "reading": "じょうきょう",
-          "meaning": "situation; condition"
-        },
-        {
-          "word": "見通し",
-          "reading": "みつうし",
-          "meaning": "forecast; outlook"
-        },
-        {
-          "word": "戦略",
-          "reading": "せんりゃく",
-          "meaning": "strategy"
-        },
-        {
-          "word": "獲得",
-          "reading": "かくとく",
-          "meaning": "acquisition; obtaining"
-        },
-        {
-          "word": "注目",
-          "reading": "ちゅうもく",
-          "meaning": "attention; focus"
-        },
-        {
-          "word": "影響",
-          "reading": "えいきょう",
-          "meaning": "influence; effect"
-        }
-      ],
-      "why_it_matters": "This story is relevant for football fans and those interested in international sports tours and club management strategies."
-    },
-    {
-      "source": "BBC Sport",
-      "category": "Sports",
-      "title": "How Mumbai Indians takeover has affected MI London & Surrey",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cyvl6n9d2y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 13:00:13 GMT",
-      "japanese_title": "ムンバイ・インディアンズの買収(ばいしゅう)がMIロンドンとサリー(サリー)に与(あ)える影響(えいきょう)",
-      "english_summary": "This article discusses the impact of Mumbai Indians' takeover on MI London and Surrey. BBC Sport examines changes, continuities, and future prospects following the investment from the Indian Premier League team.",
-      "japanese_summary": "ムンバイ・インディアンズ(むんばい・いんできあんず)の買収(ばいしゅう)がMIロンドン(え็むアイ・ろんどん)とサリー(さーりー)にどのような影響(えいきょう)を与(あ)えるかについて、BBCスポーツ(びいびーすぽーつ)が調べています。買収(ばいしゅう)によって、チーム(チーﾑ)の運営(うんえい)や戦略(せんりゃく)がどのように変(へん)わったかを紹介(しょうかい)しています。また、今後(こんご)の展開(てんかい)や、投資(とうし)がもたらす影響(えいきょう)についても触れています。投資(とうし)によって、新しい人材(にんざい)や設備(せつび)が導入(どうにゅう)され、チーム(チーﾑ)の強化(きょうか)につながる可能性(かんせい)があります。今後(こんご)の動き(うごき)に注目(ちゅうもく)が集(あつ)まっています。",
-      "vocabulary": [
-        {
-          "word": "買収",
-          "reading": "ばいしゅう",
-          "meaning": "takeover, acquisition"
-        },
-        {
-          "word": "影響",
-          "reading": "えいきょう",
-          "meaning": "impact, effect"
-        },
-        {
-          "word": "運営",
-          "reading": "うんえい",
-          "meaning": "management, operation"
-        },
-        {
-          "word": "戦略",
-          "reading": "せんりゃく",
-          "meaning": "strategy"
-        },
-        {
-          "word": "展開",
-          "reading": "てんかい",
-          "meaning": "development, unfolding"
-        },
-        {
-          "word": "投資",
-          "reading": "とうし",
-          "meaning": "investment"
-        },
-        {
-          "word": "導入",
-          "reading": "どうにゅう",
-          "meaning": "introduction, implementation"
-        },
-        {
-          "word": "強化",
-          "reading": "きょうか",
-          "meaning": "strengthening, enhancement"
-        }
-      ],
-      "why_it_matters": "This story highlights the strategic moves and potential impacts of sports team investments, which are relevant to understanding global sports business dynamics."
-    },
-    {
-      "source": "OpenAI News",
-      "category": "Tech",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "link": "https://openai.com/index/ten-advances-in-mathematics",
-      "published": "Sat, 01 Aug 2026 00:00:00 GMT",
-      "japanese_title": "数学(すうがく)と理論(りろん)コンピュータ(こんぴゅーた)科学(かがく)における10の進展(しんてん)",
-      "english_summary": "OpenAI has announced ten significant advances in mathematics and theoretical computer science. These include breakthroughs in geometry, cryptography, and computational complexity, addressing long-standing open problems in these fields.",
-      "japanese_summary": "オープンAI(オープンエイ)は、数学(すうがく)と理論(りろん)コンピュータ(こんぴゅーた)科学(かがく)における10の進展(しんてん)を発表(はつぱい)しました。この中(なか)には、幾何学(きかがく)や暗号(あんごう)技術(ぎじゅつ)、計算(けいさん)複雑性(ふくざつせい)など、長(なが)年(ねん)にわたり解決(かいけつ)されていなかった問題(もんだい)への進展(しんてん)が含まれています。これらの進展(しんてん)は、数学(すうがく)やコンピュータ(こんぴゅーた)科学(かがく)の分野(ぶんや)で新しい可能性(かんせい)を生み出すことになります。オープンAI(オープンエイ)は、今後(こんご)もこうした研究(けんきゅう)を継続(けいぞく)していく予定(よてい)です。また、これらの成果(せいかも)は、学術(がくじゅつ)界(かい)や産業(さんぎょう)界(かい)にとっても大きな影響(えいきょう)を与(あた)えると期待(きたい)されています。",
-      "vocabulary": [
-        {
-          "word": "数学",
-          "reading": "すうがく",
-          "meaning": "mathematics"
-        },
-        {
-          "word": "理論",
-          "reading": "りろん",
-          "meaning": "theory"
-        },
-        {
-          "word": "科学",
-          "reading": "かがく",
-          "meaning": "science"
-        },
-        {
-          "word": "進展",
-          "reading": "しんてん",
-          "meaning": "progress, advancement"
-        },
-        {
-          "word": "幾何学",
-          "reading": "きかがく",
-          "meaning": "geometry"
-        },
-        {
-          "word": "暗号",
-          "reading": "あんごう",
-          "meaning": "cryptography"
-        },
-        {
-          "word": "技術",
-          "reading": "ぎじゅつ",
-          "meaning": "technology"
-        },
-        {
-          "word": "計算",
-          "reading": "けいさん",
-          "meaning": "computation"
-        },
-        {
-          "word": "複雑性",
-          "reading": "ふくざつせい",
-          "meaning": "complexity"
-        },
-        {
-          "word": "解決",
-          "reading": "かいけつ",
-          "meaning": "resolution, solution"
-        },
-        {
-          "word": "分野",
-          "reading": "ぶんや",
-          "meaning": "field, area"
-        },
-        {
-          "word": "可能性",
-          "reading": "かんせい",
-          "meaning": "possibility"
-        },
-        {
-          "word": "継続",
-          "reading": "けいぞく",
-          "meaning": "continuation, continuation"
-        },
-        {
-          "word": "予定",
-          "reading": "よてい",
-          "meaning": "plan, intention"
-        },
-        {
-          "word": "成果",
-          "reading": "せいかも",
-          "meaning": "achievement, result"
-        },
-        {
-          "word": "影響",
-          "reading": "えいきょう",
-          "meaning": "influence, impact"
-        }
-      ],
-      "why_it_matters": "This story highlights significant breakthroughs in mathematics and theoretical computer science that could lead to new technologies and deeper understanding of complex problems."
-    },
-    {
-      "source": "OpenAI News",
-      "category": "Tech",
-      "title": "Advancing responsible AI across Europe",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "japanese_title": "欧州(おうしゅう)における責任(せきにん)あるAIの推進(すいしん)",
-      "english_summary": "OpenAI discusses its efforts to promote responsible AI governance in Europe through safety, security, transparency, and provenance practices. The company highlights these initiatives as the EU AI Act progresses.",
-      "japanese_summary": "OpenAIは、欧州(おうしゅう)において、安全(あんぜん)性(せい)やセキュリティ、透明性(とうめいせい)、出典(しゅつてん)の実践(じっせん)を通じて、責任(せきにん)あるAIの統治(とうち)を推進(すいしん)している。この取り組み(とりくみ)は、EUのAI法(ほう)が進展(しんてん)する中で継続(けいぞく)される。AIの開発(かいはつ)や利用(りよう)において、倫理(りんり)や法規制(ほうきせい)を考慮(かんがえ)することが重要(じょうよう)である。このような取り組み(とりくみ)は、欧州(おうしゅう)全体(ぜんたい)のAIの発展(はつてん)に寄与(きよ)する。また、企業(きぎょう)や政府(せいふ)が協力(きょうりょく)して、AI技術(ぎじゅつ)の適切(てきせつ)な利用(りよう)を実現(じつげん)することも目指(めざ)している。",
-      "vocabulary": [
-        {
-          "word": "推進",
-          "reading": "すいしん",
-          "meaning": "to advance or promote"
-        },
-        {
-          "word": "安全",
-          "reading": "あんぜん",
-          "meaning": "safety"
-        },
-        {
-          "word": "透明性",
-          "reading": "とうめいせい",
-          "meaning": "transparency"
-        },
-        {
-          "word": "出典",
-          "reading": "しゅつてん",
-          "meaning": "provenance or source"
-        },
-        {
-          "word": "統治",
-          "reading": "とうち",
-          "meaning": "governance or administration"
-        },
-        {
-          "word": "取り組み",
-          "reading": "とりくみ",
-          "meaning": "initiative or effort"
-        },
-        {
-          "word": "法規制",
-          "reading": "ほうきせい",
-          "meaning": "regulation or legal restrictions"
-        },
-        {
-          "word": "寄与",
-          "reading": "きよ",
-          "meaning": "contribution or contribution to"
-        }
-      ],
-      "why_it_matters": "This story highlights OpenAI's commitment to responsible AI governance in Europe, which is crucial as the EU AI Act progresses and shapes global AI regulations."
-    },
-    {
-      "source": "OpenAI News",
-      "category": "Tech",
-      "title": "Building abundant intelligence",
-      "link": "https://openai.com/index/building-abundant-intelligence",
-      "published": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "japanese_title": "豊か(とよば)な知(ち)をつくる",
-      "english_summary": "OpenAI introduces a new approach to advanced AI that enhances its capabilities, reduces costs, and increases accessibility for broader use.",
-      "japanese_summary": "オープンAI(OpenAI)は、高度(こうど)なAIをよりよくする方法(ほうほう)を紹介(しょうかい)しました。この方法(ほうほう)を使うと、AIの能力(なにょう)が高(たか)まり、費用(ひよう)が少(すく)なくなり、多くの人(ひと)が使いやすくなります。この方法(ほうほう)は、AIの開発(かいはつ)と使(つか)い方(かた)の両方(りょうほう)に注目(ちゅうもく)しています。これにより、AIはより多くの分野(ぶんや)で使(つか)われるようになり、社会(しゃかい)に良い影響(えいきょう)を与(あた)えることが期待(きたい)されます。この取り組(とりく)みは、AIの発展(はつてん)と普及(ひろまつ)を促進(そしん)するための重要なステップ(せっぷ)です。",
-      "vocabulary": [
-        {
-          "word": "豊か",
-          "reading": "とよば",
-          "meaning": "abundant, rich"
-        },
-        {
-          "word": "知",
-          "reading": "ち",
-          "meaning": "knowledge, wisdom"
-        },
-        {
-          "word": "高度",
-          "reading": "こうど",
-          "meaning": "advanced, high-level"
-        },
-        {
-          "word": "方法",
-          "reading": "ほうほう",
-          "meaning": "method, way"
-        },
-        {
-          "word": "能力",
-          "reading": "なにょう",
-          "meaning": "ability, capability"
-        },
-        {
-          "word": "費用",
-          "reading": "ひよう",
-          "meaning": "cost, expense"
+          "word": "重要",
+          "reading": "じょうよう",
+          "meaning": "important"
         },
         {
           "word": "影響",
@@ -1047,12 +202,855 @@
           "meaning": "influence, effect"
         },
         {
-          "word": "促進",
-          "reading": "そしん",
-          "meaning": "promotion, advancement"
+          "word": "結果",
+          "reading": "けっか",
+          "meaning": "result, outcome"
         }
       ],
-      "why_it_matters": "This story highlights OpenAI's innovative approach to making advanced AI more accessible and affordable, which could significantly impact various industries and society."
+      "why_it_matters": "This story highlights a key political opportunity for Republicans in the Kansas primaries, which could impact the balance of power in the state."
+    },
+    {
+      "source": "New York Times",
+      "category": "US News",
+      "title": "What to Watch in Missouri’s Primaries as Cori Bush Tries to Beat Wesley Bell",
+      "link": "https://www.nytimes.com/2026/08/04/us/politics/missouri-primary-election-bush-bell.html",
+      "published": "Tue, 04 Aug 2026 13:06:49 +0000",
+      "japanese_title": "ミズーリ州の主要選挙(せんきょ)でコリー・バッシュ(こりー・ばっしゅ)がウェスリー・ベル(うぇすりー・べる)を倒(たお)すか注目(ちゅうもく)。",
+      "english_summary": "In Missouri's primaries, former Representative Cori Bush, a progressive member of the 'squad,' is attempting to defeat Representative Wesley Bell, a moderate who ousted her two years ago. The race highlights the shifting dynamics within the Democratic Party.",
+      "japanese_summary": "ミズーリ州(みずーりしゅう)の主要選挙(せんきょ)で、コリー・バッシュ(こりー・ばっしゅ)はウェスリー・ベル(うぇすりー・べる)を倒(たお)すか注目(ちゅうもく)されています。バッシュ(ばっしゅ)さんは、進歩的(しんぽてき)な『スカッド(すかっど)』というグループ(ぐるーぷ)の元(もと)議員(ぎいん)で、ベル(べる)さんは穏健派(おんかんは)の議員(ぎいん)です。2年前(ねんまえ)、ベル(べる)さんがバッシュ(ばっしゅ)さんを罷免(ひまん)したため、再戦(さいせん)が注目(ちゅうもく)されています。この選挙(せんきょ)は、民主党(みんしゅとう)の内(ない)部(ぶ)での対立(たいりつ)を示(し)しています。進歩的(しんぽてき)な立場(たちば)と穏健派(おんかんは)の立場(たちば)の違い(ちがい)が、この選挙(せんきょ)の焦点(せんてん)です。",
+      "vocabulary": [
+        {
+          "word": "選挙",
+          "reading": "せんきょ",
+          "meaning": "election"
+        },
+        {
+          "word": "進歩的",
+          "reading": "しんぽてき",
+          "meaning": "progressive"
+        },
+        {
+          "word": "罷免",
+          "reading": "ひまん",
+          "meaning": "removal from office"
+        },
+        {
+          "word": "再戦",
+          "reading": "さいせん",
+          "meaning": "re-election or rematch"
+        },
+        {
+          "word": "対立",
+          "reading": "たいりつ",
+          "meaning": "conflict or confrontation"
+        },
+        {
+          "word": "焦点",
+          "reading": "せんてん",
+          "meaning": "focus or central issue"
+        },
+        {
+          "word": "民主党",
+          "reading": "みんしゅとう",
+          "meaning": "Democratic Party"
+        }
+      ],
+      "why_it_matters": "This race highlights the internal divisions within the Democratic Party and the evolving dynamics between progressive and moderate factions."
+    },
+    {
+      "source": "New York Times",
+      "category": "US News",
+      "title": "What to Watch in Virginia’s First Primary Since Redistricting Battle",
+      "link": "https://www.nytimes.com/2026/08/04/us/politics/virginia-primary-first-election-redistricting.html",
+      "published": "Tue, 04 Aug 2026 12:24:45 +0000",
+      "japanese_title": "バージニア州の再編成(さいひょうせい)後(ご)の初(しょ)の主要(しゅよう)選挙(せんきょ)に注目(ちゅうもく)する点(てん)とは？",
+      "english_summary": "The article discusses key issues to watch in Virginia's first primary election since the redistricting battle. The redistricting turmoil initially started, then ended, affecting several Democratic candidates' campaigns and pushing others into more competitive races than expected.",
+      "japanese_summary": "バージニア(バージニア)州(しゅう)の再編成(さいひょうせい)後(ご)の初(しょ)の主要(しゅよう)選挙(せんきょ)に注目(ちゅうもく)する点(てん)について(について)説明(せつめい)しています(しています)。再編成(さいひょうせい)の混乱(こんらん)は(は)最初(さいしょ)に始(し)まり、その後(ごう)に終(しゅう)わった(った)が(が)、複数(ふくすう)の民主党(みょうしゅとう)候補者(こうほうしゃ)の選挙戦(せんきょせん)に影響(えいきょう)を及ぼ(およ)して(して)、他の候補者(こうほうしゃ)は(は)予想(よそう)より(より)競争的(きょうそうてき)な選挙(せんきょ)に巻き込(まきこ)まれた(まれた)。この選挙(せんきょ)は(は)州(しゅう)の政治(せいじ)の未来(みらい)を決(き)める(める)重要な(じゅうような)イベント(いわてつ)となる(なる)と(と)考え(かんが)られている(られている)。",
+      "vocabulary": [
+        {
+          "word": "再編成",
+          "reading": "さいひょうせい",
+          "meaning": "redistricting"
+        },
+        {
+          "word": "主要",
+          "reading": "しゅよう",
+          "meaning": "key, main"
+        },
+        {
+          "word": "注目",
+          "reading": "ちゅうもく",
+          "meaning": "attention, focus"
+        },
+        {
+          "word": "混乱",
+          "reading": "こんらん",
+          "meaning": "confusion, turmoil"
+        },
+        {
+          "word": "候補者",
+          "reading": "こうほうしゃ",
+          "meaning": "candidate"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
+        },
+        {
+          "word": "競争的",
+          "reading": "きょうそうてき",
+          "meaning": "competitive"
+        }
+      ],
+      "why_it_matters": "This story is worth knowing about because it highlights the impact of redistricting on political campaigns and elections in Virginia, which can influence future governance and policy decisions."
+    },
+    {
+      "source": "BBC World",
+      "category": "World News",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 14:37:42 GMT",
+      "japanese_title": "チャネルで船(せん)が火(ひ)災(さい)に、150人(にん)以上(いじょう)が救助(きゅうじゅ)された",
+      "english_summary": "Over 150 migrants were rescued after a boat caught fire in the English Channel. The incident occurred when the vessel was attempting to cross to the UK, according to French authorities.",
+      "japanese_summary": "チャネルで船(せん)が火(ひ)災(さい)に、150人(にん)以上(いじょう)が救助(きゅうじゅ)された。船(せん)はイギリス(いぎりす)へ向(む)かっていながら、エンジン(えんじん)から火(ひ)が出て、船(せん)が燃(も)え出した。救助(きゅうじゅ)はフランス(ふらんす)の当局(とうきょ)が行(おこな)った。この事故(じこ)で、150人(にん)以上(いじょう)の移民(いみん)が救助(きゅうじゅ)され、安全(あんぜん)に助(たす)けられた。事故(じこ)の詳(くわ)細(さい)はまだ分(わ)かっていない。",
+      "vocabulary": [
+        {
+          "word": "救助",
+          "reading": "きゅうじゅ",
+          "meaning": "rescue"
+        },
+        {
+          "word": "火災",
+          "reading": "かさい",
+          "meaning": "fire, fire disaster"
+        },
+        {
+          "word": "移民",
+          "reading": "いみん",
+          "meaning": "migrant, immigrant"
+        },
+        {
+          "word": "事故",
+          "reading": "じこ",
+          "meaning": "accident, incident"
+        },
+        {
+          "word": "詳細",
+          "reading": "しょうさい",
+          "meaning": "details, specifics"
+        },
+        {
+          "word": "安全",
+          "reading": "あんぜん",
+          "meaning": "safe, safety"
+        },
+        {
+          "word": "当局",
+          "reading": "とうきょ",
+          "meaning": "authorities, officials"
+        }
+      ],
+      "why_it_matters": "This incident highlights the dangers faced by migrants attempting to cross the English Channel and the challenges of maritime rescue operations."
+    },
+    {
+      "source": "BBC World",
+      "category": "World News",
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 11:19:01 GMT",
+      "japanese_title": "ウクライナ(うくらいな)がモスクワ(むすこわ)地方(ちほう)で5人(にん)を殺(さ)害(がい)した爆撃(ばくげき)を実施(じっし)、ワイルドベリーズ(わいるどべりーず)の施設(しせつ)を攻撃(こうげき)し続(つづ)ける",
+      "english_summary": "Ukraine has attacked more facilities of Wildberries, Russia's largest online retailer, in St. Petersburg and Tver, following a bombing in the Moscow region that killed five people. The attacks mark a continued escalation in the conflict.",
+      "japanese_summary": "ウクライナ(うくらいな)は、モスクワ(むすこわ)地方(ちほう)で5人(にん)を殺(さ)害(がい)した爆撃(ばくげき)を実施(じっし)した後(ご)、ロシア(ろしあ)最大(さいだい)のオンライン(オンライン)小売(しょうりつ)企業(きぎょう)ワイルドベリーズ(わいるどべりーず)の施設(しせつ)を攻撃(こうげき)し続けている。今回の(こんかいの)攻撃(こうげき)は、サンクトペテルブルク(さんこくぺてるぶるく)とトゥラ(とぅら)の施設(しせつ)にも及(およ)び、ロシア(ろしあ)とウクライナ(うくらいな)の間(あいだ)の対立(たいりつ)がさらに悪化(あくか)していることを示(し)している。攻撃(こうげき)を受けた企業(きぎょう)は、ロシア(ろしあ)政府(せいふ)との関係(かんけい)を断(た)つことを決めた。この攻撃(こうげき)により、ロシア(ろしあ)とウクライナ(うくらいな)の緊張(きんちょう)はさらに高(たか)まっている。ウクライナ(うくらいな)は、こうした攻撃(こうげキ)を、ロシア(ろしあ)の侵攻(しんこう)に対する報復(ほうふく)として行(おこな)っている。",
+      "vocabulary": [
+        {
+          "word": "実施",
+          "reading": "じっし",
+          "meaning": "to carry out, to implement"
+        },
+        {
+          "word": "施設",
+          "reading": "しせつ",
+          "meaning": "facility, installation"
+        },
+        {
+          "word": "攻撃",
+          "reading": "こうげき",
+          "meaning": "attack, assault"
+        },
+        {
+          "word": "対立",
+          "reading": "たいりつ",
+          "meaning": "conflict, confrontation"
+        },
+        {
+          "word": "悪化",
+          "reading": "あくか",
+          "meaning": "deterioration, worsening"
+        },
+        {
+          "word": "関係",
+          "reading": "かんけい",
+          "meaning": "relationship, connection"
+        },
+        {
+          "word": "断つ",
+          "reading": "たつ",
+          "meaning": "to cut off, to sever"
+        },
+        {
+          "word": "報復",
+          "reading": "ほうふく",
+          "meaning": "retaliation, revenge"
+        }
+      ],
+      "why_it_matters": "This story highlights the ongoing conflict between Ukraine and Russia, showing how cyber and physical attacks are being used as tools of warfare and retaliation."
+    },
+    {
+      "source": "BBC World",
+      "category": "World News",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 09:11:39 GMT",
+      "japanese_title": "トランプ大統領(だいとうりょう)が主要(せんゆう)同盟国(どうめいこく)から冷たい(つめたい)現実(げんじつ)に直面(ちょくめい)する",
+      "english_summary": "President Trump, accustomed to shaping US politics according to his preferences, has faced two significant setbacks within days, according to BBC's Anthony Zurcher. The article analyzes how Trump's approach is being challenged by his top allies.",
+      "japanese_summary": "トランプ大統領(だいとうりょう)は、アメリカの政治(せいじ)を自分の(じぶんの)やり方(やりかた)に合わせ(あわせ)てきたが、今(いま)や主要(せんゆう)同盟国(どうめいこく)から冷たい(つめたい)現実(げんじつ)に直面(ちょくめい)している。BBCのアンソニー・ズーチャー記者(きしゃ)によると、トランプ氏(し)は数日(すうじつ)のうちに2つの大きな失敗(しっぱい)に直面(ちょくめい)した。これは、トランプ氏(し)のやり方(やりかた)が主要(せんゆう)同盟国(どうめいこく)によって挑戦(ちょうせん)されていることを示(し)している。国際(こくさい)的な問題(もんだい)に対(たい)するアメリカの姿勢(しみょう)が変(へん)化(か)している可能性(かんせい)がある。",
+      "vocabulary": [
+        {
+          "word": "同盟国",
+          "reading": "どうめいこく",
+          "meaning": "ally country"
+        },
+        {
+          "word": "現実",
+          "reading": "げんじつ",
+          "meaning": "reality"
+        },
+        {
+          "word": "直面",
+          "reading": "ちょくめい",
+          "meaning": "face"
+        },
+        {
+          "word": "主要",
+          "reading": "せんゆう",
+          "meaning": "major, main"
+        },
+        {
+          "word": "挑戦",
+          "reading": "ちょうせん",
+          "meaning": "challenge"
+        },
+        {
+          "word": "姿勢",
+          "reading": "しみょう",
+          "meaning": "posture, attitude"
+        },
+        {
+          "word": "変化",
+          "reading": "へんか",
+          "meaning": "change"
+        },
+        {
+          "word": "失敗",
+          "reading": "しっぱい",
+          "meaning": "failure"
+        }
+      ],
+      "why_it_matters": "This highlights the shifting dynamics in international relations and the challenges faced by US leadership under Trump."
+    },
+    {
+      "source": "BBC Business",
+      "category": "Economic News",
+      "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+      "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 10:07:05 GMT",
+      "japanese_title": "BP(ビーピー)の利益(りえき)が2022年(ねん)以来(いらい)で最高(さいこう)に。イラン(いらん)戦争(せんそう)で原油(ゆうえい)価格(かかく)が上昇(じょうしょう)",
+      "english_summary": "BP's profits reached $5.7 billion, the highest since 2022, driven by rising oil prices due to the Iran war. Environmental groups have criticized the company for profiting from the situation.",
+      "japanese_summary": "BP(ビーピー)の利益(りえき)は57億ドル(よんせんひゃくひゃくまんドル)で、2022年(ねん)以来(いらい)で最高(さいこう)になった。これはイラン(いらん)戦争(せんそう)が原油(ゆうえい)価格(かかく)を上昇(じょうしょう)させたためだ。環境(かんきょう)団体(だんたい)は、この状況(じょうきょう)で利益(りえき)を得ることを非難(ひなん)している。エネルギー(エネルギー)企業(きぎょう)の大きな会社(かいしゃ)であるBPは、高い価格(かかく)で多くの利益(りえき)を得ている。この状況(じょうきょう)は、エネルギー(エネルギー)企業(きぎょう)と環境(かんきょう)の関係(かんけい)に影響(えいきょう)を与(あ)えている。",
+      "vocabulary": [
+        {
+          "word": "利益",
+          "reading": "りえき",
+          "meaning": "profit, benefit"
+        },
+        {
+          "word": "以来",
+          "reading": "いらい",
+          "meaning": "since"
+        },
+        {
+          "word": "最高",
+          "reading": "さいこう",
+          "meaning": "highest, peak"
+        },
+        {
+          "word": "戦争",
+          "reading": "せんそう",
+          "meaning": "war"
+        },
+        {
+          "word": "原油",
+          "reading": "ゆうえい",
+          "meaning": "crude oil"
+        },
+        {
+          "word": "価格",
+          "reading": "かかく",
+          "meaning": "price"
+        },
+        {
+          "word": "上昇",
+          "reading": "じょうしょう",
+          "meaning": "rise, increase"
+        },
+        {
+          "word": "非難",
+          "reading": "ひなん",
+          "meaning": "condemnation, criticism"
+        },
+        {
+          "word": "環境",
+          "reading": "かんきょう",
+          "meaning": "environment"
+        },
+        {
+          "word": "企業",
+          "reading": "きぎょう",
+          "meaning": "company, enterprise"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "influence, effect"
+        }
+      ],
+      "why_it_matters": "This story highlights the complex relationship between global conflicts, energy prices, and corporate profits, which is crucial for understanding current economic and environmental issues."
+    },
+    {
+      "source": "BBC Business",
+      "category": "Economic News",
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 13:53:41 GMT",
+      "japanese_title": "トランプ・メディアの「インフルエンシャルなアカウントへのアクセス」販売が物議を醸す",
+      "english_summary": "Trump Media & Technology Group (TMTG) has introduced a paid service allowing Wall Street firms to access Truth Social's most influential accounts. This move has sparked controversy over potential conflicts of interest and the influence of social media on financial markets.",
+      "japanese_summary": "トランプ・メディアとテクノロジー・グループ(トランプ・メディア・アンド・テクノロジー・グループ)は、ウォールストリート(ウォールストリート)の企業に、トゥース・ソーシャル(トゥース・ソーシャル)の最も影響力のあるアカウント(あっこうと)にアクセスする権利を売ることを始めた。このサービス(サービス)は、利益相反(りえいはんせん)の問題や、ソーシャルメディア(ソーシャルメディア)が金融市場(きんちょうしじょう)に与える影響(さしょく)について議論(ぎろん)を呼んでいる。一部の専門家(せんもんか)は、この動き(うごき)が公平な市場(しじょう)の運営(うんえい)を妨(さまた)げる可能性(かんせい)があると指摘(してつ)している。一方で、このサービス(サービス)は、ウォールストリート(ウォールストリート)の企業が市場(しじょう)の動向(どうこう)をより正確に把握(はりょ)できると考えられている。",
+      "vocabulary": [
+        {
+          "word": "影響力",
+          "reading": "えいきょうりょく",
+          "meaning": "influence"
+        },
+        {
+          "word": "利益相反",
+          "reading": "りえいはんせん",
+          "meaning": "conflict of interest"
+        },
+        {
+          "word": "金融市場",
+          "reading": "きんちょうしじょう",
+          "meaning": "financial market"
+        },
+        {
+          "word": "議論",
+          "reading": "ぎろん",
+          "meaning": "discussion"
+        },
+        {
+          "word": "専門家",
+          "reading": "せんもんか",
+          "meaning": "expert"
+        },
+        {
+          "word": "妨げる",
+          "reading": "さまたげる",
+          "meaning": "hinder"
+        },
+        {
+          "word": "動向",
+          "reading": "どうこう",
+          "meaning": "trend"
+        }
+      ],
+      "why_it_matters": "This story highlights the growing intersection between social media and financial markets, raising important questions about transparency and fairness."
+    },
+    {
+      "source": "BBC Business",
+      "category": "Economic News",
+      "title": "Campaigners denied appeal over Gatwick expansion",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 12:25:34 GMT",
+      "japanese_title": "ガットウィック空港(がっとうきっくうこう)の拡張(かっしょう)計画(けいかく)を阻止(そし)する訴訟(そしょう)が却下(きゃっか)された",
+      "english_summary": "Campaigners opposing the expansion of Gatwick Airport's two-runway system have lost their legal battle. Judges ruled that the application to halt the project was 'unarguable', allowing the expansion to proceed.",
+      "japanese_summary": "ガットウィック空港(がっとうきっくうこう)の拡張(かっしょう)計画(けいかく)を阻止(そし)する訴訟(そしょう)が却下(きゃっか)された。裁判所(さばいしょ)は「これは議論(ぎろん)の余地(よち)がない」と述べ(のべ)た。この計画(けいかく)により、空港(くうこう)は現在(げんざい)の1つの滑走路(かっそうろ)から2つの滑走路(かっそうろ)を持つ(もつ)ことになる。環境(かいわ)や騒音(そうおん)の問題(もんだい)が懸念(けねん)されているが、裁判所(さばいしょ)は計画(けいかく)を支持(しじ)した。今後(こんご)、空港(くうこう)の拡張(かっしょう)が進む見込み(みこみ)である。",
+      "vocabulary": [
+        {
+          "word": "拡張",
+          "reading": "かっしょう",
+          "meaning": "expansion"
+        },
+        {
+          "word": "阻止",
+          "reading": "そし",
+          "meaning": "prevent, stop"
+        },
+        {
+          "word": "訴訟",
+          "reading": "そしょう",
+          "meaning": "lawsuit, litigation"
+        },
+        {
+          "word": "却下",
+          "reading": "きゃっか",
+          "meaning": "rejection, denial"
+        },
+        {
+          "word": "裁判所",
+          "reading": "さばいしょ",
+          "meaning": "court, judiciary"
+        },
+        {
+          "word": "議論",
+          "reading": "ぎろん",
+          "meaning": "discussion, debate"
+        },
+        {
+          "word": "余地",
+          "reading": "よち",
+          "meaning": "room, possibility"
+        },
+        {
+          "word": "滑走路",
+          "reading": "かっそうろ",
+          "meaning": "runway"
+        },
+        {
+          "word": "環境",
+          "reading": "かいわ",
+          "meaning": "environment"
+        },
+        {
+          "word": "騒音",
+          "reading": "そうおん",
+          "meaning": "noise"
+        },
+        {
+          "word": "懸念",
+          "reading": "けねん",
+          "meaning": "concern, worry"
+        },
+        {
+          "word": "支持",
+          "reading": "しじ",
+          "meaning": "support, back"
+        },
+        {
+          "word": "見込み",
+          "reading": "みこみ",
+          "meaning": "expectation, likelihood"
+        }
+      ],
+      "why_it_matters": "This ruling highlights the legal and environmental challenges faced by airport expansion projects in the UK."
+    },
+    {
+      "source": "BBC Entertainment & Arts",
+      "category": "Music / Entertainment",
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:25:14 GMT",
+      "japanese_title": "アリアナ・グレインが体に関するコメントにうんざりだが、「注目」は続く",
+      "english_summary": "Ariana Grande has stepped back from the spotlight due to ongoing public scrutiny following her appearances. The singer is tired of body-related comments but acknowledges that the scrutiny will continue.",
+      "japanese_summary": "アリアナ・グレインは、体(たい)の話(わ)題(だい)にうんざり(うんざり)してい る(いる)が、「注目(ちゅうもく)」はつづ(つづ)く(く)。スター(すたー)は、出(で)現(げん)が「無(む)限(げん)に、続(つづ)く(く)公(こう)的な(てき)注目(ちゅうもく)」につな(つな)が(が)った(った)ため、スポットライト(スポットライト)から「一(ひと)歩(ぽ)後(ご)退(たい)」した(した)。グレインは、体(たい)の話(わ)題(だい)にうんざり(うんざり)してい る(いる)が、「注目(ちゅうもく)」はつづ(つづ)く(く)。この状(じょう)況(きょう)は、彼(かの)女(じょ)が「公(こう)的な(てき)注目(ちゅうもく)」にさら(さら)され(され)た(た)ことを示(し)し(し)て(て)いる(いる)。",
+      "vocabulary": [
+        {
+          "word": "体",
+          "reading": "たい",
+          "meaning": "body"
+        },
+        {
+          "word": "注目",
+          "reading": "ちゅうもく",
+          "meaning": "attention; focus"
+        },
+        {
+          "word": "出",
+          "reading": "で",
+          "meaning": "to appear; to come out"
+        },
+        {
+          "word": "現",
+          "reading": "げん",
+          "meaning": "appearance; manifestation"
+        },
+        {
+          "word": "無限",
+          "reading": "むげん",
+          "meaning": "infinite; endless"
+        },
+        {
+          "word": "後退",
+          "reading": "ごたい",
+          "meaning": "retreat; step back"
+        },
+        {
+          "word": "状況",
+          "reading": "じょうきょう",
+          "meaning": "situation; condition"
+        }
+      ],
+      "why_it_matters": "This story highlights the ongoing public scrutiny faced by celebrities and the personal toll it can take, which is a relevant topic for understanding media and celebrity culture."
+    },
+    {
+      "source": "BBC Entertainment & Arts",
+      "category": "Music / Entertainment",
+      "title": "Ed Sheeran fined for failing to insure Aston Martin",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9v0rlj5go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 13:44:37 GMT",
+      "japanese_title": "エド・シーラン(Ed Sheeran)がアストン・マーティン(Aston Martin)の保険(ほけん)をかけていないことを認(みと)めたため、罰金(ばっきん)を科(か)せられた",
+      "english_summary": "Ed Sheeran was fined for not insuring his classic Aston Martin. The car is currently in a workshop for restoration, and Sheeran admitted it was uninsured.",
+      "japanese_summary": "エド・シーラン(Ed Sheeran)は、クラシックカー(クラシックカー)のアストン・マーティン(Aston Martin)を修理(しゅうり)するためにワークショップ(ワークショップ)に預(ゆ)けているが、保険(ほけん)をかけていなかったため罰金(ばっきん)を科(か)せられた。シーラン(シーラン)は、保険(ほけん)をかけていなかったことを認(みと)めた。この出来事(できごと)は、著名人(ちょめいじん)が高価(こうか)な車(くるま)を所有(しょゆう)するときに保険(ほけん)をかける重要(じゅうよう)性(せい)を強調(きょうせい)している。クラシックカー(クラシックカー)は、修理(しゅうり)に時間がかかるため、保険(ほけん)が重要(じゅうよう)である。シーラン(シーラン)は、今後(こんご)は保険(ほけん)をかけることを忘(わす)れないよう注意(ちゅうい)すると言(い)った。",
+      "vocabulary": [
+        {
+          "word": "保険",
+          "reading": "ほけん",
+          "meaning": "insurance"
+        },
+        {
+          "word": "罰金",
+          "reading": "ばっきん",
+          "meaning": "fine"
+        },
+        {
+          "word": "認める",
+          "reading": "みとめる",
+          "meaning": "to admit"
+        },
+        {
+          "word": "著名人",
+          "reading": "ちょめいじん",
+          "meaning": "celebrity"
+        },
+        {
+          "word": "高価",
+          "reading": "こうか",
+          "meaning": "expensive"
+        },
+        {
+          "word": "所有",
+          "reading": "しょゆう",
+          "meaning": "ownership"
+        },
+        {
+          "word": "重要",
+          "reading": "じゅうよう",
+          "meaning": "important"
+        },
+        {
+          "word": "注意",
+          "reading": "ちゅうい",
+          "meaning": "attention, caution"
+        }
+      ],
+      "why_it_matters": "This story highlights the importance of insurance for high-value items, even for celebrities."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "Drinking culture embedded in cricket - Stokes",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 12:16:46 GMT",
+      "japanese_title": "クリケットに飲み文化が根付いていることについて - ストーケス",
+      "english_summary": "Ben Stokes, a prominent English cricketer, acknowledges that drinking is deeply embedded in cricket culture but maintains that the England team he led does not have an alcohol problem. His comments highlight the complex relationship between sports culture and alcohol consumption.",
+      "japanese_summary": "ベン・ストーケス(ベン・ストーケス)は、飲み(のみ)ことがクリケット(クリケット)に根(ね)付(つ)いていることについて語(い)った。彼(かれ)は、自(みず)ら率(ひき)いたイングランド(イングランド)チーム(チーム)にアルコール(アルコール)の問題(もんだい)がないと信じ(しんじ)ている。この話(はなし)は、スポーツ(スポーツ)の文化(ぶんか)とアルコール(アルコール)の関係(かんけい)についての複雑(ふくざつ)な関係(かんけい)を示(し)している。ストーケス(ストーケス)の意見(いけん)は、チーム(チーム)の文化(ぶんか)と選手(せんし)の行動(こうどう)についての議論(ぎろん)を引き(ひき)起こ(おこ)すきっかけ(きっか)となった。この話(はなし)は、スポーツ(スポーツ)とアルコール(アルコール)の関係(かんけい)について多くの人に興味(きょうみ)をもたせるものだ。",
+      "vocabulary": [
+        {
+          "word": "根付いている",
+          "reading": "ねついている",
+          "meaning": "to be deeply rooted"
+        },
+        {
+          "word": "問題",
+          "reading": "もんだい",
+          "meaning": "problem"
+        },
+        {
+          "word": "文化",
+          "reading": "ぶんか",
+          "meaning": "culture"
+        },
+        {
+          "word": "関係",
+          "reading": "かんけい",
+          "meaning": "relationship"
+        },
+        {
+          "word": "複雑",
+          "reading": "ふくざつ",
+          "meaning": "complex"
+        },
+        {
+          "word": "議論",
+          "reading": "ぎろん",
+          "meaning": "discussion"
+        }
+      ],
+      "why_it_matters": "This story highlights the ongoing conversation about alcohol's role in sports culture and the balance between tradition and responsibility."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "Fifa private money plan had to be scrapped - Wenger",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 10:45:14 GMT",
+      "japanese_title": "FIFAの民間資金(みんかんきんせき)計画(けいかく)は中止(ちゅうし)された - レンヌ(レナール)",
+      "english_summary": "FIFA's plan to involve private investment in its competitions has been scrapped. Arsene Wenger, FIFA's chief of global football development, stated that the decision was 'absolutely necessary'.",
+      "japanese_summary": "FIFAは、民間資金(みんかんきんせき)を活用(かつよう)して競技(きょうぎ)に投資(とうし)する計画(けいかく)を中止(ちゅうし)した。この決定(けいとう)について、FIFAのグローバルフットボール開発(かいはつ)責任者(せきにんしゃ)であるアーセン・ウェンガー(あーせん・うぇんがー)氏(し)は、「絶対(ぜったい)に必要(ひつよう)だった」と述べ(のべ)た。この計画(けいかく)は、民間企業(みんかんがいし)の資金(きんせき)を活用(かつよう)して、FIFAの大会(たいかい)を運営(うんえい)することを目的(もくてき)としていた。しかし、いくつかの問題(もんだい)が生じ(しょうじ)たため、計画(けいかく)は中止(ちゅうし)された。今後(こんご)のFIFAの資金(きんせき)のやりくり(やりくり)は、どのように進むか注目(ちゅうもく)されている。",
+      "vocabulary": [
+        {
+          "word": "活用",
+          "reading": "かつよう",
+          "meaning": "utilization; use"
+        },
+        {
+          "word": "計画",
+          "reading": "けいかく",
+          "meaning": "plan; scheme"
+        },
+        {
+          "word": "中止",
+          "reading": "ちゅうし",
+          "meaning": "cancellation; termination"
+        },
+        {
+          "word": "責任者",
+          "reading": "せきにんしゃ",
+          "meaning": "person in charge; responsible person"
+        },
+        {
+          "word": "活用",
+          "reading": "かつよう",
+          "meaning": "utilization; use"
+        },
+        {
+          "word": "問題",
+          "reading": "もんだい",
+          "meaning": "problem; issue"
+        },
+        {
+          "word": "注目",
+          "reading": "ちゅうもく",
+          "meaning": "attention; focus"
+        },
+        {
+          "word": "運営",
+          "reading": "うんえい",
+          "meaning": "management; operation"
+        }
+      ],
+      "why_it_matters": "This story highlights FIFA's financial strategy shift and the challenges in involving private investment in global sports events."
+    },
+    {
+      "source": "BBC Sport",
+      "category": "Sports",
+      "title": "Arsenal in talks to sign Newcastle's Guimaraes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg9k2yvywxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 11:12:13 GMT",
+      "japanese_title": "アーセナル(あーせんる)がニューカッスル(にゅーカっしゅる)のギマラエス(ぎまらえす)の獲得(かくとく)を話し合う(はなしあう)",
+      "english_summary": "Arsenal has initiated direct negotiations with Newcastle United to sign their captain, Bruno Guimaraes. The move signals a potential major transfer in the football world, as Guimaraes is a key player for Newcastle.",
+      "japanese_summary": "アーセナル(あーせんる)がニューカッスル(にゅーカっしゅる)のギマラエス(ぎまラエス)の獲得(かくとく)を話し合う(はなしあう)ことがわかりました。ギマラエス(ぎまラエス)はニューカッスル(にゅーカっしゅる)のキャプテン(きゃぷてん)で、チームの重要な(ほんとうにたいせつない)選手(せんしゅ)です。アーセナル(あーせんる)は彼(かれ)を獲得(かくとく)したいと考え(かんがえ)ています。この話(はなし)は、サッカー(さっかー)の世界(せかい)で大きな(おおきな)移籍(いせき)になる可能性(かんせい)があります。アーセナル(あーせんる)とニューカッスル(にゅーカっしゅる)の交渉(こうしょう)がどうなるか、今後(こんご)の注目(ちゅうもく)が集(あつ)まるでしょう。",
+      "vocabulary": [
+        {
+          "word": "獲得",
+          "reading": "かくとく",
+          "meaning": "acquisition; obtaining"
+        },
+        {
+          "word": "話し合う",
+          "reading": "はなしあう",
+          "meaning": "to discuss; to talk over"
+        },
+        {
+          "word": "重要な",
+          "reading": "ほんとうにたいせつない",
+          "meaning": "important; vital"
+        },
+        {
+          "word": "選手",
+          "reading": "せんしゅ",
+          "meaning": "player; athlete"
+        },
+        {
+          "word": "移籍",
+          "reading": "いせき",
+          "meaning": "transfer; relocation"
+        },
+        {
+          "word": "可能性",
+          "reading": "かんせい",
+          "meaning": "possibility; probability"
+        },
+        {
+          "word": "注目",
+          "reading": "ちゅうもく",
+          "meaning": "attention; focus"
+        }
+      ],
+      "why_it_matters": "This story highlights a significant potential transfer in football, involving a key player from Newcastle United, which could impact both clubs' strategies and fan expectations."
+    },
+    {
+      "source": "OpenAI News",
+      "category": "Tech",
+      "title": "Apple is getting this wrong",
+      "link": "https://openai.com/index/apple-is-getting-this-wrong",
+      "published": "Mon, 03 Aug 2026 22:00:00 GMT",
+      "japanese_title": "アップルはこの点を誤(ご)ってい(いる) ",
+      "english_summary": "OpenAI has responded to Apple's baseless lawsuit, corrected claims about its employees, and shared messages documenting the incident. The dispute highlights ongoing tensions between tech companies over AI and data usage.",
+      "japanese_summary": "オープンAIはアップルの訴訟(そつとう)を誤(ご)ってい(いる)と主張(しゅしょう)し(ました)。訴訟(そつとう)は根拠(こんきょ)がなけれ(ば)ない(と)され(ています)。従業員(じゅうぎょういん)に関する主張(しゅしょう)を訂正(ていせい)し(ました)。その出来事(できごと)を記録(きろく)したメッセージを共有(きょうよ)し(ました)。この件(けん)は、AIやデータ(でーた)の使用(しよう)に関するテクノロジー企業(ぎょうえい)間(かん)の緊張(きんせい)を示(し)してい(ます)。",
+      "vocabulary": [
+        {
+          "word": "訴訟",
+          "reading": "そつとう",
+          "meaning": "lawsuit"
+        },
+        {
+          "word": "根拠",
+          "reading": "こんきょ",
+          "meaning": "basis, justification"
+        },
+        {
+          "word": "訂正",
+          "reading": "ていせい",
+          "meaning": "correction, amendment"
+        },
+        {
+          "word": "記録",
+          "reading": "きろく",
+          "meaning": "record, documentation"
+        },
+        {
+          "word": "共有",
+          "reading": "きょうよ",
+          "meaning": "sharing, common use"
+        },
+        {
+          "word": "緊張",
+          "reading": "きんせい",
+          "meaning": "tension"
+        },
+        {
+          "word": "使用",
+          "reading": "しよう",
+          "meaning": "use, utilization"
+        },
+        {
+          "word": "企業",
+          "reading": "ぎょうえい",
+          "meaning": "company, enterprise"
+        }
+      ],
+      "why_it_matters": "This story highlights the legal and ethical challenges in the AI industry, showing how major companies navigate disputes over data and intellectual property."
+    },
+    {
+      "source": "OpenAI News",
+      "category": "Tech",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "japanese_title": "リアルタイムの音声AIシステムを6か月で構築する方法(リアルタイムのねいおんアイシステムをろくかげつでこうちくするほうほう)",
+      "english_summary": "OpenAI has developed GPT-Live, a system enabling real-time voice interaction with AI. The system uses a turnless speech model and low-latency architecture to allow faster and more natural conversations.",
+      "japanese_summary": "オープンAIは、リアルタイム(リアルタイム)で音声(おんせい)とAI(エーアイ)とをやり取り(やりとり)できるシステム「GPT-Live(ジーピーティー・ライブ)」を6か月(ろっかげつ)で開発(かいはつ)した。このシステムは、スピーチ(スピーチ)のモデル(モデル)が「ターンレス(ターンレス)」で、遅延(ちえん)が少ない構造(こうぞう)を採用(さいよう)している。これにより、ユーザー(ゆーざー)はより速く(よりはやく)、自然(しぜん)な会話(かいわ)が可能(かんのう)になる。AIは、音声(おんせい)を入力(にゅうりょく)として、即座(そくざ)に反応(はんよう)することができ、ユーザー(ゆーざー)の声(こえ)に応じ(おうじ)て、会話(かいわ)を継続(けいぞく)できる。このシステムは、従来(じゅうらい)の方法(ほうほう)よりも、よりスムーズ(すむーず)で、使いやす(つかいやさ)いな体験(たいけん)を提供(ていきょう)する。",
+      "vocabulary": [
+        {
+          "word": "構築",
+          "reading": "こうちく",
+          "meaning": "construction, building"
+        },
+        {
+          "word": "開発",
+          "reading": "かいはつ",
+          "meaning": "development, creation"
+        },
+        {
+          "word": "採用",
+          "reading": "さいよう",
+          "meaning": "adoption, use"
+        },
+        {
+          "word": "構造",
+          "reading": "こうぞう",
+          "meaning": "structure, composition"
+        },
+        {
+          "word": "可能",
+          "reading": "かんのう",
+          "meaning": "possible, feasible"
+        },
+        {
+          "word": "応じ",
+          "reading": "おうじ",
+          "meaning": "respond to, adapt to"
+        },
+        {
+          "word": "継続",
+          "reading": "けいぞく",
+          "meaning": "continuation, continuation"
+        },
+        {
+          "word": "提供",
+          "reading": "ていきょう",
+          "meaning": "provision, supply"
+        }
+      ],
+      "why_it_matters": "This innovation demonstrates how real-time voice AI can be developed quickly, paving the way for more natural and efficient human-AI interactions."
+    },
+    {
+      "source": "OpenAI News",
+      "category": "Tech",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "link": "https://openai.com/index/circles",
+      "published": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "japanese_title": "Circles(サーキルズ)がOpenAI技術(ぎじゅつ)でテレコム(telecom)のパーソナライゼーション(パーソナライゼーション)を強化(きょうか)",
+      "english_summary": "Circles, a telecommunications company, is leveraging OpenAI's API and Codex to enhance personalized services for its customers. This has resulted in a 22% increase in ARPU, a 9% reduction in customer churn, and improved development efficiency.",
+      "japanese_summary": "Circles(サーキルズ)は、OpenAI(オープンエイไอ)のAPI(エーピーアイ)とCodex(コデックス)を活用(かつよう)して、テレコム(telecom)サービス(しょくむ)のパーソナライゼーション(パーソナライゼーション)を強化(きょうか)しています。この取り組みにより、ARPU(ARPU)が22%(にじゅうにパーセント)上昇(じょうしょう)し、離職率(りしょくれつ)が9%(くパーセント)低下(てきてい)しました。また、開発(かいはつ)効率(こうりつ)も向上(こうじょう)しています。Circles(サーキルズ)は、AI(エーアイ)を活用(かつよう)することで、顧客(こきゃく)のニーズ(にーず)に応じ(おうじ)たサービス(しょくむ)を提供(ていきょう)でき、ビジネス(びじねす)の成長(せいちょう)に貢献(こうけん)しています。",
+      "vocabulary": [
+        {
+          "word": "強化",
+          "reading": "きょうか",
+          "meaning": "strengthening, enhancement"
+        },
+        {
+          "word": "活用",
+          "reading": "かつよう",
+          "meaning": "utilization, use"
+        },
+        {
+          "word": "上昇",
+          "reading": "じょうしょう",
+          "meaning": "increase, rise"
+        },
+        {
+          "word": "低下",
+          "reading": "てきてい",
+          "meaning": "decline, decrease"
+        },
+        {
+          "word": "開発",
+          "reading": "かいはつ",
+          "meaning": "development, creation"
+        },
+        {
+          "word": "向上",
+          "reading": "こうじょう",
+          "meaning": "improvement, enhancement"
+        },
+        {
+          "word": "提供",
+          "reading": "ていきょう",
+          "meaning": "provision, supply"
+        }
+      ],
+      "why_it_matters": "This story highlights how AI technology can transform traditional industries like telecommunications by improving customer satisfaction and operational efficiency."
     }
   ]
 }
