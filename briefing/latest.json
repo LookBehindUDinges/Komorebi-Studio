@@ -1,5 +1,112 @@
 {
-  "generated_at": "2026-08-09T17:23:53.929727+00:00",
+  "generated_at": "2026-08-28T21:58:24.132171+00:00",
   "model": "qwen3:14b",
-  "articles": []
+  "articles": [
+    {
+      "source": "NHK News",
+      "category": "Japan News",
+      "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
+      "published": "Sat, 08 Aug 2026 21:54:30 +0900",
+      "japanese_title": "台風(たいふう)13号(ごう) 影響(えいきょう)は長(ひさ)い時間(じかん)続(つづ)く 警戒(けいがい)を 台風(たいふう)15号(ごう)の動(うご)きは?",
+      "english_summary": "Typhoon 13, a large and extremely strong storm, is moving west of Okinawa Main Island. Heavy winds and rain are expected to affect Okinawa and Amami for an extended period, prompting strict vigilance against landslides and other disasters. The movement of Typhoon 15 remains under observation.",
+      "japanese_summary": "台風(たいふう)13号(ごう)は、大(おお)型(がた)で、非常(ひじょう)に強(つよい)い台風(たいふう)です。この台風(たいふう)は、沖縄(おきなわ)本島(ほんとう)の西(にし)の海(うみ)上(じょう)を進(すす)んでいます。沖縄(おきなわ)と奄美(あまみ)では、風(かぜ)や雨(あめ)の影響(えいきょう)が長(ひさ)い時間(じかん)続(つづ)いていて、土砂災害(どしゃさいがい)などに厳重(げんちょう)な警戒(けいがい)を続(つづ)けてください。台風(たいふう)15号(ごう)の動(うご)きは、今(いま)後(ご)の気(き)象(しょう)の変(へん)化(か)に注(しゅつ)目(もく)が集(しゅう)まっています。",
+      "vocabulary": [
+        {
+          "word": "台風",
+          "reading": "たいふう",
+          "meaning": "typhoon"
+        },
+        {
+          "word": "影響",
+          "reading": "えいきょう",
+          "meaning": "effect, influence"
+        },
+        {
+          "word": "長時間",
+          "reading": "ひさいうま",
+          "meaning": "long period of time"
+        },
+        {
+          "word": "警戒",
+          "reading": "けいがい",
+          "meaning": "vigilance, caution"
+        },
+        {
+          "word": "土砂災害",
+          "reading": "どしゃさいがい",
+          "meaning": "landslide disaster"
+        },
+        {
+          "word": "厳重",
+          "reading": "げんちょう",
+          "meaning": "strict, rigorous"
+        },
+        {
+          "word": "動く",
+          "reading": "うごく",
+          "meaning": "to move"
+        },
+        {
+          "word": "注目",
+          "reading": "しゅつもく",
+          "meaning": "attention, focus"
+        }
+      ],
+      "why_it_matters": "This story is important as it highlights the ongoing threat of typhoons in Japan, emphasizing the need for vigilance and preparedness in affected regions."
+    },
+    {
+      "source": "NHK News",
+      "category": "Japan News",
+      "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
+      "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
+      "published": "Sat, 08 Aug 2026 23:17:32 +0900",
+      "japanese_title": "北(ほく)日本(にほん)と東(とう)日本(にほん)中心(ちゅうしん) 9日(ここのち)も大気(たいき)の状態(じょうたい)が非常に(ひじょうに)不安定(ふあんてい)の見込み(みこみ)",
+      "english_summary": "On August 8, a large area from northern Japan to western Japan experienced very unstable atmospheric conditions, leading to seven meteorological disaster alerts for 'record-breaking short-term heavy rain.' Unstable conditions are expected to continue on August 9, requiring caution against flooding in low-lying areas and sudden river surges.",
+      "japanese_summary": "8日(よろしく)は、北(ほく)日本(にほん)から西(にし)日本(にほん)にかけての広(ひろ)い範囲(はんい)で、大気(たいき)の状態(じょうたい)が非常に(ひじょうに)不安定(ふあんてい)になっただけでなく、局地的(きょくてきてき)な大雨(おおあめ)が発生(はっせい)しました。このため、気象(きしょう)防災(ぼうさい)速報(そほう)が7回(かい)発表(はっぴょう)されました。9日(ここのち)も大気(たいき)の状態(じょうたい)が非常に(ひじょうに)不安定(ふあんてい)になる見込み(みこみ)で、低い(ひくい)土地(ちじ)の浸水(しんすい)や、急(きゅう)な川(かわ)の増水(ぞうすい)などに十分(じゅうぶん)注意(ちゅうい)が必要(ひつよう)です。",
+      "vocabulary": [
+        {
+          "word": "日本",
+          "reading": "にほん",
+          "meaning": "Japan"
+        },
+        {
+          "word": "中心",
+          "reading": "ちゅうしん",
+          "meaning": "center"
+        },
+        {
+          "word": "状態",
+          "reading": "じょうたい",
+          "meaning": "state, condition"
+        },
+        {
+          "word": "不安定",
+          "reading": "ふあんてい",
+          "meaning": "unstable"
+        },
+        {
+          "word": "範囲",
+          "reading": "はんい",
+          "meaning": "range, scope"
+        },
+        {
+          "word": "発生",
+          "reading": "はっせい",
+          "meaning": "occurrence, occurrence"
+        },
+        {
+          "word": "注意",
+          "reading": "ちゅうい",
+          "meaning": "attention, caution"
+        },
+        {
+          "word": "増水",
+          "reading": "ぞうすい",
+          "meaning": "rising water level"
+        }
+      ],
+      "why_it_matters": "This news is important for people planning to travel or live in northern and eastern Japan, as it highlights the need to be prepared for sudden weather changes and potential flooding."
+    }
+  ]
 }
